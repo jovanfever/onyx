@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "Averta";
+    src: url("Averta-RegularItalic.woff2") format("woff2"),url("Averta-RegularItalic.woff") format("woff");
+    font-weight: normal;
+    font-style: italic
+}
+
+@font-face {
+    font-family: "Averta";
+    src: url("Averta-Regular.woff2") format("woff2"),url("Averta-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal
+}
+
+@font-face {
+    font-family: "Averta";
+    src: url("Averta-Semibold.woff2") format("woff2"),url("Averta-Semibold.woff") format("woff");
+    font-weight: 600;
+    font-style: normal
+}
+
+@font-face {
+    font-family: "Averta";
+    src: url("Averta-SemiboldItalic.woff2") format("woff2"),url("Averta-SemiboldItalic.woff") format("woff");
+    font-weight: 600;
+    font-style: italic
+}
+
+@font-face {
+    font-family: "Averta";
+    src: url("Averta-Bold.woff2") format("woff2"),url("Averta-Bold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal
+}
+
+@font-face {
+    font-family: "Averta";
+    src: url("Averta-BoldItalic.woff2") format("woff2"),url("Averta-BoldItalic.woff") format("woff");
+    font-weight: bold;
+    font-style: italic
+}
