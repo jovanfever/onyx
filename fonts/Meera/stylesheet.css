@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Meera';
+    src: url('Meera.eot');
+    src: url('Meera.eot?#iefix') format('embedded-opentype'),
+        url('Meera.woff2') format('woff2'),
+        url('Meera.woff') format('woff'),
+        url('Meera.ttf') format('truetype'),
+        url('Meera.svg#Meera') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
