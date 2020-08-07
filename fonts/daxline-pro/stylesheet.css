@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'DaxlinePro';
+    src: url('DaxlinePro-Light.eot');
+    src: local('DaxlinePro-Light'),
+        url('DaxlinePro-Light.eot?#iefix') format('embedded-opentype'),
+        url('DaxlinePro-Light.woff') format('woff'),
+        url('DaxlinePro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DaxlinePro';
+    src: url('DaxlinePro-ExtraBold.eot');
+    src: local('DaxlinePro-ExtraBold'),
+        url('DaxlinePro-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('DaxlinePro-ExtraBold.woff') format('woff'),
+        url('DaxlinePro-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DaxlinePro';
+    src: url('DaxlinePro-Bold.eot');
+    src: local('DaxlinePro-Bold'),
+        url('DaxlinePro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('DaxlinePro-Bold.woff') format('woff'),
+        url('DaxlinePro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DaxlinePro';
+    src: url('DaxlinePro-Medium.eot');
+    src: local('DaxlinePro-Medium'),
+        url('DaxlinePro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('DaxlinePro-Medium.woff') format('woff'),
+        url('DaxlinePro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DaxlinePro';
+    src: url('DaxlinePro-Thin.eot');
+    src: local('DaxlinePro-Thin'),
+        url('DaxlinePro-Thin.eot?#iefix') format('embedded-opentype'),
+        url('DaxlinePro-Thin.woff') format('woff'),
+        url('DaxlinePro-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DaxlinePro';
+    src: url('DaxlinePro-Black.eot');
+    src: local('DaxlinePro-Black'),
+        url('DaxlinePro-Black.eot?#iefix') format('embedded-opentype'),
+        url('DaxlinePro-Black.woff') format('woff'),
+        url('DaxlinePro-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DaxlinePro';
+    src: url('DaxlinePro-Regular.eot');
+    src: local('DaxlinePro-Regular'),
+        url('DaxlinePro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('DaxlinePro-Regular.woff') format('woff'),
+        url('DaxlinePro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

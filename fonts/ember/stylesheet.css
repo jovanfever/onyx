@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Amazon Ember';
+    src: url('AmazonEmber-Regular.eot');
+    src: url('AmazonEmber-Regular.eot?#iefix') format('embedded-opentype'),
+        url('AmazonEmber-Regular.woff2') format('woff2'),
+        url('AmazonEmber-Regular.woff') format('woff'),
+        url('AmazonEmber-Regular.ttf') format('truetype'),
+        url('AmazonEmber-Regular.svg#AmazonEmber-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Amazon Ember';
+    src: url('AmazonEmber-Light.eot');
+    src: url('AmazonEmber-Light.eot?#iefix') format('embedded-opentype'),
+        url('AmazonEmber-Light.woff2') format('woff2'),
+        url('AmazonEmber-Light.woff') format('woff'),
+        url('AmazonEmber-Light.ttf') format('truetype'),
+        url('AmazonEmber-Light.svg#AmazonEmber-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Amazon Ember';
+    src: url('AmazonEmber-Bold.eot');
+    src: url('AmazonEmber-Bold.eot?#iefix') format('embedded-opentype'),
+        url('AmazonEmber-Bold.woff2') format('woff2'),
+        url('AmazonEmber-Bold.woff') format('woff'),
+        url('AmazonEmber-Bold.ttf') format('truetype'),
+        url('AmazonEmber-Bold.svg#AmazonEmber-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+

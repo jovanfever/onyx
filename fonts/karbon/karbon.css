@@ -1,0 +1,168 @@
+@font-face {
+    font-family: 'Karbon';
+    src: url('Karbon-Medium.eot');
+    src: url('Karbon-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Karbon-Medium.woff2') format('woff2'),
+        url('Karbon-Medium.woff') format('woff'),
+        url('Karbon-Medium.ttf') format('truetype'),
+        url('Karbon-Medium.svg#Karbon-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Karbon';
+    src: url('Karbon-MediumItalic.eot');
+    src: url('Karbon-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('Karbon-MediumItalic.woff2') format('woff2'),
+        url('Karbon-MediumItalic.woff') format('woff'),
+        url('Karbon-MediumItalic.ttf') format('truetype'),
+        url('Karbon-MediumItalic.svg#Karbon-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Karbon';
+    src: url('Karbon-Thin.eot');
+    src: url('Karbon-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Karbon-Thin.woff2') format('woff2'),
+        url('Karbon-Thin.woff') format('woff'),
+        url('Karbon-Thin.ttf') format('truetype'),
+        url('Karbon-Thin.svg#Karbon-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Karbon';
+    src: url('Karbon-Bold.eot');
+    src: url('Karbon-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Karbon-Bold.woff2') format('woff2'),
+        url('Karbon-Bold.woff') format('woff'),
+        url('Karbon-Bold.ttf') format('truetype'),
+        url('Karbon-Bold.svg#Karbon-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Karbon';
+    src: url('Karbon-HairlineItalic.eot');
+    src: url('Karbon-HairlineItalic.eot?#iefix') format('embedded-opentype'),
+        url('Karbon-HairlineItalic.woff2') format('woff2'),
+        url('Karbon-HairlineItalic.woff') format('woff'),
+        url('Karbon-HairlineItalic.ttf') format('truetype'),
+        url('Karbon-HairlineItalic.svg#Karbon-HairlineItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Karbon';
+    src: url('Karbon-LightItalic.eot');
+    src: url('Karbon-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Karbon-LightItalic.woff2') format('woff2'),
+        url('Karbon-LightItalic.woff') format('woff'),
+        url('Karbon-LightItalic.ttf') format('truetype'),
+        url('Karbon-LightItalic.svg#Karbon-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Karbon';
+    src: url('Karbon-Semibold.eot');
+    src: url('Karbon-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('Karbon-Semibold.woff2') format('woff2'),
+        url('Karbon-Semibold.woff') format('woff'),
+        url('Karbon-Semibold.ttf') format('truetype'),
+        url('Karbon-Semibold.svg#Karbon-Semibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Karbon';
+    src: url('Karbon-Regular.eot');
+    src: url('Karbon-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Karbon-Regular.woff2') format('woff2'),
+        url('Karbon-Regular.woff') format('woff'),
+        url('Karbon-Regular.ttf') format('truetype'),
+        url('Karbon-Regular.svg#Karbon-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Karbon';
+    src: url('Karbon-RegularItalic.eot');
+    src: url('Karbon-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('Karbon-RegularItalic.woff2') format('woff2'),
+        url('Karbon-RegularItalic.woff') format('woff'),
+        url('Karbon-RegularItalic.ttf') format('truetype'),
+        url('Karbon-RegularItalic.svg#Karbon-RegularItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Karbon';
+    src: url('Karbon-Light.eot');
+    src: url('Karbon-Light.eot?#iefix') format('embedded-opentype'),
+        url('Karbon-Light.woff2') format('woff2'),
+        url('Karbon-Light.woff') format('woff'),
+        url('Karbon-Light.ttf') format('truetype'),
+        url('Karbon-Light.svg#Karbon-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Karbon';
+    src: url('Karbon-BoldItalic.eot');
+    src: url('Karbon-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Karbon-BoldItalic.woff2') format('woff2'),
+        url('Karbon-BoldItalic.woff') format('woff'),
+        url('Karbon-BoldItalic.ttf') format('truetype'),
+        url('Karbon-BoldItalic.svg#Karbon-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Karbon';
+    src: url('Karbon-ThinItalic.eot');
+    src: url('Karbon-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('Karbon-ThinItalic.woff2') format('woff2'),
+        url('Karbon-ThinItalic.woff') format('woff'),
+        url('Karbon-ThinItalic.ttf') format('truetype'),
+        url('Karbon-ThinItalic.svg#Karbon-ThinItalic') format('svg');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Karbon';
+    src: url('Karbon-SemiboldItalic.eot');
+    src: url('Karbon-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Karbon-SemiboldItalic.woff2') format('woff2'),
+        url('Karbon-SemiboldItalic.woff') format('woff'),
+        url('Karbon-SemiboldItalic.ttf') format('truetype'),
+        url('Karbon-SemiboldItalic.svg#Karbon-SemiboldItalic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Karbon';
+    src: url('Karbon-Hairline.eot');
+    src: url('Karbon-Hairline.eot?#iefix') format('embedded-opentype'),
+        url('Karbon-Hairline.woff2') format('woff2'),
+        url('Karbon-Hairline.woff') format('woff'),
+        url('Karbon-Hairline.ttf') format('truetype'),
+        url('Karbon-Hairline.svg#Karbon-Hairline') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

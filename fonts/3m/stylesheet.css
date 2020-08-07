@@ -1,0 +1,24 @@
+@font-face {
+    font-family: '3m';
+    src: url('Dowzbndbcvbtdrpsiwlszdekppg.eot');
+    src: url('Dowzbndbcvbtdrpsiwlszdekppg.eot?#iefix') format('embedded-opentype'),
+        url('Dowzbndbcvbtdrpsiwlszdekppg.woff2') format('woff2'),
+        url('Dowzbndbcvbtdrpsiwlszdekppg.woff') format('woff'),
+        url('Dowzbndbcvbtdrpsiwlszdekppg.ttf') format('truetype'),
+        url('Dowzbndbcvbtdrpsiwlszdekppg.svg#Dowzbndbcvbtdrpsiwlszdekppg') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '3m';
+    src: url('Okwmiiyaaqiomzruoesyeeerqih.eot');
+    src: url('Okwmiiyaaqiomzruoesyeeerqih.eot?#iefix') format('embedded-opentype'),
+        url('Okwmiiyaaqiomzruoesyeeerqih.woff2') format('woff2'),
+        url('Okwmiiyaaqiomzruoesyeeerqih.woff') format('woff'),
+        url('Okwmiiyaaqiomzruoesyeeerqih.ttf') format('truetype'),
+        url('Okwmiiyaaqiomzruoesyeeerqih.svg#Okwmiiyaaqiomzruoesyeeerqih') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+

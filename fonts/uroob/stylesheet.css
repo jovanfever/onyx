@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Uroob';
+    src: url('Uroob-Regular.eot');
+    src: url('Uroob-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Uroob-Regular.woff2') format('woff2'),
+        url('Uroob-Regular.woff') format('woff'),
+        url('Uroob-Regular.ttf') format('truetype'),
+        url('Uroob-Regular.svg#Uroob-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
