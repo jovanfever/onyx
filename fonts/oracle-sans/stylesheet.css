@@ -1,0 +1,323 @@
+@font-face{
+	font-display:fallback;
+	font-family:"OracleSansVF";
+	src:url("OracleSansVF.woff2") format("woff2");
+	font-weight:275 800;
+	font-style:normal
+}
+@font-face{
+	font-display:fallback;
+	font-family:"OracleSansVF";
+	src:url("OracleSansVF-Cond.woff2") format("woff2");
+	font-weight:300 700;
+	font-style:normal;
+	font-stretch:75% 99%
+}
+@font-face{
+	font-display:fallback;
+	font-family:"OracleSansVFCyGr";
+	src:url("OracleSansVF-CyGr.woff2") format("woff2");
+	font-weight:275 800;
+	font-style:normal
+}
+@font-face{
+	font-display:fallback;
+	font-family:"OracleSansVF";
+	src:url("OracleSansVF-It.woff2") format("woff2");
+	font-weight:275 800;
+	font-style:italic
+}
+@font-face{
+	font-display:fallback;
+	font-family:"OracleSansVF";
+	src:url("OracleSansVF-Cond-It.woff2") format("woff2");
+	font-weight:300 700;
+	font-style:italic;
+	font-stretch:75% 99%
+}
+@font-face{
+	font-display:fallback;
+	font-family:"OracleSansVFCyGr";
+	src:url("OracleSansVF-CyGr-It.woff2") format("woff2");
+	font-weight:275 800;
+	font-style:italic
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	src:url("OracleSans-ULt.woff2") format("woff2"),url("OracleSans-ULt.woff") format("woff");
+	font-weight:100;
+	font-style:normal
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	src:url("OracleSans-ULt.woff2") format("woff2"),url("OracleSans-ULt.woff") format("woff");
+	font-weight:200;
+	font-style:normal
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	src:url("OracleSans-Lt.woff2") format("woff2"),url("OracleSans-Lt.woff") format("woff");
+	font-weight:300;
+	font-style:normal
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	src:url("OracleSans-Rg.woff2") format("woff2"),url("OracleSans-Rg.woff") format("woff");
+	font-weight:400;
+	font-style:normal
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	src:url("OracleSans-Rg.woff2") format("woff2"),url("OracleSans-Rg.woff") format("woff");
+	font-weight:500;
+	font-style:normal
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	src:url("OracleSans-SBd.woff2") format("woff2"),url("OracleSans-SBd.woff") format("woff");
+	font-weight:600;
+	font-style:normal
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	src:url("OracleSans-Bd.woff2") format("woff2"),url("OracleSans-Bd.woff") format("woff");
+	font-weight:700;
+	font-style:normal
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	src:url("OracleSans-XBd.woff2") format("woff2"),url("OracleSans-XBd.woff") format("woff");
+	font-weight:800;
+	font-style:normal
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	src:url("OracleSans-XBd.woff2") format("woff2"),url("OracleSans-XBd.woff") format("woff");
+	font-weight:900;
+	font-style:normal
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	src:url("OracleSans-ULtIt.woff2") format("woff2"),url("OracleSans-ULtIt.woff") format("woff");
+	font-weight:100;
+	font-style:italic
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	src:url("OracleSans-ULtIt.woff2") format("woff2"),url("OracleSans-ULtIt.woff") format("woff");
+	font-weight:200;
+	font-style:italic
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	src:url("OracleSans-LtIt.woff2") format("woff2"),url("OracleSans-LtIt.woff") format("woff");
+	font-weight:300;
+	font-style:italic
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	src:url("OracleSans-It.woff2") format("woff2"),url("OracleSans-It.woff") format("woff");
+	font-weight:400;
+	font-style:italic
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	src:url("OracleSans-It.woff2") format("woff2"),url("OracleSans-It.woff") format("woff");
+	font-weight:500;
+	font-style:italic
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	src:url("OracleSans-SBdIt.woff2") format("woff2"),url("OracleSans-SBdIt.woff") format("woff");
+	font-weight:600;
+	font-style:italic
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	src:url("OracleSans-BdIt.woff2") format("woff2"),url("OracleSans-BdIt.woff") format("woff");
+	font-weight:700;
+	font-style:italic
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	src:url("OracleSans-XBdIt.woff2") format("woff2"),url("OracleSans-XBdIt.woff") format("woff");
+	font-weight:800;
+	font-style:italic
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	src:url("OracleSans-XBdIt.woff2") format("woff2"),url("OracleSans-XBdIt.woff") format("woff");
+	font-weight:900;
+	font-style:italic
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	font-weight:100;
+	font-stretch:condensed;
+	src:url("OracleSansCd-Lt.woff2") format("woff2");
+	src:url("OracleSansCd-Lt.woff") format("woff")
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	font-weight:200;
+	font-stretch:condensed;
+	src:url("OracleSansCd-Lt.woff2") format("woff2");
+	src:url("OracleSansCd-Lt.woff") format("woff")
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	font-weight:300;
+	font-stretch:condensed;
+	src:url("OracleSansCd-Lt.woff2") format("woff2");
+	src:url("OracleSansCd-Lt.woff") format("woff")
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	font-weight:400;
+	font-stretch:condensed;
+	src:url("OracleSansCd-Rg.woff2") format("woff2");
+	src:url("OracleSansCd-Rg.woff") format("woff")
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	font-weight:500;
+	font-stretch:condensed;
+	src:url("OracleSansCd-Rg.woff2") format("woff2");
+	src:url("OracleSansCd-Rg.woff") format("woff")
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	font-weight:600;
+	font-stretch:condensed;
+	src:url("OracleSansCd-Rg.woff2") format("woff2");
+	src:url("OracleSansCd-Rg.woff") format("woff")
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	font-weight:700;
+	font-stretch:condensed;
+	src:url("OracleSansCd-Bd.woff2") format("woff2");
+	src:url("OracleSansCd-Bd.woff") format("woff")
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	font-weight:800;
+	font-stretch:condensed;
+	src:url("OracleSansCd-Bd.woff2") format("woff2");
+	src:url("OracleSansCd-Bd.woff") format("woff")
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	font-weight:900;
+	font-stretch:condensed;
+	src:url("OracleSansCd-Bd.woff2") format("woff2");
+	src:url("OracleSansCd-Bd.woff") format("woff")
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	font-weight:100;
+	font-style:italic;
+	font-stretch:condensed;
+	src:url("OracleSansCd-LtIt.woff2") format("woff2");
+	src:url("OracleSansCd-LtIt.woff") format("woff")
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	font-weight:200;
+	font-style:italic;
+	font-stretch:condensed;
+	src:url("OracleSansCd-LtIt.woff2") format("woff2");
+	src:url("OracleSansCd-LtIt.woff") format("woff")
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	font-weight:300;
+	font-style:italic;
+	font-stretch:condensed;
+	src:url("OracleSansCd-LtIt.woff2") format("woff2");
+	src:url("OracleSansCd-LtIt.woff") format("woff")
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	font-weight:400;
+	font-style:italic;
+	font-stretch:condensed;
+	src:url("OracleSansCd-It.woff2") format("woff2");
+	src:url("OracleSansCd-It.woff") format("woff")
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	font-weight:500;
+	font-style:italic;
+	font-stretch:condensed;
+	src:url("OracleSansCd-It.woff2") format("woff2");
+	src:url("OracleSansCd-It.woff") format("woff")
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	font-weight:600;
+	font-style:italic;
+	font-stretch:condensed;
+	src:url("OracleSansCd-It.woff2") format("woff2");
+	src:url("OracleSansCd-It.woff") format("woff")
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	font-weight:700;
+	font-style:italic;
+	font-stretch:condensed;
+	src:url("OracleSansCd-BdIt.woff2") format("woff2");
+	src:url("OracleSansCd-BdIt.woff") format("woff")
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	font-weight:800;
+	font-style:italic;
+	font-stretch:condensed;
+	src:url("OracleSansCd-BdIt.woff2") format("woff2");
+	src:url("OracleSansCd-BdIt.woff") format("woff")
+}
+@font-face{
+	font-display:fallback;
+	font-family:"Oracle Sans";
+	font-weight:900;
+	font-style:italic;
+	font-stretch:condensed;
+	src:url("OracleSansCd-BdIt.woff2") format("woff2");
+	src:url("OracleSansCd-BdIt.woff") format("woff")
+}

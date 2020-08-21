@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'Praxis-Regular';
+    src: url('PraxisW01-Bold.eot');
+    src: url('PraxisW01-Bold.eot?#iefix') format('embedded-opentype'),
+        url('PraxisW01-Bold.woff2') format('woff2'),
+        url('PraxisW01-Bold.woff') format('woff'),
+        url('PraxisW01-Bold.ttf') format('truetype'),
+        url('PraxisW01-Bold.svg#PraxisW01-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Praxis-LightOblique';
+    src: url('PraxisW01-LightOblique.eot');
+    src: url('PraxisW01-LightOblique.eot?#iefix') format('embedded-opentype'),
+        url('PraxisW01-LightOblique.woff2') format('woff2'),
+        url('PraxisW01-LightOblique.woff') format('woff'),
+        url('PraxisW01-LightOblique.ttf') format('truetype'),
+        url('PraxisW01-LightOblique.svg#PraxisW01-LightOblique') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Praxis-Regular';
+    src: url('PraxisW01-Regular.eot');
+    src: url('PraxisW01-Regular.eot?#iefix') format('embedded-opentype'),
+        url('PraxisW01-Regular.woff2') format('woff2'),
+        url('PraxisW01-Regular.woff') format('woff'),
+        url('PraxisW01-Regular.ttf') format('truetype'),
+        url('PraxisW01-Regular.svg#PraxisW01-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Praxis-RegularOblique';
+    src: url('PraxisW01-RegularOblique.eot');
+    src: url('PraxisW01-RegularOblique.eot?#iefix') format('embedded-opentype'),
+        url('PraxisW01-RegularOblique.woff2') format('woff2'),
+        url('PraxisW01-RegularOblique.woff') format('woff'),
+        url('PraxisW01-RegularOblique.ttf') format('truetype'),
+        url('PraxisW01-RegularOblique.svg#PraxisW01-RegularOblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Praxis-Regular';
+    src: url('PraxisW01-Heavy.eot');
+    src: url('PraxisW01-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('PraxisW01-Heavy.woff2') format('woff2'),
+        url('PraxisW01-Heavy.woff') format('woff'),
+        url('PraxisW01-Heavy.ttf') format('truetype'),
+        url('PraxisW01-Heavy.svg#PraxisW01-Heavy') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Praxis-BoldOblique';
+    src: url('PraxisW01-BoldOblique.eot');
+    src: url('PraxisW01-BoldOblique.eot?#iefix') format('embedded-opentype'),
+        url('PraxisW01-BoldOblique.woff2') format('woff2'),
+        url('PraxisW01-BoldOblique.woff') format('woff'),
+        url('PraxisW01-BoldOblique.ttf') format('truetype'),
+        url('PraxisW01-BoldOblique.svg#PraxisW01-BoldOblique') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Praxis-Regular';
+    src: url('PraxisW01-SemiBold.eot');
+    src: url('PraxisW01-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('PraxisW01-SemiBold.woff2') format('woff2'),
+        url('PraxisW01-SemiBold.woff') format('woff'),
+        url('PraxisW01-SemiBold.ttf') format('truetype'),
+        url('PraxisW01-SemiBold.svg#PraxisW01-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Praxis-SemiBoldOblique';
+    src: url('PraxisW01-SemiBoldOblique.eot');
+    src: url('PraxisW01-SemiBoldOblique.eot?#iefix') format('embedded-opentype'),
+        url('PraxisW01-SemiBoldOblique.woff2') format('woff2'),
+        url('PraxisW01-SemiBoldOblique.woff') format('woff'),
+        url('PraxisW01-SemiBoldOblique.ttf') format('truetype'),
+        url('PraxisW01-SemiBoldOblique.svg#PraxisW01-SemiBoldOblique') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Praxis-HeavyOblique';
+    src: url('PraxisW01-HeavyOblique.eot');
+    src: url('PraxisW01-HeavyOblique.eot?#iefix') format('embedded-opentype'),
+        url('PraxisW01-HeavyOblique.woff2') format('woff2'),
+        url('PraxisW01-HeavyOblique.woff') format('woff'),
+        url('PraxisW01-HeavyOblique.ttf') format('truetype'),
+        url('PraxisW01-HeavyOblique.svg#PraxisW01-HeavyOblique') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Praxis-Regular';
+    src: url('PraxisW01-Light.eot');
+    src: url('PraxisW01-Light.eot?#iefix') format('embedded-opentype'),
+        url('PraxisW01-Light.woff2') format('woff2'),
+        url('PraxisW01-Light.woff') format('woff'),
+        url('PraxisW01-Light.ttf') format('truetype'),
+        url('PraxisW01-Light.svg#PraxisW01-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
