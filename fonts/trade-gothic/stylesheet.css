@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'Trade Gothic LT Com';
+    src: url('TradeGothicLTCom-BdCn20.eot');
+    src: url('TradeGothicLTCom-BdCn20.eot?#iefix') format('embedded-opentype'),
+        url('TradeGothicLTCom-BdCn20.woff2') format('woff2'),
+        url('TradeGothicLTCom-BdCn20.woff') format('woff'),
+        url('TradeGothicLTCom-BdCn20.ttf') format('truetype'),
+        url('TradeGothicLTCom-BdCn20.svg#TradeGothicLTCom-BdCn20') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Trade Gothic LT Pro';
+    src: url('TradeGothicLTPro-Light.eot');
+    src: url('TradeGothicLTPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('TradeGothicLTPro-Light.woff2') format('woff2'),
+        url('TradeGothicLTPro-Light.woff') format('woff'),
+        url('TradeGothicLTPro-Light.ttf') format('truetype'),
+        url('TradeGothicLTPro-Light.svg#TradeGothicLTPro-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Trade Gothic LT Com';
+    src: url('TradeGothicLTCom-Cn18.eot');
+    src: url('TradeGothicLTCom-Cn18.eot?#iefix') format('embedded-opentype'),
+        url('TradeGothicLTCom-Cn18.woff2') format('woff2'),
+        url('TradeGothicLTCom-Cn18.woff') format('woff'),
+        url('TradeGothicLTCom-Cn18.ttf') format('truetype'),
+        url('TradeGothicLTCom-Cn18.svg#TradeGothicLTCom-Cn18') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Trade Gothic LT Pro';
+    src: url('TradeGothicLTPro.eot');
+    src: url('TradeGothicLTPro.eot?#iefix') format('embedded-opentype'),
+        url('TradeGothicLTPro.woff2') format('woff2'),
+        url('TradeGothicLTPro.woff') format('woff'),
+        url('TradeGothicLTPro.ttf') format('truetype'),
+        url('TradeGothicLTPro.svg#TradeGothicLTPro') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Trade Gothic LT Com';
+    src: url('TradeGothicLTCom-Bold.eot');
+    src: url('TradeGothicLTCom-Bold.eot?#iefix') format('embedded-opentype'),
+        url('TradeGothicLTCom-Bold.woff2') format('woff2'),
+        url('TradeGothicLTCom-Bold.woff') format('woff'),
+        url('TradeGothicLTCom-Bold.ttf') format('truetype'),
+        url('TradeGothicLTCom-Bold.svg#TradeGothicLTCom-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
