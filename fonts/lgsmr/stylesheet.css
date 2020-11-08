@@ -1,0 +1,23 @@
+  @font-face {
+    font-family: "lgsmr";
+    font-weight: 300;
+    src: local("LG_Smart_UI-Light"), url("LG_Smart_UI-Light.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: "lgsmr";
+    font-weight: 400;
+    src: local("LG_Smart_UI-Regular"), url("LG_Smart_UI-Regular.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: "lgsmr";
+    font-weight: 500;
+    src: local("LG_Smart_UI-SemiBold"), url("LG_Smart_UI-SemiBold.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: "lgsmr";
+    font-weight: 700;
+    src: local("LG_Smart_UI-Bold"), url("LG_Smart_UI-Bold.woff") format("woff");
+  }
