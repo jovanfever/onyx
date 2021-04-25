@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'BrandonTextWeb';
+    src: url('BrandonTextWeb-Medium.eot');
+    src: url('BrandonTextWeb-Medium.eot?#iefix') format('embedded-opentype'),
+        url('BrandonTextWeb-Medium.woff2') format('woff2'),
+        url('BrandonTextWeb-Medium.woff') format('woff'),
+        url('BrandonTextWeb-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BrandonTextWeb';
+    src: url('BrandonTextWeb-Light.eot');
+    src: url('BrandonTextWeb-Light.eot?#iefix') format('embedded-opentype'),
+        url('BrandonTextWeb-Light.woff2') format('woff2'),
+        url('BrandonTextWeb-Light.woff') format('woff'),
+        url('BrandonTextWeb-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BrandonTextWeb';
+    src: url('BrandonTextWeb-Thin.eot');
+    src: url('BrandonTextWeb-Thin.eot?#iefix') format('embedded-opentype'),
+        url('BrandonTextWeb-Thin.woff2') format('woff2'),
+        url('BrandonTextWeb-Thin.woff') format('woff'),
+        url('BrandonTextWeb-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BrandonTextWeb';
+    src: url('BrandonTextWeb-Bold.eot');
+    src: url('BrandonTextWeb-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BrandonTextWeb-Bold.woff2') format('woff2'),
+        url('BrandonTextWeb-Bold.woff') format('woff'),
+        url('BrandonTextWeb-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BrandonTextWeb';
+    src: url('BrandonTextWeb-Regular.eot');
+    src: url('BrandonTextWeb-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BrandonTextWeb-Regular.woff2') format('woff2'),
+        url('BrandonTextWeb-Regular.woff') format('woff'),
+        url('BrandonTextWeb-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BrandonTextWeb';
+    src: url('BrandonTextWeb-Black.eot');
+    src: url('BrandonTextWeb-Black.eot?#iefix') format('embedded-opentype'),
+        url('BrandonTextWeb-Black.woff2') format('woff2'),
+        url('BrandonTextWeb-Black.woff') format('woff'),
+        url('BrandonTextWeb-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
