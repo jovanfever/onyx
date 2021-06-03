@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'Metro Sans';
+    src: url('MetroSans-Bold.woff2') format('woff2'),
+        url('MetroSans-Bold.woff') format('woff'),
+        url('MetroSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metro Sans';
+    src: url('MetroSans-BoldItalic.woff2') format('woff2'),
+        url('MetroSans-BoldItalic.woff') format('woff'),
+        url('MetroSans-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metro Sans';
+    src: url('MetroSans-BookItalic.woff2') format('woff2'),
+        url('MetroSans-BookItalic.woff') format('woff'),
+        url('MetroSans-BookItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metro Sans';
+    src: url('MetroSans-LightItalic.woff2') format('woff2'),
+        url('MetroSans-LightItalic.woff') format('woff'),
+        url('MetroSans-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metro Sans';
+    src: url('MetroSans-Book.woff2') format('woff2'),
+        url('MetroSans-Book.woff') format('woff'),
+        url('MetroSans-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metro Sans';
+    src: url('MetroSans-Light.woff2') format('woff2'),
+        url('MetroSans-Light.woff') format('woff'),
+        url('MetroSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metro Sans';
+    src: url('MetroSans-MediumItalic.woff2') format('woff2'),
+        url('MetroSans-MediumItalic.woff') format('woff'),
+        url('MetroSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metro Sans';
+    src: url('MetroSans-RegularItalic.woff2') format('woff2'),
+        url('MetroSans-RegularItalic.woff') format('woff'),
+        url('MetroSans-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metro Sans';
+    src: url('MetroSans-SemiBold.woff2') format('woff2'),
+        url('MetroSans-SemiBold.woff') format('woff'),
+        url('MetroSans-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metro Sans';
+    src: url('MetroSans-Medium.woff2') format('woff2'),
+        url('MetroSans-Medium.woff') format('woff'),
+        url('MetroSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metro Sans';
+    src: url('MetroSans-Regular.woff2') format('woff2'),
+        url('MetroSans-Regular.woff') format('woff'),
+        url('MetroSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metro Sans';
+    src: url('MetroSans-SemiBoldItalic.woff2') format('woff2'),
+        url('MetroSans-SemiBoldItalic.woff') format('woff'),
+        url('MetroSans-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
