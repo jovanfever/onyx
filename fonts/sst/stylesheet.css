@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'SST';
+    src: url('SST-Heavy.eot');
+    src: local('SST Heavy'), local('SST-Heavy'),
+        url('SST-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('SST-Heavy.woff2') format('woff2'),
+        url('SST-Heavy.woff') format('woff'),
+        url('SST-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SST';
+    src: url('SST-BoldItalic.eot');
+    src: local('SST Bold Italic'), local('SST-BoldItalic'),
+        url('SST-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('SST-BoldItalic.woff2') format('woff2'),
+        url('SST-BoldItalic.woff') format('woff'),
+        url('SST-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SST';
+    src: url('SST-Bold.eot');
+    src: local('SST Bold'), local('SST-Bold'),
+        url('SST-Bold.eot?#iefix') format('embedded-opentype'),
+        url('SST-Bold.woff2') format('woff2'),
+        url('SST-Bold.woff') format('woff'),
+        url('SST-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SST';
+    src: url('SST-Medium.eot');
+    src: local('SST Medium'), local('SST-Medium'),
+        url('SST-Medium.eot?#iefix') format('embedded-opentype'),
+        url('SST-Medium.woff2') format('woff2'),
+        url('SST-Medium.woff') format('woff'),
+        url('SST-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SST';
+    src: url('SST-MediumItalic.eot');
+    src: local('SST Medium Italic'), local('SST-MediumItalic'),
+        url('SST-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('SST-MediumItalic.woff2') format('woff2'),
+        url('SST-MediumItalic.woff') format('woff'),
+        url('SST-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SST Ultra';
+    src: url('SST-UltraLightItalic.eot');
+    src: local('SST Ultra Light Italic'), local('SST-UltraLightItalic'),
+        url('SST-UltraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('SST-UltraLightItalic.woff2') format('woff2'),
+        url('SST-UltraLightItalic.woff') format('woff'),
+        url('SST-UltraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SST';
+    src: url('SST-HeavyItalic.eot');
+    src: local('SST Heavy Italic'), local('SST-HeavyItalic'),
+        url('SST-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('SST-HeavyItalic.woff2') format('woff2'),
+        url('SST-HeavyItalic.woff') format('woff'),
+        url('SST-HeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SST';
+    src: url('SST-Roman.eot');
+    src: local('SST Roman'), local('SST-Roman'),
+        url('SST-Roman.eot?#iefix') format('embedded-opentype'),
+        url('SST-Roman.woff2') format('woff2'),
+        url('SST-Roman.woff') format('woff'),
+        url('SST-Roman.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SST';
+    src: url('SST-LightItalic.eot');
+    src: local('SST Light Italic'), local('SST-LightItalic'),
+        url('SST-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('SST-LightItalic.woff2') format('woff2'),
+        url('SST-LightItalic.woff') format('woff'),
+        url('SST-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SST';
+    src: url('SST-Italic.eot');
+    src: local('SST Italic'), local('SST-Italic'),
+        url('SST-Italic.eot?#iefix') format('embedded-opentype'),
+        url('SST-Italic.woff2') format('woff2'),
+        url('SST-Italic.woff') format('woff'),
+        url('SST-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SST Ultra';
+    src: url('SST-UltraLight.eot');
+    src: local('SST Ultra Light'), local('SST-UltraLight'),
+        url('SST-UltraLight.eot?#iefix') format('embedded-opentype'),
+        url('SST-UltraLight.woff2') format('woff2'),
+        url('SST-UltraLight.woff') format('woff'),
+        url('SST-UltraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SST';
+    src: url('SST-Light.eot');
+    src: local('SST Light'), local('SST-Light'),
+        url('SST-Light.eot?#iefix') format('embedded-opentype'),
+        url('SST-Light.woff2') format('woff2'),
+        url('SST-Light.woff') format('woff'),
+        url('SST-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
