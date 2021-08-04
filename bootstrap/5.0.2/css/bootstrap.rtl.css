@@ -627,9 +627,9 @@ progress {
     max-width: 1320px;
   }
 }
-@media (min-width: 1500px) {
+@media (min-width: 1600px) {
   .container-xxxl, .container-xxl, .container-xl, .container-lg, .container-md, .container-sm, .container {
-    max-width: 1600px;
+    max-width: 1500px;
   }
 }
 .row {
@@ -889,7 +889,7 @@ progress {
     width: 16.6666666667%;
   }
 }
-@media (min-width: 1500px) {
+@media (min-width: 1600px) {
   .col-xxxl {
     flex: 1 0 0%;
   }
@@ -1968,7 +1968,7 @@ progress {
     --bs-gutter-y: 3rem;
   }
 }
-@media (min-width: 1500px) {
+@media (min-width: 1600px) {
   .col-xxxl-auto {
     flex: 0 0 auto;
     width: auto;
@@ -2338,7 +2338,7 @@ progress {
     -webkit-overflow-scrolling: touch;
   }
 }
-@media (max-width: 1499.98px) {
+@media (max-width: 1599.98px) {
   .table-responsive-xxxl {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
@@ -3802,7 +3802,7 @@ textarea.form-control-lg {
     right: auto;
   }
 }
-@media (min-width: 1500px) {
+@media (min-width: 1600px) {
   .dropdown-menu-xxxl-start {
     --bs-position: start;
   }
@@ -4394,7 +4394,7 @@ textarea.form-control-lg {
     display: none;
   }
 }
-@media (min-width: 1500px) {
+@media (min-width: 1600px) {
   .navbar-expand-xxxl {
     flex-wrap: nowrap;
     justify-content: flex-start;
@@ -5279,7 +5279,7 @@ textarea.form-control-lg {
     border-right-width: 1px;
   }
 }
-@media (min-width: 1500px) {
+@media (min-width: 1600px) {
   .list-group-horizontal-xxxl {
     flex-direction: row;
   }
@@ -5790,7 +5790,7 @@ textarea.form-control-lg {
     border-radius: 0;
   }
 }
-@media (max-width: 1499.98px) {
+@media (max-width: 1599.98px) {
   .modal-fullscreen-xxxl-down {
     width: 100vw;
     max-width: none;
@@ -6548,7 +6548,7 @@ textarea.form-control-lg {
     z-index: 1020;
   }
 }
-@media (min-width: 1500px) {
+@media (min-width: 1600px) {
   .sticky-xxxl-top {
     position: -webkit-sticky;
     position: sticky;
@@ -11076,7 +11076,7 @@ textarea.form-control-lg {
     text-align: center !important;
   }
 }
-@media (min-width: 1500px) {
+@media (min-width: 1600px) {
   .float-xxxl-start {
     float: right !important;
   }
