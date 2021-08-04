@@ -60,10 +60,10 @@
 }
 
 .link-dark {
-  color: #7f8c8d;
+  color: #34495e;
 }
 .link-dark:hover, .link-dark:focus {
-  color: #99a3a4;
+  color: #2a3a4b;
 }
 
 .ratio {
@@ -457,7 +457,7 @@
 }
 
 .border-dark {
-  border-color: #7f8c8d !important;
+  border-color: #34495e !important;
 }
 
 .border-white {
@@ -1286,7 +1286,7 @@
 }
 
 .text-dark {
-  color: #7f8c8d !important;
+  color: #34495e !important;
 }
 
 .text-white {
@@ -1342,7 +1342,7 @@
 }
 
 .bg-dark {
-  background-color: #7f8c8d !important;
+  background-color: #34495e !important;
 }
 
 .bg-body {
