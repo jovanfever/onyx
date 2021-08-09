@@ -1,0 +1,72 @@
+@font-face {
+    font-family: '3M Circular TT';
+    src: url('3MCircularTT-Black.woff2') format('woff2'),
+        url('3MCircularTT-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '3M Circular TT Book';
+    src: url('3MCircularTTBook.woff2') format('woff2'),
+        url('3MCircularTTBook.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '3M Circular TT Book';
+    src: url('3MCircularTTBoldItalic.woff2') format('woff2'),
+        url('3MCircularTTBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '3M Circular TT';
+    src: url('3MCircularTTBlackItalic.woff2') format('woff2'),
+        url('3MCircularTTBlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '3M Circular TT Book';
+    src: url('3MCircularTT-BookItalic.woff2') format('woff2'),
+        url('3MCircularTT-BookItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '3M Circular TT';
+    src: url('3MCircularTT-Light.woff2') format('woff2'),
+        url('3MCircularTT-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '3M Circular TT Book';
+    src: url('3MCircularTTBold.woff2') format('woff2'),
+        url('3MCircularTTBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '3M Circular TT';
+    src: url('3MCircularTTLightItalic.woff2') format('woff2'),
+        url('3MCircularTTLightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
