@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'splunksans';
+    src: url('c12f5faf08f3e849c0a2d9694b64867d.woff2') format('woff2'), url('c12f5faf08f3e849c0a2d9694b64867d.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'splunksans';
+    src: url('576809a9477150f9c6c504241c8284e0.woff2') format('woff2'), url('576809a9477150f9c6c504241c8284e0.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'splunksans';
+    src: url('e3edf0b7037dc17a2ccc4dc5eb903d13.woff2') format('woff2'), url('e3edf0b7037dc17a2ccc4dc5eb903d13.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'splunksans';
+    src: url('20ed4ca76f38a566d0bb22b96e776e5e.woff2') format('woff2'), url('20ed4ca76f38a566d0bb22b96e776e5e.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'splunksans';
+    src: url('b8622bcb72fe54882e7488f3eb9d70f9.woff2') format('woff2'), url('b8622bcb72fe54882e7488f3eb9d70f9.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'splunksans';
+    src: url('b3ad4ca5822cc30b1841effc914e5eac.woff2') format('woff2'), url('b3ad4ca5822cc30b1841effc914e5eac.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
