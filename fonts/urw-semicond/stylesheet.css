@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'URW Form SemiCond Extra LightIt';
+    src: url('URWFormSemiCond-ExtLtIta.woff2') format('woff2'),
+        url('URWFormSemiCond-ExtLtIta.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form SemiCond Extra Bold It';
+    src: url('URWFormSemiCond-ExtBdIta.woff2') format('woff2'),
+        url('URWFormSemiCond-ExtBdIta.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form SemiCond Demi';
+    src: url('URWFormSemiCond-Demi.woff2') format('woff2'),
+        url('URWFormSemiCond-Demi.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form SemiCond Demi';
+    src: url('URWFormSemiCond-DemiItalic.woff2') format('woff2'),
+        url('URWFormSemiCond-DemiItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form SemiCond';
+    src: url('URWFormSemiCond-Bold.woff2') format('woff2'),
+        url('URWFormSemiCond-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form SemiCond';
+    src: url('URWFormSemiCond-BoldItalic.woff2') format('woff2'),
+        url('URWFormSemiCond-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form SemiCond';
+    src: url('URWFormSemiCond-MediumItalic.woff2') format('woff2'),
+        url('URWFormSemiCond-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form SemiCond';
+    src: url('URWFormSemiCond-Light.woff2') format('woff2'),
+        url('URWFormSemiCond-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form SemiCond';
+    src: url('URWFormSemiCond-HeavyItalic.woff2') format('woff2'),
+        url('URWFormSemiCond-HeavyItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form SemiCond';
+    src: url('URWFormSemiCond-LightItalic.woff2') format('woff2'),
+        url('URWFormSemiCond-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form SemiCond Extra';
+    src: url('URWFormSemiCond-ExtraBold.woff2') format('woff2'),
+        url('URWFormSemiCond-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form SemiCond Extra';
+    src: url('URWFormSemiCond-ExtraLight.woff2') format('woff2'),
+        url('URWFormSemiCond-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form SemiCond';
+    src: url('URWFormSemiCond-Medium.woff2') format('woff2'),
+        url('URWFormSemiCond-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form SemiCond';
+    src: url('URWFormSemiCond-Heavy.woff2') format('woff2'),
+        url('URWFormSemiCond-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form SemiCond';
+    src: url('URWFormSemiCond-Italic.woff2') format('woff2'),
+        url('URWFormSemiCond-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form SemiCond Poster';
+    src: url('URWFormSemiCond-PosterItalic.woff2') format('woff2'),
+        url('URWFormSemiCond-PosterItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form SemiCond';
+    src: url('URWFormSemiCond-ThinItalic.woff2') format('woff2'),
+        url('URWFormSemiCond-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form SemiCond';
+    src: url('URWFormSemiCond-Thin.woff2') format('woff2'),
+        url('URWFormSemiCond-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form SemiCond';
+    src: url('URWFormSemiCond-Regular.woff2') format('woff2'),
+        url('URWFormSemiCond-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form SemiCond Poster';
+    src: url('URWFormSemiCond-Poster.woff2') format('woff2'),
+        url('URWFormSemiCond-Poster.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+

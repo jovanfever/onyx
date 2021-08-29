@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'URW Form';
+    src: url('URWForm-BoldItalic.woff2') format('woff2'),
+        url('URWForm-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form';
+    src: url('URWForm-ThinItalic.woff2') format('woff2'),
+        url('URWForm-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form';
+    src: url('URWForm-Bold.woff2') format('woff2'),
+        url('URWForm-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form';
+    src: url('URWForm-Heavy.woff2') format('woff2'),
+        url('URWForm-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form Extra';
+    src: url('URWForm-ExtraBold.woff2') format('woff2'),
+        url('URWForm-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form';
+    src: url('URWForm-Italic.woff2') format('woff2'),
+        url('URWForm-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form Extra';
+    src: url('URWForm-ExtraLightItalic.woff2') format('woff2'),
+        url('URWForm-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form Extra';
+    src: url('URWForm-ExtraLight.woff2') format('woff2'),
+        url('URWForm-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form Demi';
+    src: url('URWForm-Demi.woff2') format('woff2'),
+        url('URWForm-Demi.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form Demi';
+    src: url('URWForm-DemiItalic.woff2') format('woff2'),
+        url('URWForm-DemiItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form';
+    src: url('URWForm-HeavyItalic.woff2') format('woff2'),
+        url('URWForm-HeavyItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form Extra';
+    src: url('URWForm-ExtraBoldItalic.woff2') format('woff2'),
+        url('URWForm-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form';
+    src: url('URWForm-Regular.woff2') format('woff2'),
+        url('URWForm-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form';
+    src: url('URWForm-Light.woff2') format('woff2'),
+        url('URWForm-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form';
+    src: url('URWForm-Thin.woff2') format('woff2'),
+        url('URWForm-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form Poster';
+    src: url('URWForm-PosterItalic.woff2') format('woff2'),
+        url('URWForm-PosterItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form';
+    src: url('URWForm-LightItalic.woff2') format('woff2'),
+        url('URWForm-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form Poster';
+    src: url('URWForm-Poster.woff2') format('woff2'),
+        url('URWForm-Poster.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form';
+    src: url('URWForm-MediumItalic.woff2') format('woff2'),
+        url('URWForm-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'URW Form';
+    src: url('URWForm-Medium.woff2') format('woff2'),
+        url('URWForm-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
