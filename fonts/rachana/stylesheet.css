@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'TN Joy';
+    src: url('tnjoy-regular.woff2') format('woff2'),
+        url('tnjoy-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RIT Sundar';
+    src: url('RITSundar-Bold.woff2') format('woff2'),
+        url('RITSundar-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RIT Rachana';
+    src: url('RITRachana-BoldItalic.woff2') format('woff2'),
+        url('RITRachana-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RIT Rachana';
+    src: url('RITRachana-Italic.woff2') format('woff2'),
+        url('RITRachana-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RIT Rachana';
+    src: url('RITRachana-Bold.woff2') format('woff2'),
+        url('RITRachana-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'RIT Rachana';
+    src: url('RITRachana-Regular.woff2') format('woff2'),
+        url('RITRachana-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Panmana';
+    src: url('Panmana-Regular.woff2') format('woff2'),
+        url('Panmana-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
