@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'Soho Gothic Pro';
+    src: url('SohoGothicPro-ExtraBold.woff2') format('woff2'),
+        url('SohoGothicPro-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Soho Gothic Pro';
+    src: url('SohoGothicPro-Medium.woff2') format('woff2'),
+        url('SohoGothicPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Soho Gothic Pro';
+    src: url('SohoGothicPro-Light.woff2') format('woff2'),
+        url('SohoGothicPro-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Soho Gothic Pro';
+    src: url('SohoGothicPro-Ultra.woff2') format('woff2'),
+        url('SohoGothicPro-Ultra.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Soho Gothic Pro';
+    src: url('SohoGothicPro-Regular.woff2') format('woff2'),
+        url('SohoGothicPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Soho Gothic Pro';
+    src: url('SohoGothicPro-Thin.woff2') format('woff2'),
+        url('SohoGothicPro-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Soho Gothic Pro';
+    src: url('SohoGothicPro-Bold.woff2') format('woff2'),
+        url('SohoGothicPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
