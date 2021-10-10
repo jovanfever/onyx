@@ -9086,7 +9086,7 @@ var VideoDialog_VideoDialog = /*#__PURE__*/function () {
         return false;
       }
 
-      $video.addClass('note-video-clip');
+      $video.addClass('note-video-clip').addClass('embed-responsive-item');
       return $video[0];
     }
   }, {
