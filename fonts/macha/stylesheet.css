@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Macha';
+    src: url('MachaBold.woff2') format('woff2'),
+        url('MachaBold.woff') format('woff'),
+        url('MachaBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Macha';
+    src: url('MachaThin.woff2') format('woff2'),
+        url('MachaThin.woff') format('woff'),
+        url('MachaThin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Macha';
+    src: url('MachaMedium.woff2') format('woff2'),
+        url('MachaMedium.woff') format('woff'),
+        url('MachaMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Macha';
+    src: url('MachaBook.woff2') format('woff2'),
+        url('MachaBook.woff') format('woff'),
+        url('MachaBook.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

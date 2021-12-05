@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'Informa';
+    src: url('InformaBold.woff2') format('woff2'),
+        url('InformaBold.woff') format('woff'),
+        url('InformaBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Informa';
+    src: url('InformaItalic.woff2') format('woff2'),
+        url('InformaItalic.woff') format('woff'),
+        url('InformaItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Informa';
+    src: url('InformaBoldItalic.woff2') format('woff2'),
+        url('InformaBoldItalic.woff') format('woff'),
+        url('InformaBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Informa';
+    src: url('InformaRegular.woff2') format('woff2'),
+        url('InformaRegular.woff') format('woff'),
+        url('InformaRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Informa';
+    src: url('InformaMedium.woff2') format('woff2'),
+        url('InformaMedium.woff') format('woff'),
+        url('InformaMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Informa';
+    src: url('InformaLight.woff2') format('woff2'),
+        url('InformaLight.woff') format('woff'),
+        url('InformaLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Informa';
+    src: url('InformaMediumItalic.woff2') format('woff2'),
+        url('InformaMediumItalic.woff') format('woff'),
+        url('InformaMediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Informa';
+    src: url('InformaLightItalic.woff2') format('woff2'),
+        url('InformaLightItalic.woff') format('woff'),
+        url('InformaLightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+

@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Praxis Next';
+    src: url('PraxisNextBlack.woff2') format('woff2'),
+        url('PraxisNextBlack.woff') format('woff'),
+        url('PraxisNextBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Praxis Next';
+    src: url('PraxisNextLight.woff2') format('woff2'),
+        url('PraxisNextLight.woff') format('woff'),
+        url('PraxisNextLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Praxis Next';
+    src: url('PraxisNextSemibold.woff2') format('woff2'),
+        url('PraxisNextSemibold.woff') format('woff'),
+        url('PraxisNextSemibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Praxis Next';
+    src: url('PraxisNextBold.woff2') format('woff2'),
+        url('PraxisNextBold.woff') format('woff'),
+        url('PraxisNextBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Praxis Next';
+    src: url('PraxisNextUltra.woff2') format('woff2'),
+        url('PraxisNextUltra.woff') format('woff'),
+        url('PraxisNextUltra.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Praxis Next';
+    src: url('PraxisNextHeavy.woff2') format('woff2'),
+        url('PraxisNextHeavy.woff') format('woff'),
+        url('PraxisNextHeavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Praxis Next';
+    src: url('PraxisNextExtraBlack.woff2') format('woff2'),
+        url('PraxisNextExtraBlack.woff') format('woff'),
+        url('PraxisNextExtraBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Praxis Next';
+    src: url('PraxisNextMedium.woff2') format('woff2'),
+        url('PraxisNextMedium.woff') format('woff'),
+        url('PraxisNextMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Praxis Next';
+    src: url('PraxisNextRegular.woff2') format('woff2'),
+        url('PraxisNextRegular.woff') format('woff'),
+        url('PraxisNextRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
