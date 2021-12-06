@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'DzainTrueCopy';
+    src: url('Dzain-TrueCopyRegular.woff2') format('woff2'),
+        url('Dzain-TrueCopyRegular.woff') format('woff'),
+        url('Dzain-TrueCopyRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DzainTrueCopy';
+    src: url('Dzain-TrueCopyBold.woff2') format('woff2'),
+        url('Dzain-TrueCopyBold.woff') format('woff'),
+        url('Dzain-TrueCopyBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DzainTrueCopy Inline';
+    src: url('Dzain-TrueCopyInlineLight.woff2') format('woff2'),
+        url('Dzain-TrueCopyInlineLight.woff') format('woff'),
+        url('Dzain-TrueCopyInlineLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DzainTrueCopy';
+    src: url('Dzain-TrueCopyLight.woff2') format('woff2'),
+        url('Dzain-TrueCopyLight.woff') format('woff'),
+        url('Dzain-TrueCopyLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DzainTrueCopy Inline';
+    src: url('Dzain-TrueCopyInlineLight_1.woff2') format('woff2'),
+        url('Dzain-TrueCopyInlineLight_1.woff') format('woff'),
+        url('Dzain-TrueCopyInlineLight_1.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dzain-TrueCopy Text';
+    src: url('Dzain-TrueCopyTextRegular.woff2') format('woff2'),
+        url('Dzain-TrueCopyTextRegular.woff') format('woff'),
+        url('Dzain-TrueCopyTextRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
