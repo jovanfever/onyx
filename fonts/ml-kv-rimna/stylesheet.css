@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'ML-KV-Rimna-SqM';
+    src: url('ML-KV-Rimna-SqM-Medium.woff2') format('woff2'),
+        url('ML-KV-Rimna-SqM-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ML-KV-Rimna-SH';
+    src: url('ML-KV-Rimna-SH-Heavy.woff2') format('woff2'),
+        url('ML-KV-Rimna-SH-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ML-KV-Rimna';
+    src: url('ML-KV-Rimna-Medium.woff2') format('woff2'),
+        url('ML-KV-Rimna-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ML-KV-Rimna-SB';
+    src: url('ML-KV-Rimna-SB-Bold.woff2') format('woff2'),
+        url('ML-KV-Rimna-SB-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
