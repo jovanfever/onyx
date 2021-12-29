@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'NFSans';
+    src: url('ba655258cc78190fcb6f9b0d2f77a0e4.woff2') format('woff2'), url('ba655258cc78190fcb6f9b0d2f77a0e4.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NFSans';
+    src: url('2bb254c307cfe94d95d6579969bc3238.woff2') format('woff2'), url('2bb254c307cfe94d95d6579969bc3238.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NFSans';
+    src: url('bc7f7289407eb5c4afc3afef054b0abe.woff2') format('woff2'), url('bc7f7289407eb5c4afc3afef054b0abe.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NFSans';
+    src: url('32453cfc2b4199e9550c682dc3675d09.woff2') format('woff2'), url('32453cfc2b4199e9550c682dc3675d09.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NFSans';
+    src: url('4130ace7a6f3cee8521d4830a3102108.woff2') format('woff2'), url('4130ace7a6f3cee8521d4830a3102108.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NFSans';
+    src: url('9907e81ebfbe13ed57eb1af666b67fdb.woff2') format('woff2'), url('9907e81ebfbe13ed57eb1af666b67fdb.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
