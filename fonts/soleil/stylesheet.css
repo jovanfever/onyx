@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Soleil Med 5';
+    font-family: 'Soleil';
     src: url('Soleil-Regular.woff2') format('woff2'),
         url('Soleil-Regular.woff') format('woff');
     font-weight: 500;
@@ -8,7 +8,7 @@
 }
 
 @font-face {
-    font-family: 'Soleil Med 5';
+    font-family: 'Soleil Light';
     src: url('SoleilLight.woff2') format('woff2'),
         url('SoleilLight.woff') format('woff');
     font-weight: 300;
@@ -17,7 +17,7 @@
 }
 
 @font-face {
-    font-family: 'Soleil Med';
+    font-family: 'Soleil Book';
     src: url('Soleil-Book.woff2') format('woff2'),
         url('Soleil-Book.woff') format('woff');
     font-weight: 500;
@@ -26,7 +26,7 @@
 }
 
 @font-face {
-    font-family: 'Soleil Med';
+    font-family: 'Soleil SemiBold';
     src: url('Soleil-SemiBold.woff2') format('woff2'),
         url('Soleil-SemiBold.woff') format('woff');
     font-weight: 500;
@@ -35,7 +35,7 @@
 }
 
 @font-face {
-    font-family: 'Soleil';
+    font-family: 'Soleil ExtraBold';
     src: url('SoleilExtraBold.woff2') format('woff2'),
         url('SoleilExtraBold.woff') format('woff');
     font-weight: 500;
@@ -44,7 +44,7 @@
 }
 
 @font-face {
-    font-family: 'Soleil';
+    font-family: 'Soleil Bold';
     src: url('Soleil-Bold.woff2') format('woff2'),
         url('Soleil-Bold.woff') format('woff');
     font-weight: 500;
