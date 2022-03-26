@@ -1,5 +1,5 @@
 /*!
- * Font Awesome Pro 6.1.0 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
  * Copyright 2022 Fonticons, Inc.
  */
@@ -2932,6 +2932,12 @@ readers do not read off random characters that represent icons */
 .fa-child::before {
   content: "\f1ae"; }
 
+.fa-child-dress::before {
+  content: "\e59c"; }
+
+.fa-child-reaching::before {
+  content: "\e59d"; }
+
 .fa-child-rifle::before {
   content: "\e4e0"; }
 
@@ -4100,6 +4106,9 @@ readers do not read off random characters that represent icons */
   content: "\f6cb"; }
 
 .fa-dash::before {
+  content: "\e404"; }
+
+.fa-minus-large::before {
   content: "\e404"; }
 
 .fa-database::before {
@@ -9129,6 +9138,9 @@ readers do not read off random characters that represent icons */
 
 .fa-add::before {
   content: "\2b"; }
+
+.fa-plus-large::before {
+  content: "\e59e"; }
 
 .fa-plus-minus::before {
   content: "\e43c"; }

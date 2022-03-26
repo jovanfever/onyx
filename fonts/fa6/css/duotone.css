@@ -1,5 +1,5 @@
 /*!
- * Font Awesome Pro 6.1.0 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
  * Copyright 2022 Fonticons, Inc.
  */
@@ -2511,6 +2511,12 @@ readers do not read off random characters that represent icons */
 .fad.fa-child::after, .fa-duotone.fa-child::after {
   content: "\f1ae\f1ae"; }
 
+.fad.fa-child-dress::after, .fa-duotone.fa-child-dress::after {
+  content: "\e59c\e59c"; }
+
+.fad.fa-child-reaching::after, .fa-duotone.fa-child-reaching::after {
+  content: "\e59d\e59d"; }
+
 .fad.fa-child-rifle::after, .fa-duotone.fa-child-rifle::after {
   content: "\e4e0\e4e0"; }
 
@@ -3679,6 +3685,9 @@ readers do not read off random characters that represent icons */
   content: "\f6cb\f6cb"; }
 
 .fad.fa-dash::after, .fa-duotone.fa-dash::after {
+  content: "\e404\e404"; }
+
+.fad.fa-minus-large::after, .fa-duotone.fa-minus-large::after {
   content: "\e404\e404"; }
 
 .fad.fa-database::after, .fa-duotone.fa-database::after {
@@ -8708,6 +8717,9 @@ readers do not read off random characters that represent icons */
 
 .fad.fa-add::after, .fa-duotone.fa-add::after {
   content: "\2b\2b"; }
+
+.fad.fa-plus-large::after, .fa-duotone.fa-plus-large::after {
+  content: "\e59e\e59e"; }
 
 .fad.fa-plus-minus::after, .fa-duotone.fa-plus-minus::after {
   content: "\e43c\e43c"; }
