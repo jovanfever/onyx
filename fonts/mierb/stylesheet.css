@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'MierB';
+    src: url('Copyright-General-Type-Studio_1.woff2') format('woff2'),
+        url('Copyright-General-Type-Studio_1.woff') format('woff'),
+        url('Copyright-General-Type-Studio_1.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MierB';
+    src: url('Copyright-General-Type-Studio_4.woff2') format('woff2'),
+        url('Copyright-General-Type-Studio_4.woff') format('woff'),
+        url('Copyright-General-Type-Studio_4.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'MierB';
+    src: url('Copyright-General-Type-Studio_7.woff2') format('woff2'),
+        url('Copyright-General-Type-Studio_7.woff') format('woff'),
+        url('Copyright-General-Type-Studio_7.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MierB';
+    src: url('Copyright-General-Type-Studio_8.woff2') format('woff2'),
+        url('Copyright-General-Type-Studio_8.woff') format('woff'),
+        url('Copyright-General-Type-Studio_8.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'MierB';
+    src: url('Copyright-General-Type-Studio_21.woff2') format('woff2'),
+        url('Copyright-General-Type-Studio_21.woff') format('woff'),
+        url('Copyright-General-Type-Studio_21.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
