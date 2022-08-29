@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Dinero Sans';
+    src: url('DineroSans-Semibold.woff2') format('woff2'),
+        url('DineroSans-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dinero Sans';
+    src: url('DineroSans-Bold.woff2') format('woff2'),
+        url('DineroSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dinero Sans';
+    src: url('DineroSans-Italic.woff2') format('woff2'),
+        url('DineroSans-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dinero Sans';
+    src: url('DineroSans-Regular.woff2') format('woff2'),
+        url('DineroSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
