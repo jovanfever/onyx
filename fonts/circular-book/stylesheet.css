@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Circular Book';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Circular Book'), url('lineto-circular-pro-book.woff') format('woff');
+}
+@font-face {
+    font-family: 'Circular Book';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Circular Book'), url('lineto-circular-pro-bookItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Circular Medium';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Circular Medium'), url('lineto-circular-pro-medium.woff') format('woff');
+}
+@font-face {
+    font-family: 'Circular Medium';
+    font-style: italic;
+    font-weight: 500;
+    src: local('Circular Medium'), url('lineto-circular-pro-mediumItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Circular Bold';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Circular Bold'), url('lineto-circular-pro-bold.woff') format('woff');
+}
