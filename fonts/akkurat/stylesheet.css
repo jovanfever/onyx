@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Akkurat';
+    src: url('Akkurat-Bold.woff2') format('woff2'),
+        url('Akkurat-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Akkurat';
+    src: url('Akkurat-Italic.woff2') format('woff2'),
+        url('Akkurat-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Akkurat';
+    src: url('Akkurat-BoldItalic.woff2') format('woff2'),
+        url('Akkurat-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Akkurat';
+    src: url('Akkurat.woff2') format('woff2'),
+        url('Akkurat.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Akkurat';
+    src: url('Akkurat-LightItalic.woff2') format('woff2'),
+        url('Akkurat-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Akkurat';
+    src: url('Akkurat-Light.woff2') format('woff2'),
+        url('Akkurat-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
