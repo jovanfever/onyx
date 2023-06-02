@@ -1,0 +1,126 @@
+@font-face {
+    font-family: 'Elizeth';
+    src: url('ElizethItalic.woff2') format('woff2'),
+        url('ElizethItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Elizeth';
+    src: url('ElizethExtraboldItalic.woff2') format('woff2'),
+        url('ElizethExtraboldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Elizeth';
+    src: url('ElizethThin.woff2') format('woff2'),
+        url('ElizethThin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Elizeth';
+    src: url('ElizethThinItalic.woff2') format('woff2'),
+        url('ElizethThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Elizeth';
+    src: url('ElizethMediumItalic.woff2') format('woff2'),
+        url('ElizethMediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Elizeth';
+    src: url('ElizethExtralight.woff2') format('woff2'),
+        url('ElizethExtralight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Elizeth';
+    src: url('ElizethBold.woff2') format('woff2'),
+        url('ElizethBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Elizeth';
+    src: url('ElizethLightItalic.woff2') format('woff2'),
+        url('ElizethLightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Elizeth';
+    src: url('ElizethExtrabold.woff2') format('woff2'),
+        url('ElizethExtrabold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Elizeth';
+    src: url('ElizethExtralightItalic.woff2') format('woff2'),
+        url('ElizethExtralightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Elizeth';
+    src: url('ElizethBoldItalic.woff2') format('woff2'),
+        url('ElizethBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Elizeth';
+    src: url('ElizethMedium.woff2') format('woff2'),
+        url('ElizethMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Elizeth';
+    src: url('ElizethRegular.woff2') format('woff2'),
+        url('ElizethRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Elizeth';
+    src: url('ElizethLight.woff2') format('woff2'),
+        url('ElizethLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
