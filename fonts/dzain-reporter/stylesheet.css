@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Dzain Reporter';
+    src: url('DzainReporter-Bold.woff2') format('woff2'),
+        url('DzainReporter-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
