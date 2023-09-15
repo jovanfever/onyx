@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Trip Geom';
+    src: url('TRIPGEOM-REGULAR.woff2') format('woff2'),
+        url('TRIPGEOM-REGULAR.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Trip Geom';
+    src: url('TRIPGEOM-MEDIUM.woff2') format('woff2'),
+        url('TRIPGEOM-MEDIUM.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Trip Geom';
+    src: url('TRIPGEOM-BOLD.woff2') format('woff2'),
+        url('TRIPGEOM-BOLD.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
