@@ -40,7 +40,7 @@
   --bs-accent4: #64748B;
   --bs-success: #10B981;
   --bs-warning: #EAB308;
-  --bs-danger: #EF4444;
+  --bs-danger: #dc2626;
   --bs-light-rgb: 248, 250, 252;
   --bs-grey-rgb: 209, 213, 219;
   --bs-dark-rgb: 15, 23, 42;
@@ -53,7 +53,7 @@
   --bs-accent4-rgb: 100, 116, 139;
   --bs-success-rgb: 16, 185, 129;
   --bs-warning-rgb: 234, 179, 8;
-  --bs-danger-rgb: 239, 68, 68;
+  --bs-danger-rgb: 220, 38, 38;
   --bs-primary-text-emphasis: #183462;
   --bs-secondary-text-emphasis: #282e38;
   --bs-success-text-emphasis: #0e4f26;
@@ -257,7 +257,7 @@
 }
 
 .text-bg-danger {
-  color: #000 !important;
+  color: #fcfcfc !important;
   background-color: RGBA(var(--bs-danger-rgb), var(--bs-bg-opacity, 1)) !important;
 }
 
@@ -399,9 +399,9 @@
   text-decoration-color: RGBA(var(--bs-danger-rgb), var(--bs-link-underline-opacity, 1)) !important;
 }
 .link-danger:hover, .link-danger:focus {
-  color: RGBA(242, 105, 105, var(--bs-link-opacity, 1)) !important;
-  -webkit-text-decoration-color: RGBA(242, 105, 105, var(--bs-link-underline-opacity, 1)) !important;
-  text-decoration-color: RGBA(242, 105, 105, var(--bs-link-underline-opacity, 1)) !important;
+  color: RGBA(176, 30, 30, var(--bs-link-opacity, 1)) !important;
+  -webkit-text-decoration-color: RGBA(176, 30, 30, var(--bs-link-underline-opacity, 1)) !important;
+  text-decoration-color: RGBA(176, 30, 30, var(--bs-link-underline-opacity, 1)) !important;
 }
 
 .link-body-emphasis {
