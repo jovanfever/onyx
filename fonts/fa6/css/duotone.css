@@ -1,5 +1,5 @@
 /*!
- * Font Awesome Pro 6.5.0 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
  * Copyright 2023 Fonticons, Inc.
  */
@@ -3238,6 +3238,9 @@
 
 .fad.fa-apostrophe::after, .fa-duotone.fa-apostrophe::after {
   content: "\27\27"; }
+
+.fad.fa-file-png::after, .fa-duotone.fa-file-png::after {
+  content: "\e666\e666"; }
 
 .fad.fa-fire-hydrant::after, .fa-duotone.fa-fire-hydrant::after {
   content: "\e17f\e17f"; }
