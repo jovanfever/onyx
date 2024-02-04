@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Euclid Circular B';
+    src: url('EuclidCircularB-BoldItalic.woff2') format('woff2'),
+        url('EuclidCircularB-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Euclid Circular B';
+    src: url('EuclidCircularB-Italic.woff2') format('woff2'),
+        url('EuclidCircularB-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Euclid Circular B';
+    src: url('EuclidCircularB-Bold.woff2') format('woff2'),
+        url('EuclidCircularB-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Euclid Circular B';
+    src: url('EuclidCircularB-SemiBoldItalic.woff2') format('woff2'),
+        url('EuclidCircularB-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Euclid Circular B';
+    src: url('EuclidCircularB-MediumItalic.woff2') format('woff2'),
+        url('EuclidCircularB-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Euclid Circular B';
+    src: url('EuclidCircularB-Light.woff2') format('woff2'),
+        url('EuclidCircularB-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Euclid Circular B';
+    src: url('EuclidCircularB-LightItalic.woff2') format('woff2'),
+        url('EuclidCircularB-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Euclid Circular B';
+    src: url('EuclidCircularB-Medium.woff2') format('woff2'),
+        url('EuclidCircularB-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Euclid Circular B';
+    src: url('EuclidCircularB-Regular.woff2') format('woff2'),
+        url('EuclidCircularB-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Euclid Circular B';
+    src: url('EuclidCircularB-SemiBold.woff2') format('woff2'),
+        url('EuclidCircularB-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
