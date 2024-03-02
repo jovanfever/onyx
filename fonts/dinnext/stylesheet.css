@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'DINNextW01';
+    src: url('DINNextW01-Regular.woff2') format('woff2'),
+        url('DINNextW01-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DINNextW10';
+    src: url('DINNextW10-Italic.woff2') format('woff2'),
+        url('DINNextW10-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DINNextW01';
+    src: url('DINNextW01-Bold.woff2') format('woff2'),
+        url('DINNextW01-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DINNextW10';
+    src: url('DINNextW10-Light.woff2') format('woff2'),
+        url('DINNextW10-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DINNextW10';
+    src: url('DINNextW10-Black.woff2') format('woff2'),
+        url('DINNextW10-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DINNextW10';
+    src: url('DINNextW10-Medium.woff2') format('woff2'),
+        url('DINNextW10-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
