@@ -8485,6 +8485,10 @@ textarea.form-control-lg {
   opacity: 0.9 !important;
 }
 
+.opacity-95 {
+  opacity: 0.95 !important;
+}
+
 .opacity-100 {
   opacity: 1 !important;
 }
@@ -8726,6 +8730,10 @@ textarea.form-control-lg {
   top: 90% !important;
 }
 
+.top-95 {
+  top: 95% !important;
+}
+
 .top-100 {
   top: 100% !important;
 }
@@ -8776,6 +8784,10 @@ textarea.form-control-lg {
 
 .bottom-90 {
   bottom: 90% !important;
+}
+
+.bottom-95 {
+  bottom: 95% !important;
 }
 
 .bottom-100 {
@@ -8830,6 +8842,10 @@ textarea.form-control-lg {
   left: 90% !important;
 }
 
+.start-95 {
+  left: 95% !important;
+}
+
 .start-100 {
   left: 100% !important;
 }
@@ -8880,6 +8896,10 @@ textarea.form-control-lg {
 
 .end-90 {
   right: 90% !important;
+}
+
+.end-95 {
+  right: 95% !important;
 }
 
 .end-100 {
@@ -9075,20 +9095,56 @@ textarea.form-control-lg {
   border-width: 5px !important;
 }
 
+.border-opacity-0 {
+  --bs-border-opacity: 0;
+}
+
 .border-opacity-10 {
   --bs-border-opacity: 0.1;
+}
+
+.border-opacity-20 {
+  --bs-border-opacity: 0.2;
 }
 
 .border-opacity-25 {
   --bs-border-opacity: 0.25;
 }
 
+.border-opacity-30 {
+  --bs-border-opacity: 0.3;
+}
+
+.border-opacity-40 {
+  --bs-border-opacity: 0.4;
+}
+
 .border-opacity-50 {
   --bs-border-opacity: 0.5;
 }
 
+.border-opacity-60 {
+  --bs-border-opacity: 0.6;
+}
+
+.border-opacity-70 {
+  --bs-border-opacity: 0.7;
+}
+
 .border-opacity-75 {
   --bs-border-opacity: 0.75;
+}
+
+.border-opacity-80 {
+  --bs-border-opacity: 0.8;
+}
+
+.border-opacity-90 {
+  --bs-border-opacity: 0.9;
+}
+
+.border-opacity-95 {
+  --bs-border-opacity: 0.95;
 }
 
 .border-opacity-100 {
@@ -9137,6 +9193,10 @@ textarea.form-control-lg {
 
 .w-90 {
   width: 90% !important;
+}
+
+.w-95 {
+  width: 95% !important;
 }
 
 .w-100 {
@@ -9201,6 +9261,10 @@ textarea.form-control-lg {
 
 .h-90 {
   height: 90% !important;
+}
+
+.h-95 {
+  height: 95% !important;
 }
 
 .h-100 {
@@ -10528,6 +10592,10 @@ textarea.form-control-lg {
   --bs-text-opacity: 0.9;
 }
 
+.text-opacity-95 {
+  --bs-text-opacity: 0.95;
+}
+
 .text-opacity-100 {
   --bs-text-opacity: 1;
 }
@@ -10572,12 +10640,36 @@ textarea.form-control-lg {
   --bs-link-opacity: 0.1;
 }
 
+.link-opacity-20 {
+  --bs-link-opacity: 0.2;
+}
+
+.link-opacity-20-hover:hover {
+  --bs-link-opacity: 0.2;
+}
+
 .link-opacity-25 {
   --bs-link-opacity: 0.25;
 }
 
 .link-opacity-25-hover:hover {
   --bs-link-opacity: 0.25;
+}
+
+.link-opacity-30 {
+  --bs-link-opacity: 0.3;
+}
+
+.link-opacity-30-hover:hover {
+  --bs-link-opacity: 0.3;
+}
+
+.link-opacity-40 {
+  --bs-link-opacity: 0.4;
+}
+
+.link-opacity-40-hover:hover {
+  --bs-link-opacity: 0.4;
 }
 
 .link-opacity-50 {
@@ -10588,12 +10680,52 @@ textarea.form-control-lg {
   --bs-link-opacity: 0.5;
 }
 
+.link-opacity-60 {
+  --bs-link-opacity: 0.6;
+}
+
+.link-opacity-60-hover:hover {
+  --bs-link-opacity: 0.6;
+}
+
+.link-opacity-70 {
+  --bs-link-opacity: 0.7;
+}
+
+.link-opacity-70-hover:hover {
+  --bs-link-opacity: 0.7;
+}
+
 .link-opacity-75 {
   --bs-link-opacity: 0.75;
 }
 
 .link-opacity-75-hover:hover {
   --bs-link-opacity: 0.75;
+}
+
+.link-opacity-80 {
+  --bs-link-opacity: 0.8;
+}
+
+.link-opacity-80-hover:hover {
+  --bs-link-opacity: 0.8;
+}
+
+.link-opacity-90 {
+  --bs-link-opacity: 0.9;
+}
+
+.link-opacity-90-hover:hover {
+  --bs-link-opacity: 0.9;
+}
+
+.link-opacity-95 {
+  --bs-link-opacity: 0.95;
+}
+
+.link-opacity-95-hover:hover {
+  --bs-link-opacity: 0.95;
 }
 
 .link-opacity-100 {
@@ -10740,12 +10872,36 @@ textarea.form-control-lg {
   --bs-link-underline-opacity: 0.1;
 }
 
+.link-underline-opacity-20 {
+  --bs-link-underline-opacity: 0.2;
+}
+
+.link-underline-opacity-20-hover:hover {
+  --bs-link-underline-opacity: 0.2;
+}
+
 .link-underline-opacity-25 {
   --bs-link-underline-opacity: 0.25;
 }
 
 .link-underline-opacity-25-hover:hover {
   --bs-link-underline-opacity: 0.25;
+}
+
+.link-underline-opacity-30 {
+  --bs-link-underline-opacity: 0.3;
+}
+
+.link-underline-opacity-30-hover:hover {
+  --bs-link-underline-opacity: 0.3;
+}
+
+.link-underline-opacity-40 {
+  --bs-link-underline-opacity: 0.4;
+}
+
+.link-underline-opacity-40-hover:hover {
+  --bs-link-underline-opacity: 0.4;
 }
 
 .link-underline-opacity-50 {
@@ -10756,12 +10912,52 @@ textarea.form-control-lg {
   --bs-link-underline-opacity: 0.5;
 }
 
+.link-underline-opacity-60 {
+  --bs-link-underline-opacity: 0.6;
+}
+
+.link-underline-opacity-60-hover:hover {
+  --bs-link-underline-opacity: 0.6;
+}
+
+.link-underline-opacity-70 {
+  --bs-link-underline-opacity: 0.7;
+}
+
+.link-underline-opacity-70-hover:hover {
+  --bs-link-underline-opacity: 0.7;
+}
+
 .link-underline-opacity-75 {
   --bs-link-underline-opacity: 0.75;
 }
 
 .link-underline-opacity-75-hover:hover {
   --bs-link-underline-opacity: 0.75;
+}
+
+.link-underline-opacity-80 {
+  --bs-link-underline-opacity: 0.8;
+}
+
+.link-underline-opacity-80-hover:hover {
+  --bs-link-underline-opacity: 0.8;
+}
+
+.link-underline-opacity-90 {
+  --bs-link-underline-opacity: 0.9;
+}
+
+.link-underline-opacity-90-hover:hover {
+  --bs-link-underline-opacity: 0.9;
+}
+
+.link-underline-opacity-95 {
+  --bs-link-underline-opacity: 0.95;
+}
+
+.link-underline-opacity-95-hover:hover {
+  --bs-link-underline-opacity: 0.95;
 }
 
 .link-underline-opacity-100 {
@@ -10919,6 +11115,10 @@ textarea.form-control-lg {
 
 .bg-opacity-90 {
   --bs-bg-opacity: 0.9;
+}
+
+.bg-opacity-95 {
+  --bs-bg-opacity: 0.95;
 }
 
 .bg-opacity-100 {
