@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'HarmonyOS Sans';
+    src: url('HarmonyOS_Sans.woff2') format('woff2'),
+        url('HarmonyOS_Sans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HarmonyOS Sans';
+    src: url('HarmonyOS_Sans_Black.woff2') format('woff2'),
+        url('HarmonyOS_Sans_Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HarmonyOS Sans';
+    src: url('HarmonyOS_Sans_Thin.woff2') format('woff2'),
+        url('HarmonyOS_Sans_Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HarmonyOS Sans';
+    src: url('HarmonyOS_Sans_Light.woff2') format('woff2'),
+        url('HarmonyOS_Sans_Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HarmonyOS Sans';
+    src: url('HarmonyOS_Sans_Medium.woff2') format('woff2'),
+        url('HarmonyOS_Sans_Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HarmonyOS Sans';
+    src: url('HarmonyOS_Sans_Bold.woff2') format('woff2'),
+        url('HarmonyOS_Sans_Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
