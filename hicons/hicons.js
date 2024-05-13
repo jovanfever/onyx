@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
         if (iconName) {
             const iconNameFormatted = iconName.split('hi-')[1]; // Extract the actual icon name
-            const imagePath = `${basePath}${iconNameFormatted}${variantSuffix}.svg`;
+            const imagePath = `${basePath}icons/${iconNameFormatted}${variantSuffix}.svg`;
             icon.style.backgroundImage = `url('${imagePath}')`;
         }
     });
