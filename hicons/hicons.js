@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function() {
         // Construct the SVG filename
         if (iconName) {
             const iconNameFormatted = iconName.split('hi-')[1]; // Extract the actual icon name
-            const imagePath = `icons/${iconNameFormatted}${variantSuffix}.svg`;
+            const imagePath = `/icons/${iconNameFormatted}${variantSuffix}.svg`;
 
             // Set the background image to match the SVG filename
             icon.style.backgroundImage = `url('${imagePath}')`;
