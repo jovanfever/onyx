@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function() {
         else if (icon.classList.contains('hi-sharp-stroke')) variantSuffix = '-stroke-sharp';
 
         if (iconName) {
-            const iconNameFormatted = iconName.split('hi-')[1]; // Extract the actual icon name
+            const iconNameFormatted = iconName.split('hicn-')[1]; // Extract the actual icon name
             const imagePath = `https://cdn.jsdelivr.net/gh/jovanfever/onyx@29/hicons/icons/${iconNameFormatted}${variantSuffix}.svg`;
             icon.style.backgroundImage = `url('${imagePath}')`;
         }
