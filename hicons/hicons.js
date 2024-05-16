@@ -2,13 +2,11 @@ document.addEventListener("DOMContentLoaded", function() {
     // Get the current script's URL (assuming the script is the last one loaded)
     const scripts = document.getElementsByTagName('script');
     const currentScriptPath = scripts[scripts.length - 1].src;
-    const basePath = currentScriptPath.replace(/\/[^\/]+$/, '/'); // Remove file name from path
-
     // Select all elements that have the 'hi-icon' class
     const icons = document.querySelectorAll('.hi-icon');
 
     icons.forEach(function(icon) {
-        const iconName = Array.from(icon.classList).find(cl => cl.startsWith('hi-') && cl !== 'hi-icon');
+        const iconName = Array.from(icon.classList).find(cl => cl.startsWith('hicn-'));
         let variantSuffix = '-stroke-rounded'; // Default suffix
         if (icon.classList.contains('hi-duotone')) variantSuffix = '-duotone-rounded';
         else if (icon.classList.contains('hi-twotone')) variantSuffix = '-twotone-rounded';
