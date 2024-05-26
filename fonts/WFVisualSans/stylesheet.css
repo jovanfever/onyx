@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'WF Visual Sans';
+    src: url('WFVisualSans-Medium.woff2') format('woff2'),
+        url('WFVisualSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'WF Visual Sans';
+    src: url('WFVisualSans-Regular.woff2') format('woff2'),
+        url('WFVisualSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'WF Visual Sans';
+    src: url('WFVisualSans-SemiBoldText.woff2') format('woff2'),
+        url('WFVisualSans-SemiBoldText.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'WF Visual Sans';
+    src: url('WFVisualSans-RegularText.woff2') format('woff2'),
+        url('WFVisualSans-RegularText.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'WF Visual Sans';
+    src: url('WFVisualSans-SemiBold.woff2') format('woff2'),
+        url('WFVisualSans-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
