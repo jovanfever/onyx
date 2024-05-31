@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
         if (iconName) {
             const iconNameFormatted = iconName.split('hicn-')[1]; // Extract the actual icon name
-            const imagePath = `https://cdn.jsdelivr.net/gh/jovanfever/onyx@29/hicons/icons/${iconNameFormatted}${variantSuffix}.svg`;
+            const imagePath = `https://cdn.jsdelivr.net/gh/jovanfever/onyx@31/hicons/icons/${iconNameFormatted}${variantSuffix}.svg`;
             icon.style.backgroundImage = `url('${imagePath}')`;
         }
     });
