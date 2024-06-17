@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Camphor Pro';
+    src: url('CamphorPro-MediumItalic.woff2') format('woff2'),
+        url('CamphorPro-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Camphor Pro';
+    src: url('CamphorPro-Medium.woff2') format('woff2'),
+        url('CamphorPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Camphor Pro';
+    src: url('CamphorPro-LightItalic.woff2') format('woff2'),
+        url('CamphorPro-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Camphor Pro';
+    src: url('CamphorPro-HeavyItalic.woff2') format('woff2'),
+        url('CamphorPro-HeavyItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Camphor Pro';
+    src: url('CamphorPro-BoldItalic.woff2') format('woff2'),
+        url('CamphorPro-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Camphor Pro';
+    src: url('CamphorPro-Heavy.woff2') format('woff2'),
+        url('CamphorPro-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Camphor Pro';
+    src: url('CamphorPro-ThinItalic.woff2') format('woff2'),
+        url('CamphorPro-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Camphor Pro';
+    src: url('CamphorPro-Regular.woff2') format('woff2'),
+        url('CamphorPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Camphor Pro';
+    src: url('CamphorPro-Bold.woff2') format('woff2'),
+        url('CamphorPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Camphor Pro';
+    src: url('CamphorPro-Thin.woff2') format('woff2'),
+        url('CamphorPro-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Camphor Pro';
+    src: url('CamphorPro-Light.woff2') format('woff2'),
+        url('CamphorPro-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Camphor Pro';
+    src: url('CamphorPro-Italic.woff2') format('woff2'),
+        url('CamphorPro-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
