@@ -3,5 +3,5 @@
 <path d="M10 16.5V22" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
 <path d="M8.5 8.5H11.5" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
 <path d="M20 11L14 17M20 17L14 11" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
-<path d="M15.9995 9.00747V5.59957C15.9995 5.54458 15.9546 5.5 15.8992 5.5H4.10127C4.04588 5.5 4.00098 5.54458 4.00098 5.59957V11.4907L7.01974 16.5004H12.0068" stroke="#141B34" stroke-width="1.5"/>
+<path d="M15.9985 9.00747V5.59957C15.9985 5.54458 15.9536 5.5 15.8982 5.5H4.1003C4.0449 5.5 4 5.54458 4 5.59957V11.4907L7.01877 16.5004H12.0058" stroke="#141B34" stroke-width="1.5"/>
 </svg>

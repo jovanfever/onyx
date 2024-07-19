@@ -2,5 +2,5 @@
 <path d="M8 22V16H2V22H8Z" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
 <path d="M22 22V16H16V22H22Z" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
 <path d="M16 10V2H8V10H16Z" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
-<path d="M19 16L18.9997 13L5 13.0001L5 16" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M19 15.9999L18.9997 12.9999L5 13L5 15.9999" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
 </svg>
