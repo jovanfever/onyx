@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Borna';
+    src: url('Borna-SemiBoldItalic.woff2') format('woff2'),
+        url('Borna-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Borna';
+    src: url('Borna-SemiBold.woff2') format('woff2'),
+        url('Borna-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Borna';
+    src: url('Borna-Regular.woff2') format('woff2'),
+        url('Borna-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Borna';
+    src: url('Borna-RegularItalic.woff2') format('woff2'),
+        url('Borna-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Borna';
+    src: url('Borna-Bold.woff2') format('woff2'),
+        url('Borna-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Borna';
+    src: url('Borna-MediumItalic.woff2') format('woff2'),
+        url('Borna-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Borna';
+    src: url('Borna-Medium.woff2') format('woff2'),
+        url('Borna-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Borna';
+    src: url('Borna-BoldItalic.woff2') format('woff2'),
+        url('Borna-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
