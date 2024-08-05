@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'EMprint-CondensedBold';
+    src: url('EMprint-CondensedBold.woff2') format('woff2'),
+        url('EMprint-CondensedBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMprint';
+    src: url('EMprint-Bold.woff2') format('woff2'),
+        url('EMprint-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMprint-CondensedBoldIt';
+    src: url('EMprint-CondensedBoldIt.woff2') format('woff2'),
+        url('EMprint-CondensedBoldIt.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMprint-CondensedLightIt';
+    src: url('EMprint-CondensedLightIt.woff2') format('woff2'),
+        url('EMprint-CondensedLightIt.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMprint-CondensedLight';
+    src: url('EMprint-CondensedLight.woff2') format('woff2'),
+        url('EMprint-CondensedLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMprint-CondensedItalic';
+    src: url('EMprint-CondensedItalic.woff2') format('woff2'),
+        url('EMprint-CondensedItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMprint';
+    src: url('EMprint-BoldItalic.woff2') format('woff2'),
+        url('EMprint-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMprint';
+    src: url('EMprint-Semibold.woff2') format('woff2'),
+        url('EMprint-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMprint-CondensedRegular';
+    src: url('EMprint-CondensedRegular.woff2') format('woff2'),
+        url('EMprint-CondensedRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMprint';
+    src: url('EMprint-Light.woff2') format('woff2'),
+        url('EMprint-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMprint-RegularItalic';
+    src: url('EMprint-RegularItalic.woff2') format('woff2'),
+        url('EMprint-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMprint-CondensedSemibold';
+    src: url('EMprint-CondensedSemibold.woff2') format('woff2'),
+        url('EMprint-CondensedSemibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMprint';
+    src: url('EMprint-LightItalic.woff2') format('woff2'),
+        url('EMprint-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMprint';
+    src: url('EMprint-Regular.woff2') format('woff2'),
+        url('EMprint-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMprint-CondSemiboldIt';
+    src: url('EMprint-CondSemiboldIt.woff2') format('woff2'),
+        url('EMprint-CondSemiboldIt.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMprint';
+    src: url('EMprint-SemiboldItalic.woff2') format('woff2'),
+        url('EMprint-SemiboldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
