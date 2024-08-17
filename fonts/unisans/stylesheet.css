@@ -1,0 +1,126 @@
+@font-face {
+    font-family: 'Uni Sans Regular';
+    src: url('UniSansRegularItalic.woff2') format('woff2'),
+        url('UniSansRegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Uni Sans';
+    src: url('UniSansRegular.woff2') format('woff2'),
+        url('UniSansRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Uni Sans';
+    src: url('UniSansLightItalic.woff2') format('woff2'),
+        url('UniSansLightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Uni Sans';
+    src: url('UniSansSemiBold.woff2') format('woff2'),
+        url('UniSansSemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Uni Sans';
+    src: url('UniSansThin.woff2') format('woff2'),
+        url('UniSansThin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Uni Sans';
+    src: url('UniSansBold.woff2') format('woff2'),
+        url('UniSansBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Uni Sans';
+    src: url('UniSansThinItalic.woff2') format('woff2'),
+        url('UniSansThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Uni Sans';
+    src: url('UniSansSemiBoldItalic.woff2') format('woff2'),
+        url('UniSansSemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Uni Sans';
+    src: url('UniSansBoldItalic.woff2') format('woff2'),
+        url('UniSansBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Uni Sans';
+    src: url('UniSansHeavy.woff2') format('woff2'),
+        url('UniSansHeavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Uni Sans Book';
+    src: url('UniSansBook.woff2') format('woff2'),
+        url('UniSansBook.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Uni Sans';
+    src: url('UniSansHeavyItalic.woff2') format('woff2'),
+        url('UniSansHeavyItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Uni Sans Book';
+    src: url('UniSansBookItalic.woff2') format('woff2'),
+        url('UniSansBookItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Uni Sans';
+    src: url('UniSansLight.woff2') format('woff2'),
+        url('UniSansLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
