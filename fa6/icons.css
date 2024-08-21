@@ -1,9 +1,10 @@
-.fa {
+.fa-regular,.fa-light,.fa-brands,.fa-duotone,.fa-sharp-duotone-solid,.fa-sharp-light,.fa-sharp-regular,.fa-sharp-solid,.fa-sharp-thin,.fa-solid,.fa-thin {
     display: inline-block;
     width: 1em;
     height: 1em;
     background-size: contain;
     background-repeat: no-repeat;
+    background-position: center;
     /*  vertical-align: sub; */
     /* margin-right: .25rem !important; */
     vertical-align: -0.15em;

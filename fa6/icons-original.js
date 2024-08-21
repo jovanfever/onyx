@@ -1,5 +1,5 @@
-// Preload image function
-function preloadImage(src) {
+ // Preload image function
+ function preloadImage(src) {
     const img = new Image();
     img.src = src;
 }
@@ -61,14 +61,16 @@ function getIconPath(iconClasses) {
     const iconName = getIconName(iconClasses);
 
     if (folderName && iconName) {
-        return `https://cdn.jsdelivr.net/gh/jovanfever/onyx@39.0.0/fa6/svgs/${folderName}/${iconName}.svg`;
+        return `https://cdn.jsdelivr.net/gh/jovanfever/onyx@39.1.0/fa6/svgs/${folderName}/${iconName}.svg`;
     }
     return null;
 }
 
 function loadFaIcons() {
-    const icons = document.querySelectorAll(".fa");
-    const totalIcons = icons.length; // Cache the length of the NodeList
+    // Get all possible class names to look for based on folderMap keys
+    const folderMapKeys = Array.from(folderMap.keys());
+    const icons = document.querySelectorAll(folderMapKeys.map(key => `.${key}`).join(','));
+    const totalIcons = icons.length;
 
     for (let i = 0; i < totalIcons; i++) {
         const icon = icons[i];
