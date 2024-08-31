@@ -2017,6 +2017,12 @@
             "featured": false
         },
         {
+            "name": "bash",
+            "tags": "bash",
+            "category": "programming",
+            "featured": false
+        },
+        {
             "name": "basketball-01",
             "tags": "basketball-01",
             "category": "games",
@@ -3129,6 +3135,12 @@
         {
             "name": "bowling",
             "tags": "bowling",
+            "category": "games",
+            "featured": false
+        },
+        {
+            "name": "bowling-ball",
+            "tags": "bowling-ball",
             "category": "games",
             "featured": false
         },
@@ -4586,7 +4598,7 @@
         },
         {
             "name": "chart-01",
-            "tags": "chart-01",
+            "tags": "kanban,",
             "category": "business",
             "featured": false
         },
@@ -4942,6 +4954,12 @@
             "name": "chicken-thighs",
             "tags": "chicken-thighs",
             "category": "foods",
+            "featured": false
+        },
+        {
+            "name": "child",
+            "tags": "child",
+            "category": "clothing",
             "featured": false
         },
         {
@@ -5887,6 +5905,18 @@
             "featured": false
         },
         {
+            "name": "computer-terminal-01",
+            "tags": "computer-terminal-01",
+            "category": "programming",
+            "featured": false
+        },
+        {
+            "name": "computer-terminal-02",
+            "tags": "computer-terminal-02",
+            "category": "programming",
+            "featured": false
+        },
+        {
             "name": "computer-video",
             "tags": "desktop camera, video screen share, imac, display, screen, video call",
             "category": "devices",
@@ -6776,7 +6806,7 @@
         },
         {
             "name": "database",
-            "tags": "database",
+            "tags": "data stack, data center,",
             "category": "programming",
             "featured": false
         },
@@ -6800,31 +6830,31 @@
         },
         {
             "name": "database-export",
-            "tags": "database-export",
+            "tags": "data stack, data center,",
             "category": "programming",
             "featured": false
         },
         {
             "name": "database-import",
-            "tags": "database-import",
+            "tags": "data stack, data center,",
             "category": "programming",
             "featured": false
         },
         {
             "name": "database-locked",
-            "tags": "database-locked",
+            "tags": "data stack, data center,",
             "category": "programming",
             "featured": false
         },
         {
             "name": "database-restore",
-            "tags": "database-restore",
+            "tags": "data stack, data center,",
             "category": "programming",
             "featured": false
         },
         {
             "name": "database-setting",
-            "tags": "database-setting",
+            "tags": "data stack, data center,",
             "category": "programming",
             "featured": false
         },
@@ -6836,7 +6866,7 @@
         },
         {
             "name": "database-sync-01",
-            "tags": "database-sync-01",
+            "tags": "data stack, data center,",
             "category": "programming",
             "featured": false
         },
@@ -8857,6 +8887,12 @@
             "featured": false
         },
         {
+            "name": "flashlight",
+            "tags": "flashlight",
+            "category": "devices",
+            "featured": false
+        },
+        {
             "name": "flash-off",
             "tags": "flash-off",
             "category": "image-camera",
@@ -9454,6 +9490,12 @@
             "name": "gas-stove",
             "tags": "gas-stove",
             "category": "kitchen",
+            "featured": false
+        },
+        {
+            "name": "gears",
+            "tags": "gears",
+            "category": "settings",
             "featured": false
         },
         {
@@ -11083,6 +11125,12 @@
             "featured": false
         },
         {
+            "name": "infant",
+            "tags": "infant",
+            "category": "clothing",
+            "featured": false
+        },
+        {
             "name": "infinity-01",
             "tags": "infinity-01",
             "category": "mathematics",
@@ -11464,6 +11512,12 @@
             "name": "kaaba-02",
             "tags": "kaaba-02",
             "category": "islamic",
+            "featured": false
+        },
+        {
+            "name": "kanban",
+            "tags": "kanban",
+            "category": "business",
             "featured": false
         },
         {
@@ -12062,7 +12116,7 @@
         },
         {
             "name": "layout-3-column",
-            "tags": "layout-3-column",
+            "tags": "kanban,",
             "category": "layout",
             "featured": false
         },
@@ -12098,7 +12152,7 @@
         },
         {
             "name": "layout-table-01",
-            "tags": "layout-table-01",
+            "tags": "kanban,",
             "category": "layout",
             "featured": false
         },
@@ -12442,6 +12496,24 @@
             "name": "liver",
             "tags": "liver",
             "category": "medical",
+            "featured": false
+        },
+        {
+            "name": "live-streaming-01",
+            "tags": "live-streaming-01",
+            "category": "wifi",
+            "featured": false
+        },
+        {
+            "name": "live-streaming-02",
+            "tags": "live-streaming-02",
+            "category": "wifi",
+            "featured": false
+        },
+        {
+            "name": "live-streaming-03",
+            "tags": "live-streaming-03",
+            "category": "wifi",
             "featured": false
         },
         {
@@ -17257,6 +17329,12 @@
             "featured": false
         },
         {
+            "name": "python",
+            "tags": "python",
+            "category": "logos",
+            "featured": false
+        },
+        {
             "name": "qq-plot",
             "tags": "qq-plot",
             "category": "business",
@@ -18796,6 +18874,12 @@
             "name": "select-02",
             "tags": "select-02",
             "category": "editing",
+            "featured": false
+        },
+        {
+            "name": "self-transfer",
+            "tags": "self-transfer",
+            "category": "business",
             "featured": false
         },
         {
@@ -20803,6 +20887,12 @@
             "featured": false
         },
         {
+            "name": "streering-wheel",
+            "tags": "streering-wheel",
+            "category": "settings",
+            "featured": false
+        },
+        {
             "name": "stroke-bottom",
             "tags": "stroke-bottom",
             "category": "editing",
@@ -21536,7 +21626,7 @@
         },
         {
             "name": "table",
-            "tags": "table",
+            "tags": "kanban,",
             "category": "layout",
             "featured": false
         },
@@ -21752,73 +21842,73 @@
         },
         {
             "name": "task-01",
-            "tags": "task-01",
+            "tags": "clipboard,",
             "category": "notes-tasks",
             "featured": true
         },
         {
             "name": "task-02",
-            "tags": "task-02",
+            "tags": "clipboard,",
             "category": "notes-tasks",
             "featured": false
         },
         {
             "name": "task-add-01",
-            "tags": "task-add-01",
+            "tags": "to do, clipboard,",
             "category": "notes-tasks",
             "featured": false
         },
         {
             "name": "task-add-02",
-            "tags": "task-add-02",
+            "tags": "to do, clipboard,",
             "category": "notes-tasks",
             "featured": false
         },
         {
             "name": "task-daily-01",
-            "tags": "task-daily-01",
+            "tags": "to do, clipboard,",
             "category": "notes-tasks",
             "featured": false
         },
         {
             "name": "task-daily-02",
-            "tags": "task-daily-02",
+            "tags": "to do, clipboard,",
             "category": "notes-tasks",
             "featured": false
         },
         {
             "name": "task-done-01",
-            "tags": "task-done-01",
+            "tags": "to do, clipboard,",
             "category": "notes-tasks",
             "featured": false
         },
         {
             "name": "task-done-02",
-            "tags": "task-done-02",
+            "tags": "to do, clipboard,",
             "category": "notes-tasks",
             "featured": false
         },
         {
             "name": "task-edit-01",
-            "tags": "task-edit-01",
+            "tags": "to do, clipboard,",
             "category": "notes-tasks",
             "featured": false
         },
         {
             "name": "task-edit-02",
-            "tags": "task-edit-02",
+            "tags": "to do, clipboard,",
             "category": "notes-tasks",
             "featured": false
         },
         {
             "name": "task-remove-01",
-            "tags": "task-remove-01",
+            "tags": "to do, clipboard,",
             "category": "notes-tasks",
             "featured": false
         },
         {
             "name": "task-remove-02",
-            "tags": "task-remove-02",
+            "tags": "to do, clipboard,",
             "category": "notes-tasks",
             "featured": false
         },
@@ -22504,6 +22594,12 @@
             "name": "tips",
             "tags": "tips",
             "category": "business",
+            "featured": false
+        },
+        {
+            "name": "tire",
+            "tags": "tire",
+            "category": "settings",
             "featured": false
         },
         {
@@ -23290,6 +23386,18 @@
             "name": "unhappy",
             "tags": "Frowning Face, Sad Emoticon, Disappointed Symbol, Upset Icon, Gloomy Smiley, Melancholy Face, Unsettled Expression, Sorrowful Emoji, Dismal Character, Dejected Symbol, Morose Icon, Crestfallen Emoticon, Miserable Face, Distressed Symbol",
             "category": "emojis",
+            "featured": false
+        },
+        {
+            "name": "universal-access",
+            "tags": "universal-access",
+            "category": "security",
+            "featured": false
+        },
+        {
+            "name": "universal-access-circle",
+            "tags": "universal-access-circle",
+            "category": "security",
             "featured": false
         },
         {
@@ -24277,6 +24385,12 @@
             "featured": false
         },
         {
+            "name": "webhook",
+            "tags": "webhook",
+            "category": "logos",
+            "featured": false
+        },
+        {
             "name": "web-programming",
             "tags": "web-programming",
             "category": "programming",
@@ -24489,6 +24603,18 @@
         {
             "name": "wikipedia",
             "tags": "wikipedia",
+            "category": "logos",
+            "featured": false
+        },
+        {
+            "name": "windows-new",
+            "tags": "windows-new",
+            "category": "logos",
+            "featured": false
+        },
+        {
+            "name": "windows-old",
+            "tags": "windows-old",
             "category": "logos",
             "featured": false
         },
@@ -24970,6 +25096,12 @@
             "name": "zoom-square",
             "tags": "zoom-square",
             "category": "logos",
+            "featured": false
+        },
+        {
+            "name": "zsh",
+            "tags": "zsh",
+            "category": "programming",
             "featured": false
         },
         {
