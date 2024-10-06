@@ -199,6 +199,12 @@
             "featured": false
         },
         {
+            "name": "add-team-02",
+            "tags": "add-team-02",
+            "category": "users",
+            "featured": false
+        },
+        {
             "name": "add-to-list",
             "tags": "add-to-list",
             "category": "editing",
@@ -1977,6 +1983,12 @@
         {
             "name": "bank",
             "tags": "business,",
+            "category": "business",
+            "featured": false
+        },
+        {
+            "name": "bar-chart",
+            "tags": "bar-chart",
             "category": "business",
             "featured": false
         },
@@ -4315,6 +4327,18 @@
             "featured": false
         },
         {
+            "name": "car-05",
+            "tags": "car-05",
+            "category": "logistics",
+            "featured": false
+        },
+        {
+            "name": "car-alert",
+            "tags": "car-alert",
+            "category": "logistics",
+            "featured": false
+        },
+        {
             "name": "caravan",
             "tags": "caravan, camper, RV, trailer, travel van, wheeled shelter, adventure wagon, nomad's nest",
             "category": "logistics",
@@ -4402,6 +4426,12 @@
             "name": "carrot",
             "tags": "carrot",
             "category": "foods",
+            "featured": false
+        },
+        {
+            "name": "car-time",
+            "tags": "car-time",
+            "category": "logistics",
             "featured": false
         },
         {
@@ -8857,6 +8887,12 @@
             "featured": false
         },
         {
+            "name": "fit-to-screen",
+            "tags": "fit-to-screen",
+            "category": "editing",
+            "featured": false
+        },
+        {
             "name": "fiverr",
             "tags": "fiverr",
             "category": "logos",
@@ -9409,6 +9445,12 @@
             "featured": false
         },
         {
+            "name": "full-screen",
+            "tags": "full-screen",
+            "category": "editing",
+            "featured": false
+        },
+        {
             "name": "function",
             "tags": "function",
             "category": "mathematics",
@@ -9951,6 +9993,12 @@
         {
             "name": "grid",
             "tags": "matrix, hash, mesh, array, framework, layout, pattern, mosaic, grating, arrangement, network, structure, checkerboard, blueprint, template, grid",
+            "category": "editing",
+            "featured": false
+        },
+        {
+            "name": "grid-02",
+            "tags": "grid-02",
             "category": "editing",
             "featured": false
         },
@@ -13747,6 +13795,12 @@
             "featured": false
         },
         {
+            "name": "menu-two-line",
+            "tags": "menu-two-line",
+            "category": "menu",
+            "featured": false
+        },
+        {
             "name": "message-01",
             "tags": "message-01",
             "category": "communications",
@@ -16411,6 +16465,12 @@
             "featured": false
         },
         {
+            "name": "pie-chart-09",
+            "tags": "pie-chart-09",
+            "category": "business",
+            "featured": false
+        },
+        {
             "name": "pie-chart-square",
             "tags": "pie-chart-square",
             "category": "business",
@@ -18901,9 +18961,33 @@
             "featured": false
         },
         {
+            "name": "sent-02",
+            "tags": "sent-02",
+            "category": "communications",
+            "featured": false
+        },
+        {
             "name": "seo",
             "tags": "marketing,",
             "category": "business",
+            "featured": false
+        },
+        {
+            "name": "server-stack-01",
+            "tags": "server-stack-01",
+            "category": "programming",
+            "featured": false
+        },
+        {
+            "name": "server-stack-02",
+            "tags": "server-stack-02",
+            "category": "programming",
+            "featured": false
+        },
+        {
+            "name": "server-stack-03",
+            "tags": "server-stack-03",
+            "category": "programming",
             "featured": false
         },
         {
@@ -19042,6 +19126,12 @@
             "name": "shampoo",
             "tags": "shampoo",
             "category": "clothing",
+            "featured": false
+        },
+        {
+            "name": "shape-collection",
+            "tags": "shape-collection",
+            "category": "editing",
             "featured": false
         },
         {
@@ -20788,6 +20878,12 @@
             "name": "sticky-note-02",
             "tags": "sticky-note-02",
             "category": "notes-tasks",
+            "featured": false
+        },
+        {
+            "name": "sticky-note-03",
+            "tags": "sticky-note-03",
+            "category": "editing",
             "featured": false
         },
         {
@@ -22549,6 +22645,12 @@
             "featured": false
         },
         {
+            "name": "time-quarter-02",
+            "tags": "time-quarter-02",
+            "category": "date-time",
+            "featured": false
+        },
+        {
             "name": "time-quarter-pass",
             "tags": "clock, stopwatch, timer, chronometer, hourglass, watch, countdown, hour tracker, timepiece, temporal symbol, time indicator, temporal device, timekeeper, temporal gauge, time gauge, temporal meter, time, timer",
             "category": "date-time",
@@ -23575,6 +23677,18 @@
             "featured": true
         },
         {
+            "name": "user-02",
+            "tags": "user-02",
+            "category": "users",
+            "featured": false
+        },
+        {
+            "name": "user-03",
+            "tags": "user-03",
+            "category": "users",
+            "featured": false
+        },
+        {
             "name": "user-account",
             "tags": "user, profile, avatar, member, account, user account",
             "category": "users",
@@ -23653,6 +23767,18 @@
             "featured": false
         },
         {
+            "name": "user-group-02",
+            "tags": "user-group-02",
+            "category": "users",
+            "featured": false
+        },
+        {
+            "name": "user-group-03",
+            "tags": "user-group-03",
+            "category": "users",
+            "featured": false
+        },
+        {
             "name": "user-id-verification",
             "tags": "verification, user, user verification",
             "category": "users",
@@ -23702,13 +23828,19 @@
         },
         {
             "name": "user-multiple",
-            "tags": "user, profile, avatar, member, account, multiple user, team",
+            "tags": "user, profile, avatar, member, account, multiple user, team, users, group, team, multiple users,",
             "category": "users",
             "featured": false
         },
         {
             "name": "user-multiple-02",
-            "tags": "tea, group, friends,",
+            "tags": "users, group, team, multiple users,",
+            "category": "users",
+            "featured": false
+        },
+        {
+            "name": "user-multiple-03",
+            "tags": "user-multiple-03",
             "category": "users",
             "featured": false
         },

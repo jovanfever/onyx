@@ -1,9 +1,12 @@
+const CDN_BASE_URL = 'https://cdn.jsdelivr.net/gh/jovanfever/onyx@41.0.0/hicons/icons';
+const DEFAULT_SUFFIX = '-stroke-rounded';
+
 function preloadImage(src) {
     const img = new Image();
     img.src = src;
 }
 
-function getIconVariantSuffix(iconClasses) {
+function getIconVariantSuffix(classList) {
     const classSuffixMap = {
         "hi-duotone": "-duotone-rounded",
         "hi-twotone": "-twotone-rounded",
@@ -15,24 +18,30 @@ function getIconVariantSuffix(iconClasses) {
         "hi-stroke-standard": "-stroke-standard",
     };
 
-    for (const [className, suffix] of Object.entries(classSuffixMap)) {
-        if (iconClasses.has(className)) {
-            return suffix;
+    for (const className in classSuffixMap) {
+        if (classList.contains(className)) {
+            return classSuffixMap[className];
         }
     }
-    return "-stroke-rounded"; // Default suffix
+
+    return DEFAULT_SUFFIX; // Default suffix
 }
 
 function loadHighIcons() {
     const icons = document.querySelectorAll(".hi-icon");
     icons.forEach((icon) => {
-        const iconClasses = new Set(icon.classList);
-        const iconName = Array.from(iconClasses).find((cl) => cl.startsWith("hicn-"));
+        let iconNameClass = null;
+        for (const cl of icon.classList) {
+            if (cl.startsWith('hicn-')) {
+                iconNameClass = cl;
+                break;
+            }
+        }
 
-        if (iconName) {
-            const iconNameFormatted = iconName.split("hicn-")[1];
-            const variantSuffix = getIconVariantSuffix(iconClasses);
-            const imagePath = `https://cdn.jsdelivr.net/gh/jovanfever/onyx@40.0.0/hicons/icons/${iconNameFormatted}${variantSuffix}.svg`;
+        if (iconNameClass) {
+            const iconNameFormatted = iconNameClass.substring(5); // Remove "hicn-"
+            const variantSuffix = getIconVariantSuffix(icon.classList);
+            const imagePath = `${CDN_BASE_URL}/${iconNameFormatted}${variantSuffix}.svg`;
 
             // Preload the image
             preloadImage(imagePath);
@@ -43,6 +52,4 @@ function loadHighIcons() {
     });
 }
 
-document.addEventListener("DOMContentLoaded", function() {
-    loadHighIcons();
-});
+document.addEventListener("DOMContentLoaded", loadHighIcons);
