@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'ADPortsGroup';
+    src: url('ADPortsGroup-Regular.woff2') format('woff2'),
+        url('ADPortsGroup-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ADPortsGroup';
+    src: url('ADPortsGroup-Bold.woff2') format('woff2'),
+        url('ADPortsGroup-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ADPortsGroup';
+    src: url('ADPortsGroup-Light.woff2') format('woff2'),
+        url('ADPortsGroup-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
