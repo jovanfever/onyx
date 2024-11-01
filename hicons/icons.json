@@ -55,6 +55,12 @@
             "featured": false
         },
         {
+            "name": "3-d-view",
+            "tags": "Perspective Mode, Dimensional Display, Tri-Dimensional View, Spatial Perspective, 3D Scene, Depth Visualization, 3d view, 3d",
+            "category": "devices",
+            "featured": false
+        },
+        {
             "name": "3rd-bracket",
             "tags": "parenthesis, bracket",
             "category": "mathematics",
@@ -178,6 +184,18 @@
             "name": "add-circle-half-dot",
             "tags": "add, plus, plus sign, add button, add half-dot, plus circle half-dot",
             "category": "add-remove",
+            "featured": false
+        },
+        {
+            "name": "add-female",
+            "tags": "add-female",
+            "category": "users",
+            "featured": false
+        },
+        {
+            "name": "add-male",
+            "tags": "add-male",
+            "category": "users",
             "featured": false
         },
         {
@@ -373,6 +391,12 @@
             "featured": false
         },
         {
+            "name": "ai-chip",
+            "tags": "ai-chip",
+            "category": "ai",
+            "featured": false
+        },
+        {
             "name": "ai-cloud",
             "tags": "ai-cloud",
             "category": "ai",
@@ -397,6 +421,18 @@
             "featured": false
         },
         {
+            "name": "ai-content-generator-01",
+            "tags": "ai-content-generator-01",
+            "category": "ai",
+            "featured": false
+        },
+        {
+            "name": "ai-content-generator-02",
+            "tags": "ai-content-generator-02",
+            "category": "ai",
+            "featured": false
+        },
+        {
             "name": "ai-dna",
             "tags": "ai-dna",
             "category": "ai",
@@ -409,8 +445,20 @@
             "featured": false
         },
         {
+            "name": "ai-editing",
+            "tags": "ai-editing",
+            "category": "ai",
+            "featured": false
+        },
+        {
             "name": "ai-eraser",
             "tags": "ai-eraser",
+            "category": "ai",
+            "featured": false
+        },
+        {
+            "name": "ai-file",
+            "tags": "ai-file",
             "category": "ai",
             "featured": false
         },
@@ -507,6 +555,12 @@
         {
             "name": "ai-mail-02",
             "tags": "ai-mail-02",
+            "category": "ai",
+            "featured": false
+        },
+        {
+            "name": "ai-mic",
+            "tags": "ai-mic",
             "category": "ai",
             "featured": false
         },
@@ -637,8 +691,26 @@
             "featured": false
         },
         {
+            "name": "ai-scan",
+            "tags": "ai-scan",
+            "category": "ai",
+            "featured": false
+        },
+        {
+            "name": "ai-scheduling",
+            "tags": "ai-scheduling",
+            "category": "ai",
+            "featured": false
+        },
+        {
             "name": "ai-search",
             "tags": "ai-search",
+            "category": "ai",
+            "featured": false
+        },
+        {
+            "name": "ai-search-02",
+            "tags": "ai-search-02",
             "category": "ai",
             "featured": false
         },
@@ -655,8 +727,20 @@
             "featured": false
         },
         {
+            "name": "ai-security-03",
+            "tags": "ai-security-03",
+            "category": "ai",
+            "featured": false
+        },
+        {
             "name": "ai-setting",
             "tags": "ai-setting",
+            "category": "ai",
+            "featured": false
+        },
+        {
+            "name": "ai-sheets",
+            "tags": "ai-sheets",
             "category": "ai",
             "featured": false
         },
@@ -681,6 +765,30 @@
         {
             "name": "ai-view",
             "tags": "ai-view",
+            "category": "ai",
+            "featured": false
+        },
+        {
+            "name": "ai-vision-recognition",
+            "tags": "ai-vision-recognition",
+            "category": "ai",
+            "featured": false
+        },
+        {
+            "name": "ai-voice",
+            "tags": "ai-voice",
+            "category": "ai",
+            "featured": false
+        },
+        {
+            "name": "ai-voice-generator",
+            "tags": "ai-voice-generator",
+            "category": "ai",
+            "featured": false
+        },
+        {
+            "name": "ai-web-browsing",
+            "tags": "ai-web-browsing",
             "category": "ai",
             "featured": false
         },
@@ -1090,6 +1198,12 @@
             "name": "apple-finder",
             "tags": "apple-finder",
             "category": "logos",
+            "featured": false
+        },
+        {
+            "name": "apple-intelligence",
+            "tags": "apple-intelligence",
+            "category": "ai",
             "featured": false
         },
         {
@@ -1663,6 +1777,12 @@
             "featured": false
         },
         {
+            "name": "artificial-intelligence-08",
+            "tags": "artificial-intelligence-08",
+            "category": "ai",
+            "featured": false
+        },
+        {
             "name": "aspect-ratio",
             "tags": "Proportion Selector, Scale Control, Dimension Modifier, Screen Ratio Adjuster, Size Ratio Setter, Image Scaling Tool, Ratio Resizer, Aspect Adjustment, Proportion Modifier, Aspect Ration",
             "category": "editing",
@@ -1969,6 +2089,18 @@
             "featured": false
         },
         {
+            "name": "balance-scale",
+            "tags": "balance-scale",
+            "category": "business",
+            "featured": false
+        },
+        {
+            "name": "balloons",
+            "tags": "balloons",
+            "category": "business",
+            "featured": false
+        },
+        {
             "name": "banana",
             "tags": "banana",
             "category": "foods",
@@ -1989,6 +2121,12 @@
         {
             "name": "bar-chart",
             "tags": "bar-chart",
+            "category": "business",
+            "featured": false
+        },
+        {
+            "name": "bar-chart-horizontal",
+            "tags": "bar-chart-horizontal",
             "category": "business",
             "featured": false
         },
@@ -3211,6 +3349,12 @@
             "featured": false
         },
         {
+            "name": "brain-03",
+            "tags": "brain-03",
+            "category": "business",
+            "featured": false
+        },
+        {
             "name": "brandfetch",
             "tags": "brandfetch",
             "category": "logos",
@@ -4429,6 +4573,12 @@
             "featured": false
         },
         {
+            "name": "car-signal",
+            "tags": "car-signal",
+            "category": "logistics",
+            "featured": false
+        },
+        {
             "name": "car-time",
             "tags": "car-time",
             "category": "logistics",
@@ -4635,6 +4785,12 @@
         {
             "name": "chart-02",
             "tags": "chart-02",
+            "category": "business",
+            "featured": false
+        },
+        {
+            "name": "chart-03",
+            "tags": "chart-03",
             "category": "business",
             "featured": false
         },
@@ -6073,6 +6229,12 @@
             "featured": false
         },
         {
+            "name": "content-writing",
+            "tags": "content-writing",
+            "category": "business",
+            "featured": false
+        },
+        {
             "name": "contracts",
             "tags": "contracts",
             "category": "security",
@@ -6685,6 +6847,12 @@
             "featured": false
         },
         {
+            "name": "custom-field",
+            "tags": "custom-field",
+            "category": "business",
+            "featured": false
+        },
+        {
             "name": "customize",
             "tags": "Personalize, Modify, Edit, Tailor, Adjust, Tweak, Adapt, Revise, Alter, Fine-tune, Revamp, Refine",
             "category": "settings",
@@ -6910,6 +7078,12 @@
             "name": "dates",
             "tags": "dates",
             "category": "islamic",
+            "featured": false
+        },
+        {
+            "name": "date-time",
+            "tags": "date-time",
+            "category": "date-time",
             "featured": false
         },
         {
@@ -8425,6 +8599,18 @@
             "featured": false
         },
         {
+            "name": "female-02",
+            "tags": "female-02",
+            "category": "users",
+            "featured": false
+        },
+        {
+            "name": "female-symbol",
+            "tags": "female-symbol",
+            "category": "users",
+            "featured": false
+        },
+        {
             "name": "fencing",
             "tags": "fencing",
             "category": "games",
@@ -8529,6 +8715,18 @@
         {
             "name": "file-edit",
             "tags": "file-edit",
+            "category": "files-folders",
+            "featured": false
+        },
+        {
+            "name": "file-empty-01",
+            "tags": "file-empty-01",
+            "category": "files-folders",
+            "featured": false
+        },
+        {
+            "name": "file-empty-02",
+            "tags": "file-empty-02",
             "category": "files-folders",
             "featured": false
         },
@@ -8857,6 +9055,18 @@
             "featured": false
         },
         {
+            "name": "fire-02",
+            "tags": "fire-02",
+            "category": "energy",
+            "featured": false
+        },
+        {
+            "name": "fire-03",
+            "tags": "fire-03",
+            "category": "energy",
+            "featured": false
+        },
+        {
             "name": "fire-pit",
             "tags": "fire-pit",
             "category": "buildings",
@@ -8872,6 +9082,12 @@
             "name": "firewall",
             "tags": "firewall",
             "category": "security",
+            "featured": false
+        },
+        {
+            "name": "fireworks",
+            "tags": "fireworks",
+            "category": "business",
             "featured": false
         },
         {
@@ -9415,6 +9631,12 @@
             "featured": false
         },
         {
+            "name": "frisbee",
+            "tags": "frisbee",
+            "category": "games",
+            "featured": false
+        },
+        {
             "name": "fry",
             "tags": "fry",
             "category": "foods",
@@ -9523,6 +9745,12 @@
             "featured": false
         },
         {
+            "name": "garlands",
+            "tags": "garlands",
+            "category": "business",
+            "featured": false
+        },
+        {
             "name": "gas-pipe",
             "tags": "gas, gas pipe",
             "category": "energy",
@@ -9592,6 +9820,12 @@
             "name": "gift-card",
             "tags": "gift card, event voucher, festive gift card",
             "category": "e-commerce",
+            "featured": false
+        },
+        {
+            "name": "gift-card-02",
+            "tags": "gift-card-02",
+            "category": "business",
             "featured": false
         },
         {
@@ -10036,6 +10270,12 @@
             "name": "grok",
             "tags": "grok",
             "category": "logos",
+            "featured": false
+        },
+        {
+            "name": "group-01",
+            "tags": "group-01",
+            "category": "editing",
             "featured": false
         },
         {
@@ -10774,6 +11014,12 @@
             "name": "hotel-02",
             "tags": "hotel-02",
             "category": "buildings",
+            "featured": false
+        },
+        {
+            "name": "hotel-bell",
+            "tags": "hotel-bell",
+            "category": "business",
             "featured": false
         },
         {
@@ -11806,6 +12052,12 @@
             "name": "knowledge-02",
             "tags": "knowledge-02",
             "category": "education",
+            "featured": false
+        },
+        {
+            "name": "ko-fi",
+            "tags": "ko-fi",
+            "category": "logos",
             "featured": false
         },
         {
@@ -13045,6 +13297,12 @@
             "featured": false
         },
         {
+            "name": "magic-wand-04",
+            "tags": "magic-wand-04",
+            "category": "ai",
+            "featured": false
+        },
+        {
             "name": "magnet",
             "tags": "attraction, puller, magnetic pull, attractor, magnetizer, magnetic force, magnetic field, magnetism, magnetic pull, magnetize, magnetism symbol, magnetic attraction",
             "category": "science-technology",
@@ -13363,9 +13621,33 @@
             "featured": false
         },
         {
+            "name": "male-02",
+            "tags": "male-02",
+            "category": "users",
+            "featured": false
+        },
+        {
+            "name": "male-symbol",
+            "tags": "male-symbol",
+            "category": "users",
+            "featured": false
+        },
+        {
+            "name": "man",
+            "tags": "man",
+            "category": "users",
+            "featured": false
+        },
+        {
             "name": "manager",
             "tags": "admin, boss,",
             "category": "business",
+            "featured": false
+        },
+        {
+            "name": "man-woman",
+            "tags": "man-woman",
+            "category": "users",
             "featured": false
         },
         {
@@ -13690,6 +13972,12 @@
             "name": "megaphone-02",
             "tags": "loudspeaker, announcement symbol, amplification tool, communication horn, public address device, voice projection symbol, broadcast icon, speaker cone, vocal amplifier, announcement megaphone, megaphone, mega phone, mic",
             "category": "devices",
+            "featured": false
+        },
+        {
+            "name": "megaphone-03",
+            "tags": "megaphone-03",
+            "category": "business",
             "featured": false
         },
         {
@@ -14092,6 +14380,12 @@
             "name": "mic-off-02",
             "tags": "microphone mute, audio off, sound silence, voice disabled, mute mic, quiet mode, audio hush, no sound, microphone off, mute audio, silent mic, soundless, voice off, audio mute, muted microphone, mic off",
             "category": "media",
+            "featured": false
+        },
+        {
+            "name": "microscope",
+            "tags": "microscope",
+            "category": "business",
             "featured": false
         },
         {
@@ -15241,6 +15535,18 @@
             "featured": false
         },
         {
+            "name": "napkins-01",
+            "tags": "napkins-01",
+            "category": "kitchen",
+            "featured": false
+        },
+        {
+            "name": "napkins-02",
+            "tags": "napkins-02",
+            "category": "kitchen",
+            "featured": false
+        },
+        {
             "name": "natural-food",
             "tags": "natural-food",
             "category": "foods",
@@ -16003,6 +16309,12 @@
             "featured": false
         },
         {
+            "name": "party",
+            "tags": "party",
+            "category": "business",
+            "featured": false
+        },
+        {
             "name": "passport",
             "tags": "ID,",
             "category": "business",
@@ -16117,6 +16429,12 @@
             "featured": false
         },
         {
+            "name": "pause-circle",
+            "tags": "pause-circle",
+            "category": "media",
+            "featured": false
+        },
+        {
             "name": "pavilon",
             "tags": "pavilon",
             "category": "buildings",
@@ -16192,6 +16510,18 @@
             "name": "peer-to-peer-03",
             "tags": "peer-to-peer-03",
             "category": "crypto",
+            "featured": false
+        },
+        {
+            "name": "pen-01",
+            "tags": "pen-01",
+            "category": "editing",
+            "featured": false
+        },
+        {
+            "name": "pen-02",
+            "tags": "pen-02",
+            "category": "editing",
             "featured": false
         },
         {
@@ -16318,6 +16648,12 @@
             "name": "permanent-job",
             "tags": "full time job, in house job,",
             "category": "business",
+            "featured": false
+        },
+        {
+            "name": "perplexity-ai",
+            "tags": "perplexity-ai",
+            "category": "ai",
             "featured": false
         },
         {
@@ -16489,6 +16825,12 @@
             "featured": false
         },
         {
+            "name": "pin-02",
+            "tags": "pin-02",
+            "category": "business",
+            "featured": false
+        },
+        {
             "name": "pin-code",
             "tags": "pin-code",
             "category": "programming",
@@ -16540,6 +16882,12 @@
             "name": "pi-square",
             "tags": "pi-square",
             "category": "mathematics",
+            "featured": false
+        },
+        {
+            "name": "pivot",
+            "tags": "pivot",
+            "category": "editing",
             "featured": false
         },
         {
@@ -16783,6 +17131,12 @@
             "featured": false
         },
         {
+            "name": "podcast",
+            "tags": "podcast",
+            "category": "business",
+            "featured": false
+        },
+        {
             "name": "podium",
             "tags": "podium",
             "category": "legal",
@@ -16930,6 +17284,12 @@
             "name": "polygon",
             "tags": "polygon",
             "category": "shapes",
+            "featured": false
+        },
+        {
+            "name": "poly-tank",
+            "tags": "poly-tank",
+            "category": "energy",
             "featured": false
         },
         {
@@ -17224,6 +17584,12 @@
             "name": "programming-flag",
             "tags": "programming-flag",
             "category": "programming",
+            "featured": false
+        },
+        {
+            "name": "progress",
+            "tags": "progress",
+            "category": "editing",
             "featured": false
         },
         {
@@ -17587,6 +17953,12 @@
             "featured": false
         },
         {
+            "name": "radio-button",
+            "tags": "radio-button",
+            "category": "editing",
+            "featured": false
+        },
+        {
             "name": "radius",
             "tags": "radius",
             "category": "mathematics",
@@ -17812,6 +18184,18 @@
             "name": "remove-circle-half-dot",
             "tags": "remove, minus, minimize, decrease size, hide Arrow, remove circle, minus-circle, minus-circle-half-dot",
             "category": "add-remove",
+            "featured": false
+        },
+        {
+            "name": "remove-female",
+            "tags": "remove-female",
+            "category": "users",
+            "featured": false
+        },
+        {
+            "name": "remove-male",
+            "tags": "remove-male",
+            "category": "users",
             "featured": false
         },
         {
@@ -18082,6 +18466,18 @@
             "name": "road-wayside",
             "tags": "Road, Path, Road Wayside, Highway",
             "category": "maps",
+            "featured": false
+        },
+        {
+            "name": "robot-01",
+            "tags": "robot-01",
+            "category": "ai",
+            "featured": false
+        },
+        {
+            "name": "robot-02",
+            "tags": "robot-02",
+            "category": "ai",
             "featured": false
         },
         {
@@ -18943,6 +19339,18 @@
             "featured": false
         },
         {
+            "name": "semi-truck",
+            "tags": "semi-truck",
+            "category": "logistics",
+            "featured": false
+        },
+        {
+            "name": "sending-order",
+            "tags": "sending-order",
+            "category": "kitchen",
+            "featured": false
+        },
+        {
             "name": "send-to-mobile",
             "tags": "send-to-mobile",
             "category": "devices",
@@ -19609,6 +20017,12 @@
             "featured": false
         },
         {
+            "name": "shut-down",
+            "tags": "shut-down",
+            "category": "editing",
+            "featured": false
+        },
+        {
             "name": "shutterstock",
             "tags": "shutterstock",
             "category": "logos",
@@ -19792,6 +20206,12 @@
             "name": "siri",
             "tags": "VoiceAssist, TalkMate, AudioGuide, SpeakUp, SoundHelper, VocalBuddy, ChatterBot, AudioWizard, TalkBack, VoiceAid, SpeakEasy, AudioCompanion",
             "category": "science-technology",
+            "featured": false
+        },
+        {
+            "name": "siri-new",
+            "tags": "siri-new",
+            "category": "ai",
             "featured": false
         },
         {
@@ -20893,6 +21313,12 @@
             "featured": false
         },
         {
+            "name": "stop-circle",
+            "tags": "stop-circle",
+            "category": "media",
+            "featured": false
+        },
+        {
             "name": "stop-watch",
             "tags": "stop-watch",
             "category": "date-time",
@@ -20943,6 +21369,18 @@
         {
             "name": "store-location-02",
             "tags": "store location, market location, shop location, marketplace location",
+            "category": "e-commerce",
+            "featured": false
+        },
+        {
+            "name": "store-management-01",
+            "tags": "store-management-01",
+            "category": "e-commerce",
+            "featured": false
+        },
+        {
+            "name": "store-management-02",
+            "tags": "store-management-02",
             "category": "e-commerce",
             "featured": false
         },
@@ -21847,6 +22285,12 @@
             "featured": false
         },
         {
+            "name": "tanker-truck",
+            "tags": "tanker-truck",
+            "category": "logistics",
+            "featured": false
+        },
+        {
             "name": "tank-top",
             "tags": "tank-top",
             "category": "clothing",
@@ -22017,6 +22461,12 @@
         {
             "name": "taxi",
             "tags": "taxi icon, cab, car service, ride-hail, transportation, shuttle, cabby, yellow cab, car hire, taxi-cab, chauffeur, taxicab, transit, city ride",
+            "category": "logistics",
+            "featured": false
+        },
+        {
+            "name": "taxi-02",
+            "tags": "taxi-02",
             "category": "logistics",
             "featured": false
         },
@@ -22597,6 +23047,12 @@
             "featured": true
         },
         {
+            "name": "tiltify",
+            "tags": "tiltify",
+            "category": "logos",
+            "featured": false
+        },
+        {
             "name": "time-01",
             "tags": "clock, stopwatch, timer, chronometer, hourglass, watch, countdown, hour tracker, timepiece, temporal symbol, time indicator, temporal device, timekeeper, temporal gauge, time gauge, temporal meter, time",
             "category": "date-time",
@@ -22744,6 +23200,18 @@
             "name": "toilet-02",
             "tags": "toilet-02",
             "category": "furnitures",
+            "featured": false
+        },
+        {
+            "name": "token-circle",
+            "tags": "token-circle",
+            "category": "ai",
+            "featured": false
+        },
+        {
+            "name": "token-square",
+            "tags": "token-square",
+            "category": "ai",
             "featured": false
         },
         {
@@ -24289,6 +24757,18 @@
             "featured": false
         },
         {
+            "name": "wallet-04",
+            "tags": "wallet-04",
+            "category": "business",
+            "featured": false
+        },
+        {
+            "name": "wallet-05",
+            "tags": "wallet-05",
+            "category": "business",
+            "featured": false
+        },
+        {
             "name": "wallet-add-01",
             "tags": "fund wallet, funding money, earning cash,",
             "category": "business",
@@ -24553,6 +25033,12 @@
             "featured": false
         },
         {
+            "name": "wedding",
+            "tags": "wedding",
+            "category": "business",
+            "featured": false
+        },
+        {
             "name": "weight-scale",
             "tags": "weight-scale",
             "category": "gym",
@@ -24598,6 +25084,12 @@
             "name": "whistle",
             "tags": "whistle",
             "category": "games",
+            "featured": false
+        },
+        {
+            "name": "whiteboard",
+            "tags": "whiteboard",
+            "category": "business",
             "featured": false
         },
         {
@@ -24817,9 +25309,21 @@
             "featured": false
         },
         {
+            "name": "woman",
+            "tags": "woman",
+            "category": "users",
+            "featured": false
+        },
+        {
             "name": "wordpress",
             "tags": "wordpress",
             "category": "logos",
+            "featured": false
+        },
+        {
+            "name": "work",
+            "tags": "work",
+            "category": "business",
             "featured": false
         },
         {
