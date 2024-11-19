@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Ember Display';
+    src: url('9e1679f839344e8c0796d1887cb0ff29.woff2') format('woff2'),
+        url('9e1679f839344e8c0796d1887cb0ff29.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ember Display';
+    src: url('2ada946f620e830838354100470cb32f.woff2') format('woff2'),
+        url('2ada946f620e830838354100470cb32f.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ember Display';
+    src: url('dffc5953f0d7de42df41b868f9702ac6.woff2') format('woff2'),
+        url('dffc5953f0d7de42df41b868f9702ac6.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ember Display';
+    src: url('28c9c3e21534a7515634d1a47db2c3a4.woff2') format('woff2'),
+        url('28c9c3e21534a7515634d1a47db2c3a4.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ember Display';
+    src: url('34242d30e20a4009b9613df4f3bf963d.woff2') format('woff2'),
+        url('34242d30e20a4009b9613df4f3bf963d.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+

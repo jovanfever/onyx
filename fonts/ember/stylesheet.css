@@ -1,36 +1,54 @@
 @font-face {
-    font-family: 'Amazon Ember';
-    src: url('AmazonEmber-Regular.eot');
-    src: url('AmazonEmber-Regular.eot?#iefix') format('embedded-opentype'),
-        url('AmazonEmber-Regular.woff2') format('woff2'),
-        url('AmazonEmber-Regular.woff') format('woff'),
-        url('AmazonEmber-Regular.ttf') format('truetype'),
-        url('AmazonEmber-Regular.svg#AmazonEmber-Regular') format('svg');
+    font-family: 'Ember';
+    src: url('a3c89e6c1768cc6b3b2ac2b2504f31b9.woff2') format('woff2'),
+        url('a3c89e6c1768cc6b3b2ac2b2504f31b9.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
-    font-family: 'Amazon Ember';
-    src: url('AmazonEmber-Light.eot');
-    src: url('AmazonEmber-Light.eot?#iefix') format('embedded-opentype'),
-        url('AmazonEmber-Light.woff2') format('woff2'),
-        url('AmazonEmber-Light.woff') format('woff'),
-        url('AmazonEmber-Light.ttf') format('truetype'),
-        url('AmazonEmber-Light.svg#AmazonEmber-Light') format('svg');
+    font-family: 'Ember';
+    src: url('7b3af63866b8d243e51074d20b9bc63d.woff2') format('woff2'),
+        url('7b3af63866b8d243e51074d20b9bc63d.woff') format('woff');
     font-weight: 300;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
-    font-family: 'Amazon Ember';
-    src: url('AmazonEmber-Bold.eot');
-    src: url('AmazonEmber-Bold.eot?#iefix') format('embedded-opentype'),
-        url('AmazonEmber-Bold.woff2') format('woff2'),
-        url('AmazonEmber-Bold.woff') format('woff'),
-        url('AmazonEmber-Bold.ttf') format('truetype'),
-        url('AmazonEmber-Bold.svg#AmazonEmber-Bold') format('svg');
+    font-family: 'Ember';
+    src: url('73e4d389b1a62c86672a500bff7cfb20.woff2') format('woff2'),
+        url('73e4d389b1a62c86672a500bff7cfb20.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ember';
+    src: url('4f376476afb2df8d4b233c4bf0492f9a.woff2') format('woff2'),
+        url('4f376476afb2df8d4b233c4bf0492f9a.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ember';
+    src: url('127501dc77d68406826ab2cd250a7ba6.woff2') format('woff2'),
+        url('127501dc77d68406826ab2cd250a7ba6.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ember';
+    src: url('d38ec27d8e78897fdb37910abd9ae918.woff2') format('woff2'),
+        url('d38ec27d8e78897fdb37910abd9ae918.woff') format('woff');
     font-weight: bold;
     font-style: normal;
+    font-display: swap;
 }
 
