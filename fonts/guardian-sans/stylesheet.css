@@ -1,0 +1,162 @@
+@font-face {
+    font-family: 'Guardian Sans';
+    src: url('GuardianSans-Light.woff2') format('woff2'),
+        url('GuardianSans-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Guardian Sans';
+    src: url('GuardianSans-Regular.woff2') format('woff2'),
+        url('GuardianSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Guardian Sans';
+    src: url('GuardianSans-LightItalic.woff2') format('woff2'),
+        url('GuardianSans-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Guardian Sans';
+    src: url('GuardianSans-HairlineItalic.woff2') format('woff2'),
+        url('GuardianSans-HairlineItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Guardian Sans';
+    src: url('GuardianSans-MediumItalic.woff2') format('woff2'),
+        url('GuardianSans-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Guardian Sans';
+    src: url('GuardianSans-Medium.woff2') format('woff2'),
+        url('GuardianSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Guardian Sans';
+    src: url('GuardianSans-Semibold.woff2') format('woff2'),
+        url('GuardianSans-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Guardian Sans';
+    src: url('GuardianSans-SemiboldItalic.woff2') format('woff2'),
+        url('GuardianSans-SemiboldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Guardian Sans';
+    src: url('GuardianSans-RegularItalic.woff2') format('woff2'),
+        url('GuardianSans-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Guardian Sans';
+    src: url('GuardianSans-ThinItalic.woff2') format('woff2'),
+        url('GuardianSans-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Guardian Sans';
+    src: url('GuardianSans-Thin.woff2') format('woff2'),
+        url('GuardianSans-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Guardian Sans';
+    src: url('GuardianSans-UltraItalic.woff2') format('woff2'),
+        url('GuardianSans-UltraItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Guardian Sans';
+    src: url('GuardianSans-Ultra.woff2') format('woff2'),
+        url('GuardianSans-Ultra.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Guardian Sans';
+    src: url('GuardianSans-BlackItalic.woff2') format('woff2'),
+        url('GuardianSans-BlackItalic.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Guardian Sans';
+    src: url('GuardianSans-Bold.woff2') format('woff2'),
+        url('GuardianSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Guardian Sans';
+    src: url('GuardianSans-BoldItalic.woff2') format('woff2'),
+        url('GuardianSans-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Guardian Sans';
+    src: url('GuardianSans-Black.woff2') format('woff2'),
+        url('GuardianSans-Black.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Guardian Sans';
+    src: url('GuardianSans-Hairline.woff2') format('woff2'),
+        url('GuardianSans-Hairline.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
