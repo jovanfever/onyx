@@ -1,4 +1,4 @@
-const CDN_BASE_URL = 'https://cdn.jsdelivr.net/gh/jovanfever/onyx@39.1.0/fa6/svgs';
+const CDN_BASE_URL = 'https://cdn.jsdelivr.net/gh/jovanfever/onyx@46.0.0/fa6/svgs';
 
 // Preload image function
 function preloadImage(src) {
@@ -12,7 +12,13 @@ const folderMap = {
     "fa-light": "light",
     "fa-brands": "brands",
     "fa-duotone": "duotone",
+    "fa-duotone-thin": "duotone-thin",
+    "fa-duotone-light": "duotone-light",
+    "fa-duotone-regular": "duotone-regular",
     "fa-sharp-duotone-solid": "sharp-duotone-solid",
+    "fa-sharp-duotone-thin": "sharp-duotone-thin",
+    "fa-sharp-duotone-light": "sharp-duotone-light",
+    "fa-sharp-duotone-regular": "sharp-duotone-regular",
     "fa-sharp-light": "sharp-light",
     "fa-sharp-regular": "sharp-regular",
     "fa-sharp-solid": "sharp-solid",
