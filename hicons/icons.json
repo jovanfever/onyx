@@ -193,9 +193,21 @@
             "featured": false
         },
         {
+            "name": "add-invoice",
+            "tags": "add-invoice",
+            "category": "business",
+            "featured": false
+        },
+        {
             "name": "add-male",
             "tags": "add-male",
             "category": "users",
+            "featured": false
+        },
+        {
+            "name": "add-money-circle",
+            "tags": "add-money-circle",
+            "category": "business",
             "featured": false
         },
         {
@@ -1129,6 +1141,12 @@
             "featured": false
         },
         {
+            "name": "anchor",
+            "tags": "anchor",
+            "category": "logistics",
+            "featured": false
+        },
+        {
             "name": "anchor-point",
             "tags": "fixed position, reference spot, tether spot, secure point, pivot marker, stabilization point, central hub, docking point, focal node, mooring spot, attachment marker, core junction, anchor point",
             "category": "editing",
@@ -1915,6 +1933,18 @@
             "featured": false
         },
         {
+            "name": "audio-wave-01",
+            "tags": "audio-wave-01",
+            "category": "media",
+            "featured": false
+        },
+        {
+            "name": "audio-wave-02",
+            "tags": "audio-wave-02",
+            "category": "media",
+            "featured": false
+        },
+        {
             "name": "audit-01",
             "tags": "legal,",
             "category": "legal",
@@ -2038,6 +2068,12 @@
             "name": "baby-girl-dress",
             "tags": "baby-girl-dress",
             "category": "clothing",
+            "featured": false
+        },
+        {
+            "name": "background",
+            "tags": "background",
+            "category": "editing",
             "featured": false
         },
         {
@@ -2404,6 +2440,12 @@
             "name": "bing",
             "tags": "bing",
             "category": "logos",
+            "featured": false
+        },
+        {
+            "name": "binoculars",
+            "tags": "binoculars",
+            "category": "education",
             "featured": false
         },
         {
@@ -2848,6 +2890,12 @@
             "name": "blood-type",
             "tags": "blood-type",
             "category": "medical",
+            "featured": false
+        },
+        {
+            "name": "bluesky",
+            "tags": "bluesky",
+            "category": "logos",
             "featured": false
         },
         {
@@ -5179,6 +5227,12 @@
             "featured": false
         },
         {
+            "name": "chopsticks",
+            "tags": "chopsticks",
+            "category": "foods",
+            "featured": false
+        },
+        {
             "name": "chrome",
             "tags": "chrome",
             "category": "logos",
@@ -5818,6 +5872,12 @@
             "name": "coffee-beans",
             "tags": "coffee-beans",
             "category": "foods",
+            "featured": false
+        },
+        {
+            "name": "coinbase",
+            "tags": "coinbase",
+            "category": "logos",
             "featured": false
         },
         {
@@ -8329,6 +8389,12 @@
             "featured": false
         },
         {
+            "name": "entrance-stairs",
+            "tags": "entrance-stairs",
+            "category": "buildings",
+            "featured": false
+        },
+        {
             "name": "envato",
             "tags": "envato",
             "category": "logos",
@@ -10345,6 +10411,12 @@
             "featured": false
         },
         {
+            "name": "halal-lab",
+            "tags": "halal-lab",
+            "category": "logos",
+            "featured": false
+        },
+        {
             "name": "hamburger-01",
             "tags": "hamburger-01",
             "category": "foods",
@@ -10498,6 +10570,12 @@
             "name": "hard-drive",
             "tags": "hard-drive",
             "category": "devices",
+            "featured": false
+        },
+        {
+            "name": "hat",
+            "tags": "hat",
+            "category": "clothing",
             "featured": false
         },
         {
@@ -10750,6 +10828,12 @@
             "name": "high-heels-02",
             "tags": "high-heels-02",
             "category": "clothing",
+            "featured": false
+        },
+        {
+            "name": "highlighter",
+            "tags": "highlighter",
+            "category": "editing",
             "featured": false
         },
         {
@@ -11101,6 +11185,12 @@
             "featured": false
         },
         {
+            "name": "hugeicons",
+            "tags": "hugeicons",
+            "category": "logos",
+            "featured": false
+        },
+        {
             "name": "humidity",
             "tags": "humidity, moisture, air",
             "category": "weather",
@@ -11145,6 +11235,12 @@
         {
             "name": "ice-cream-04",
             "tags": "ice-cream-04",
+            "category": "foods",
+            "featured": false
+        },
+        {
+            "name": "ice-cubes",
+            "tags": "ice-cubes",
             "category": "foods",
             "featured": false
         },
@@ -11779,6 +11875,12 @@
             "featured": false
         },
         {
+            "name": "jumpers",
+            "tags": "jumpers",
+            "category": "clothing",
+            "featured": false
+        },
+        {
             "name": "jupiter",
             "tags": "Big Red, Gas Giant, King of Planets, Zeus, Mighty Orb, Giant's Eye, Jove, Cosmic Sphere, Thundering Planet, Celestial King",
             "category": "space",
@@ -12010,6 +12112,12 @@
             "name": "kite",
             "tags": "kite",
             "category": "games",
+            "featured": false
+        },
+        {
+            "name": "klarna",
+            "tags": "klarna",
+            "category": "logos",
             "featured": false
         },
         {
@@ -12658,6 +12766,12 @@
             "name": "license-third-party",
             "tags": "license-third-party",
             "category": "files-folders",
+            "featured": false
+        },
+        {
+            "name": "lifebuoy",
+            "tags": "lifebuoy",
+            "category": "business",
             "featured": false
         },
         {
@@ -13783,9 +13897,21 @@
             "featured": false
         },
         {
+            "name": "mastodon",
+            "tags": "mastodon",
+            "category": "logos",
+            "featured": false
+        },
+        {
             "name": "matches",
             "tags": "matches",
             "category": "kitchen",
+            "featured": false
+        },
+        {
+            "name": "material-and-texture",
+            "tags": "material-and-texture",
+            "category": "editing",
             "featured": false
         },
         {
@@ -14614,6 +14740,12 @@
             "name": "molecules",
             "tags": "Tiny Elements, Atomic Fusion, Molecular Mix, Nano Structures, Particle Ensemble, Micro Units, Chemical Bonds, Elemental Fusion, Molecular Array, Atom Matrix",
             "category": "science-technology",
+            "featured": false
+        },
+        {
+            "name": "mollie",
+            "tags": "mollie",
+            "category": "logos",
             "featured": false
         },
         {
@@ -16117,6 +16249,18 @@
             "featured": false
         },
         {
+            "name": "package-02",
+            "tags": "package-02",
+            "category": "e-commerce",
+            "featured": false
+        },
+        {
+            "name": "package-03",
+            "tags": "package-03",
+            "category": "e-commerce",
+            "featured": false
+        },
+        {
             "name": "package-add",
             "tags": "shipping add, package add, parcel add, box add",
             "category": "e-commerce",
@@ -16125,6 +16269,18 @@
         {
             "name": "package-delivered",
             "tags": "shipped, package delivered, parcel delivered, box delivered",
+            "category": "e-commerce",
+            "featured": false
+        },
+        {
+            "name": "package-dimensions-01",
+            "tags": "package-dimensions-01",
+            "category": "e-commerce",
+            "featured": false
+        },
+        {
+            "name": "package-dimensions-02",
+            "tags": "package-dimensions-02",
             "category": "e-commerce",
             "featured": false
         },
@@ -16177,6 +16333,12 @@
             "featured": false
         },
         {
+            "name": "packaging",
+            "tags": "packaging",
+            "category": "e-commerce",
+            "featured": false
+        },
+        {
             "name": "pacman-01",
             "tags": "pacman-01",
             "category": "games",
@@ -16186,6 +16348,12 @@
             "name": "pacman-02",
             "tags": "pacman-02",
             "category": "games",
+            "featured": false
+        },
+        {
+            "name": "paella",
+            "tags": "paella",
+            "category": "foods",
             "featured": false
         },
         {
@@ -16903,6 +17071,18 @@
             "featured": false
         },
         {
+            "name": "pizza-03",
+            "tags": "pizza-03",
+            "category": "foods",
+            "featured": false
+        },
+        {
+            "name": "pizza-04",
+            "tags": "pizza-04",
+            "category": "foods",
+            "featured": false
+        },
+        {
             "name": "pizza-cutter",
             "tags": "pizza-cutter",
             "category": "kitchen",
@@ -17593,6 +17773,30 @@
             "featured": false
         },
         {
+            "name": "progress-01",
+            "tags": "progress-01",
+            "category": "business",
+            "featured": false
+        },
+        {
+            "name": "progress-02",
+            "tags": "progress-02",
+            "category": "business",
+            "featured": false
+        },
+        {
+            "name": "progress-03",
+            "tags": "progress-03",
+            "category": "business",
+            "featured": false
+        },
+        {
+            "name": "progress-04",
+            "tags": "progress-04",
+            "category": "business",
+            "featured": false
+        },
+        {
             "name": "projector",
             "tags": "projector",
             "category": "business",
@@ -18055,6 +18259,12 @@
             "featured": false
         },
         {
+            "name": "receipt-dollar",
+            "tags": "receipt-dollar",
+            "category": "e-commerce",
+            "featured": false
+        },
+        {
             "name": "record",
             "tags": "Capture, Audio Memo, Start Recording, Voice Note, Red Dot, Sound Recording, Record Button, Capture Audio, Voice Recording",
             "category": "media",
@@ -18100,6 +18310,12 @@
             "name": "reddit",
             "tags": "reddit",
             "category": "logos",
+            "featured": false
+        },
+        {
+            "name": "redo",
+            "tags": "redo",
+            "category": "editing",
             "featured": false
         },
         {
@@ -18280,6 +18496,18 @@
             "name": "resize-02",
             "tags": "resize-02",
             "category": "hands",
+            "featured": false
+        },
+        {
+            "name": "resize-field",
+            "tags": "resize-field",
+            "category": "editing",
+            "featured": false
+        },
+        {
+            "name": "resize-field-rectangle",
+            "tags": "resize-field-rectangle",
+            "category": "editing",
             "featured": false
         },
         {
@@ -19723,6 +19951,12 @@
             "featured": false
         },
         {
+            "name": "shopify",
+            "tags": "shopify",
+            "category": "logos",
+            "featured": false
+        },
+        {
             "name": "shopping-bag-01",
             "tags": "shopping bag, bag, purchase",
             "category": "e-commerce",
@@ -20404,6 +20638,12 @@
             "name": "snow",
             "tags": "snow, snowfall, frozen, winter, cold",
             "category": "weather",
+            "featured": false
+        },
+        {
+            "name": "socks",
+            "tags": "socks",
+            "category": "clothing",
             "featured": false
         },
         {
@@ -21193,6 +21433,18 @@
             "featured": true
         },
         {
+            "name": "star-award-01",
+            "tags": "star-award-01",
+            "category": "award",
+            "featured": false
+        },
+        {
+            "name": "star-award-02",
+            "tags": "star-award-02",
+            "category": "award",
+            "featured": false
+        },
+        {
             "name": "star-circle",
             "tags": "star-circle",
             "category": "bookmark",
@@ -21244,6 +21496,12 @@
             "name": "stationery",
             "tags": "stationery",
             "category": "education",
+            "featured": false
+        },
+        {
+            "name": "status",
+            "tags": "status",
+            "category": "editing",
             "featured": false
         },
         {
@@ -21424,6 +21682,18 @@
             "name": "streering-wheel",
             "tags": "streering-wheel",
             "category": "settings",
+            "featured": false
+        },
+        {
+            "name": "street-food",
+            "tags": "street-food",
+            "category": "foods",
+            "featured": false
+        },
+        {
+            "name": "stripe",
+            "tags": "stripe",
+            "category": "logos",
             "featured": false
         },
         {
@@ -23929,6 +24199,12 @@
             "featured": false
         },
         {
+            "name": "undo",
+            "tags": "undo",
+            "category": "editing",
+            "featured": false
+        },
+        {
             "name": "unfold-less",
             "tags": "chevron,",
             "category": "arrows",
@@ -24484,6 +24760,12 @@
             "name": "vegetarian-food",
             "tags": "vegetarian-food",
             "category": "foods",
+            "featured": false
+        },
+        {
+            "name": "versus",
+            "tags": "versus",
+            "category": "games",
             "featured": false
         },
         {
