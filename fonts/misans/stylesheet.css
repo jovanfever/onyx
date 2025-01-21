@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'MiSans';
+    src: url('subset-MiSans-Bold.woff2') format('woff2'),
+        url('subset-MiSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MiSans';
+    src: url('subset-MiSans-ExtraLight.woff2') format('woff2'),
+        url('subset-MiSans-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MiSans';
+    src: url('subset-MiSans-Heavy.woff2') format('woff2'),
+        url('subset-MiSans-Heavy.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MiSans Normal';
+    src: url('subset-MiSans-Normal.woff2') format('woff2'),
+        url('subset-MiSans-Normal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MiSans';
+    src: url('subset-MiSans-Semibold.woff2') format('woff2'),
+        url('subset-MiSans-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MiSans';
+    src: url('subset-MiSans-Thin.woff2') format('woff2'),
+        url('subset-MiSans-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MiSans';
+    src: url('subset-MiSans-Demibold.woff2') format('woff2'),
+        url('subset-MiSans-Demibold.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MiSans';
+    src: url('subset-MiSans-Light.woff2') format('woff2'),
+        url('subset-MiSans-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MiSans';
+    src: url('subset-MiSans-Regular.woff2') format('woff2'),
+        url('subset-MiSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MiSans';
+    src: url('subset-MiSans-Medium.woff2') format('woff2'),
+        url('subset-MiSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
