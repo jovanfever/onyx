@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Universal Sans Display';
+    src: url('UniversalSansDisplay-Light.woff2') format('woff2'),
+        url('UniversalSansDisplay-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Universal Sans Display';
+    src: url('UniversalSansDisplay-Medium.woff2') format('woff2'),
+        url('UniversalSansDisplay-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Universal Sans Display';
+    src: url('UniversalSansDisplay-Bold.woff2') format('woff2'),
+        url('UniversalSansDisplay-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Universal Sans Display';
+    src: url('UniversalSansDisplay-Regular.woff2') format('woff2'),
+        url('UniversalSansDisplay-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Universal Sans Display';
+    src: url('UniversalSansDisplay-Thin.woff2') format('woff2'),
+        url('UniversalSansDisplay-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Universal Sans Text';
+    src: url('UniversalSans-Medium.woff2') format('woff2'),
+        url('UniversalSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Universal Sans Text';
+    src: url('UniversalSans-Bold.woff2') format('woff2'),
+        url('UniversalSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Universal Sans Text';
+    src: url('UniversalSans-Regular.woff2') format('woff2'),
+        url('UniversalSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Universal Sans Text';
+    src: url('UniversalSans-Thin.woff2') format('woff2'),
+        url('UniversalSans-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Universal Sans Text';
+    src: url('UniversalSans-Light.woff2') format('woff2'),
+        url('UniversalSans-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
