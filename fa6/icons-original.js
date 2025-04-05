@@ -1,4 +1,4 @@
-const CDN_BASE_URL = 'https://cdn.jsdelivr.net/gh/jovanfever/onyx@49.0.0/fa6/svgs';
+const CDN_BASE_URL = 'https://cdn.jsdelivr.net/gh/jovanfever/onyx@51.0.0/fa6/svgs';
 
 // Preload image function
 function preloadImage(src) {
