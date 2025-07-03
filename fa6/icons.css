@@ -1,4 +1,20 @@
-.fa-regular,.fa-light,.fa-brands,.fa-duotone,.fa-sharp-duotone-solid,.fa-sharp-light,.fa-sharp-regular,.fa-sharp-solid,.fa-sharp-thin,.fa-solid,.fa-thin {
+.fa-regular,
+.fa-light,
+.fa-brands,
+.fa-duotone,
+.fa-duotone-light,
+.fa-duotone-regular,
+.fa-duotone-thin,
+.fa-sharp-duotone-solid,
+.fa-sharp-duotone-thin,
+.fa-sharp-duotone-light,
+.fa-sharp-duotone-regular,
+.fa-sharp-light,
+.fa-sharp-regular,
+.fa-sharp-solid,
+.fa-sharp-thin,
+.fa-solid,
+.fa-thin {
     display: inline-block;
     width: 1em;
     height: 1em;
