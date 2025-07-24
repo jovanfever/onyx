@@ -28,7 +28,7 @@ function loadHighIcons() {
         if (iconName) {
             const iconNameFormatted = iconName.split("uicn-")[1];
             const variantSuffix = getIconVariantSuffix(iconClasses);
-            const imagePath = `https://cdn.jsdelivr.net/gh/jovanfever/onyx@53.0.0/uicons/${variantSuffix}/${iconNameFormatted}.svg`;
+            const imagePath = `https://cdn.jsdelivr.net/gh/jovanfever/onyx@54.0.0/uicons/${variantSuffix}/${iconNameFormatted}.svg`;
 
             // Preload the image
             preloadImage(imagePath);

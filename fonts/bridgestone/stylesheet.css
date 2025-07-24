@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'BridgestoneType';
+    src: url('BridgestoneType-Bold.woff2') format('woff2'),
+        url('BridgestoneType-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BridgestoneType';
+    src: url('BridgestoneType-BoldItalic.woff2') format('woff2'),
+        url('BridgestoneType-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BridgestoneType';
+    src: url('BridgestoneType-Italic.woff2') format('woff2'),
+        url('BridgestoneType-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BridgestoneType Cd';
+    src: url('BridgestoneTypeCd-Bold.woff2') format('woff2'),
+        url('BridgestoneTypeCd-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BridgestoneType';
+    src: url('BridgestoneType.woff2') format('woff2'),
+        url('BridgestoneType.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BridgestoneType Cd';
+    src: url('BridgestoneTypeCd.woff2') format('woff2'),
+        url('BridgestoneTypeCd.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
