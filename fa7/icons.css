@@ -1,0 +1,247 @@
+.fa-regular,
+.fa-light,
+.fa-brands,
+.fa-duotone,
+.fa-duotone-light,
+.fa-duotone-regular,
+.fa-duotone-thin,
+.fa-sharp-duotone-solid,
+.fa-sharp-duotone-thin,
+.fa-sharp-duotone-light,
+.fa-sharp-duotone-regular,
+.fa-sharp-light,
+.fa-sharp-regular,
+.fa-sharp-solid,
+.fa-sharp-thin,
+.fa-solid,
+.fa-thin,
+.fa-etch-solid,
+.fa-chisel-regular,
+.fa-whiteboard-semibold,
+.fa-thumbprint-light,
+.fa-slab-regular,
+.fa-slab-press-regular,
+.fa-notdog-solid,
+.fa-notdog-duo-solid,
+.fa-jelly-regular,
+.fa-jelly-fill-regular,
+.fa-jelly-duo-regular {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    /*  vertical-align: sub; */
+    /* margin-right: .25rem !important; */
+    vertical-align: -0.15em;
+    width: 1.25em;
+}
+
+.fa-fw {
+    width: 1.25em;
+}
+
+.fa-1_25x {
+    width: 1.25em;
+    height: 1.25em;
+}
+
+.fa-1_5x {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.fa-2x {
+    width: 2em;
+    height: 2em;
+}
+
+.fa-3x {
+    width: 3em;
+    height: 3em;
+}
+
+.fa-4x {
+    width: 4em;
+    height: 4em;
+}
+
+.filter-red {
+    filter: brightness(0) saturate(100%) invert(20%) sepia(90%) saturate(7451%) hue-rotate(358deg) brightness(93%) contrast(107%);
+}
+
+.filter-white {
+    filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(7461%) hue-rotate(296deg) brightness(105%) contrast(90%);
+}
+
+@keyframes rotateClockwise {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.fa-spin-effect {
+    display: inline-block;
+    /* Ensure the element respects the transform */
+    animation: rotateClockwise 2s linear infinite;
+    /* Rotate continuously */
+}
+
+@keyframes flip {
+    0% {
+        transform: rotateY(0deg);
+    }
+
+    50% {
+        transform: rotateY(180deg);
+    }
+
+    100% {
+        transform: rotateY(360deg);
+    }
+}
+
+.fa-flip-effect {
+    display: inline-block;
+    /* Ensure the element respects the transform */
+    animation: flip 2s linear infinite;
+    /* Apply the flip animation */
+    transform-style: preserve-3d;
+    /* Preserve 3D space for the flip effect */
+}
+
+@keyframes bounce {
+
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+        transform: translateY(0);
+    }
+
+    40% {
+        transform: translateY(-10px);
+    }
+
+    60% {
+        transform: translateY(-5px);
+    }
+}
+
+.fa-bounce-effect {
+    display: inline-block;
+    /* Ensure the element respects the transform */
+    animation: bounce 2s infinite;
+    /* Apply the bounce animation */
+}
+
+@keyframes fade {
+
+    0%,
+    100% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.5;
+    }
+}
+
+.fa-fade-effect {
+    display: inline-block;
+    /* Ensure the element respects the transform */
+    animation: fade 1s infinite;
+    /* Apply the fade animation */
+}
+
+@keyframes beatFade {
+
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+
+    40% {
+        transform: scale(1.1);
+        opacity: 0.25;
+    }
+
+    60% {
+        transform: scale(1.05);
+        opacity: 0.75;
+    }
+}
+
+.fa-beat-fade-effect {
+    display: inline-block;
+    /* Ensure the element respects the transform */
+    animation: beatFade 2s infinite;
+    /* Apply the beat-fade animation */
+}
+
+
+@keyframes beat {
+
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+        transform: scale(1);
+    }
+
+    40% {
+        transform: scale(1.1);
+    }
+
+    60% {
+        transform: scale(1.05);
+    }
+}
+
+.fa-beat-effect {
+    display: inline-block;
+    /* Ensure the element respects the transform */
+    animation: beat 1s infinite;
+    /* Apply the beat animation */
+}
+
+@keyframes shake {
+
+    0%,
+    100% {
+        transform: translateX(0);
+    }
+
+    10%,
+    30%,
+    50%,
+    70%,
+    90% {
+        transform: translateX(-3px);
+    }
+
+    20%,
+    40%,
+    60%,
+    80% {
+        transform: translateX(3px);
+    }
+}
+
+.fa-shake-effect {
+    display: inline-block;
+    /* Ensure the element respects the transform */
+    animation: shake 1s infinite;
+    /* Apply the shake animation */
+}
