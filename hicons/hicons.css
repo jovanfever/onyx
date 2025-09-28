@@ -8,6 +8,11 @@
     margin-right: .25rem !important;
 }
 
+.hi-small {
+    width: 16px;
+    height: 16px;
+}
+
 .hi-1_25x {
     width: 23px;
     height: 23px;
