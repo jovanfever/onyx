@@ -1,4 +1,4 @@
-const CDN_BASE_URL = 'https://cdn.jsdelivr.net/gh/jovanfever/onyx@57.0.0/fa7/svgs';
+const CDN_BASE_URL = 'https://cdn.jsdelivr.net/gh/jovanfever/onyx@58.0.0/fa7/svgs';
 
 // Preload image function
 function preloadImage(src) {
@@ -36,6 +36,9 @@ const folderMap = {
     "fa-jelly-regular": "jelly-regular",
     "fa-jelly-fill-regular": "jelly-fill-regular",
     "fa-jelly-duo-regular": "jelly-duo-regular",
+    "fa-utility-fill-semibold": "utility-fill-semibold",
+    "fa-utility-duo-semibold": "utility-duo-semibold",
+    "fa-utility-semibold": "utility-semibold"
 };
 
 // Excluded styles as a Set for faster membership checks

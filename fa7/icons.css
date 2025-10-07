@@ -25,7 +25,10 @@
 .fa-notdog-duo-solid,
 .fa-jelly-regular,
 .fa-jelly-fill-regular,
-.fa-jelly-duo-regular {
+.fa-jelly-duo-regular,
+.fa-utility-fill-semibold,
+.fa-utility-duo-semibold,
+.fa-utility-semibold {
     display: inline-block;
     width: 1em;
     height: 1em;
