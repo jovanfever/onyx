@@ -5,14 +5,15 @@ function preloadImage(src) {
 
 function getIconVariantSuffix(iconClasses) {
     const classSuffixMap = {
-        "hi-duotone": "-duotone-rounded",
-        "hi-twotone": "-twotone-rounded",
-        "hi-solid": "-solid-rounded",
-        "hi-bulk": "-bulk-rounded",
-        "hi-sharp-solid": "-solid-sharp",
-        "hi-sharp-stroke": "-stroke-sharp",
-        "hi-solid-standard": "-solid-standard",
-        "hi-stroke-standard": "-stroke-standard",
+        "hi-duotone": "duotone-rounded",
+        "hi-twotone": "twotone-rounded",
+        "hi-solid": "solid-rounded",
+        "hi-bulk": "bulk-rounded",
+        "hi-sharp-solid": "solid-sharp",
+        "hi-sharp-stroke": "stroke-sharp",
+        "hi-solid-standard": "solid-standard",
+        "hi-duotone-standard": "duotone-standard",
+        "hi-stroke-standard": "stroke-standard",
     };
 
     for (const [className, suffix] of Object.entries(classSuffixMap)) {
@@ -20,7 +21,7 @@ function getIconVariantSuffix(iconClasses) {
             return suffix;
         }
     }
-    return "-stroke-rounded"; // Default suffix
+    return "stroke-rounded"; // Default suffix
 }
 
 function loadHighIcons() {
@@ -32,7 +33,7 @@ function loadHighIcons() {
         if (iconName) {
             const iconNameFormatted = iconName.split("hicn-")[1];
             const variantSuffix = getIconVariantSuffix(iconClasses);
-            const imagePath = `https://cdn.jsdelivr.net/gh/jovanfever/onyx@58.0.0/hicons/icons/${iconNameFormatted}${variantSuffix}.svg`;
+            const imagePath = `https://cdn.jsdelivr.net/gh/jovanfever/onyx@59.0.0/hicons/icons/${variantSuffix}/${iconNameFormatted}-${variantSuffix}.svg`;
 
             // Preload the image
             preloadImage(imagePath);
