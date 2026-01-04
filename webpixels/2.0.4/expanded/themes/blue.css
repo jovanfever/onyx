@@ -1,0 +1,74 @@
+/**
+ * Theme: blue
+ */
+.theme-blue {
+  --x-primary: #335ccf;
+  --x-primary-rgb: 51, 92, 207;
+  --x-primary-text-emphasis: rgb(20.4, 36.8, 82.8);
+  --x-primary-bg-subtle: rgb(246.84, 248.48, 253.08);
+  --x-primary-border-subtle: rgb(173.4, 189.8, 235.8);
+  --x-secondary: rgb(10.2, 18.4, 41.4);
+  --x-secondary-rgb: 10, 18, 41;
+  --x-secondary-text-emphasis: rgb(4.08, 7.36, 16.56);
+  --x-secondary-bg-subtle: rgb(206.04, 207.68, 212.28);
+  --x-secondary-border-subtle: rgb(157.08, 160.36, 169.56);
+  --x-link-color: $primary;
+  --x-link-color-rgb: $primary-rgba;
+  --x-link-hover-color: $secondary;
+  --x-link-hover-color-rgb: 10, 18, 41;
+}
+.theme-blue .btn-primary {
+  --x-btn-bg: var(--x-primary);
+  --x-btn-color: var(--x-white);
+  --x-btn-border-color: var(--x-primary);
+  --x-btn-hover-bg: rgb(75.7714285714, 111.7928571429, 212.8285714286);
+  --x-btn-hover-color: #FFF;
+  --x-btn-hover-border-color: rgb(75.7714285714, 111.7928571429, 212.8285714286);
+  --x-btn-active-bg: rgb(75.7714285714, 111.7928571429, 212.8285714286);
+  --x-btn-active-color: #FFF;
+  --x-btn-active-border-color: rgb(75.7714285714, 111.7928571429, 212.8285714286);
+}
+.theme-blue .btn-secondary {
+  --x-btn-bg: var(--x-secondary);
+  --x-btn-color: var(--x-white);
+  --x-btn-border-color: var(--x-secondary);
+  --x-btn-hover-bg: rgb(16.2488372093, 29.311627907, 65.9511627907);
+  --x-btn-hover-color: #FFF;
+  --x-btn-hover-border-color: rgb(16.2488372093, 29.311627907, 65.9511627907);
+  --x-btn-active-bg: rgb(16.2488372093, 29.311627907, 65.9511627907);
+  --x-btn-active-color: #FFF;
+  --x-btn-active-border-color: rgb(16.2488372093, 29.311627907, 65.9511627907);
+}
+.theme-blue .btn-inverse {
+  --x-btn-bg: var(--x-white);
+  --x-btn-color: var(--x-dark);
+  --x-btn-border-color: var(--x-white);
+  --x-btn-hover-bg: rgb(38.3, 38.3, 38.3);
+  --x-btn-hover-color: #FFF;
+  --x-btn-hover-border-color: rgb(38.3, 38.3, 38.3);
+  --x-btn-active-bg: rgb(38.3, 38.3, 38.3);
+  --x-btn-active-color: #FFF;
+  --x-btn-active-border-color: rgb(38.3, 38.3, 38.3);
+}
+.theme-blue .btn-outline-primary {
+  --x-btn-color: var(--x-primary);
+  --x-btn-border-color: var(--x-primary);
+  --x-btn-hover-bg: rgb(75.7714285714, 111.7928571429, 212.8285714286);
+  --x-btn-hover-color: #FFF;
+  --x-btn-hover-border-color: #335ccf;
+  --x-btn-active-bg: #335ccf;
+  --x-btn-active-color: #FFF;
+  --x-btn-active-border-color: rgb(75.7714285714, 111.7928571429, 212.8285714286);
+}
+.theme-blue .btn-outline-secondary {
+  --x-btn-color: var(--x-secondary);
+  --x-btn-border-color: var(--x-secondary);
+  --x-btn-hover-bg: rgb(16.2488372093, 29.311627907, 65.9511627907);
+  --x-btn-hover-color: #FFF;
+  --x-btn-hover-border-color: rgb(10.2, 18.4, 41.4);
+  --x-btn-active-bg: rgb(10.2, 18.4, 41.4);
+  --x-btn-active-color: #FFF;
+  --x-btn-active-border-color: rgb(16.2488372093, 29.311627907, 65.9511627907);
+}
+
+/*# sourceMappingURL=blue.css.map */

@@ -11,7 +11,7 @@ function loadLucideIcons() {
 
         if (iconName) {
             const iconNameFormatted = iconName.split("luicn-")[1];
-            const imagePath = `https://cdn.jsdelivr.net/gh/jovanfever/onyx@59.0.0/lucide/icons/${iconNameFormatted}.svg`;
+            const imagePath = `https://cdn.jsdelivr.net/gh/jovanfever/onyx@60.0.0/lucide/icons/${iconNameFormatted}.svg`;
 
             // Preload the image
             preloadImage(imagePath);

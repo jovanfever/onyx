@@ -33,7 +33,7 @@ function loadHighIcons() {
         if (iconName) {
             const iconNameFormatted = iconName.split("hicn-")[1];
             const variantSuffix = getIconVariantSuffix(iconClasses);
-            const imagePath = `https://cdn.jsdelivr.net/gh/jovanfever/onyx@59.0.0/hicons/icons/${variantSuffix}/${iconNameFormatted}-${variantSuffix}.svg`;
+            const imagePath = `https://cdn.jsdelivr.net/gh/jovanfever/onyx@60.0.0/hicons/icons/${variantSuffix}/${iconNameFormatted}-${variantSuffix}.svg`;
 
             // Preload the image
             preloadImage(imagePath);

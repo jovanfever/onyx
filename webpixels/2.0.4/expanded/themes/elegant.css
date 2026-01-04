@@ -1,0 +1,97 @@
+/**
+ * Theme: elegant
+ */
+.theme-elegant {
+  --x-border-radius: 0.375rem;
+  --x-font-display: var(--font-ibm-plex-mono);
+  --x-primary: #000;
+  --x-primary-rgb: 0, 0, 0;
+  --x-primary-text-emphasis: black;
+  --x-primary-bg-subtle: rgb(244.8, 244.8, 244.8);
+  --x-primary-border-subtle: #999999;
+  --x-secondary: rgb(40.8, 73.6, 165.6);
+  --x-secondary-rgb: 41, 74, 166;
+  --x-secondary-text-emphasis: rgb(16.32, 29.44, 66.24);
+  --x-secondary-bg-subtle: rgb(212.16, 218.72, 237.12);
+  --x-secondary-border-subtle: rgb(169.32, 182.44, 219.24);
+  --x-link-color: $primary;
+  --x-link-color-rgb: $primary-rgba;
+  --x-link-hover-color: $secondary;
+  --x-link-hover-color-rgb: 41, 74, 166;
+}
+.theme-elegant .btn {
+  --x-btn-border-radius: 0.375rem;
+  --x-btn-box-shadow: none;
+}
+.theme-elegant .btn-primary {
+  --x-btn-bg: var(--x-primary);
+  --x-btn-color: var(--x-white);
+  --x-btn-border-color: var(--x-primary);
+  --x-btn-hover-bg: rgb(15.3, 15.3, 15.3);
+  --x-btn-hover-color: #FFF;
+  --x-btn-hover-border-color: rgb(15.3, 15.3, 15.3);
+  --x-btn-active-bg: rgb(15.3, 15.3, 15.3);
+  --x-btn-active-color: #FFF;
+  --x-btn-active-border-color: rgb(15.3, 15.3, 15.3);
+}
+.theme-elegant .btn-secondary {
+  --x-btn-bg: var(--x-secondary);
+  --x-btn-color: var(--x-white);
+  --x-btn-border-color: var(--x-secondary);
+  --x-btn-hover-bg: rgb(46.8488372093, 84.511627907, 190.1511627907);
+  --x-btn-hover-color: #FFF;
+  --x-btn-hover-border-color: rgb(46.8488372093, 84.511627907, 190.1511627907);
+  --x-btn-active-bg: rgb(46.8488372093, 84.511627907, 190.1511627907);
+  --x-btn-active-color: #FFF;
+  --x-btn-active-border-color: rgb(46.8488372093, 84.511627907, 190.1511627907);
+}
+.theme-elegant .btn-inverse {
+  --x-btn-bg: var(--x-white);
+  --x-btn-color: var(--x-dark);
+  --x-btn-border-color: var(--x-white);
+  --x-btn-hover-bg: rgb(38.3, 38.3, 38.3);
+  --x-btn-hover-color: #FFF;
+  --x-btn-hover-border-color: rgb(38.3, 38.3, 38.3);
+  --x-btn-active-bg: rgb(38.3, 38.3, 38.3);
+  --x-btn-active-color: #FFF;
+  --x-btn-active-border-color: rgb(38.3, 38.3, 38.3);
+}
+.theme-elegant .btn-outline-primary {
+  --x-btn-color: var(--x-primary);
+  --x-btn-border-color: var(--x-primary);
+  --x-btn-hover-bg: rgb(15.3, 15.3, 15.3);
+  --x-btn-hover-color: #FFF;
+  --x-btn-hover-border-color: #000;
+  --x-btn-active-bg: #000;
+  --x-btn-active-color: #FFF;
+  --x-btn-active-border-color: rgb(15.3, 15.3, 15.3);
+}
+.theme-elegant .btn-outline-secondary {
+  --x-btn-color: var(--x-secondary);
+  --x-btn-border-color: var(--x-secondary);
+  --x-btn-hover-bg: rgb(46.8488372093, 84.511627907, 190.1511627907);
+  --x-btn-hover-color: #FFF;
+  --x-btn-hover-border-color: rgb(40.8, 73.6, 165.6);
+  --x-btn-active-bg: rgb(40.8, 73.6, 165.6);
+  --x-btn-active-color: #FFF;
+  --x-btn-active-border-color: rgb(46.8488372093, 84.511627907, 190.1511627907);
+}
+.theme-elegant .card {
+  --x-card-bg: var(--x-body-bg);
+  --x-card-box-shadow: none;
+  --x-card-cap-bg: var(--x-body-bg);
+}
+.theme-elegant .dropdown-menu {
+  --x-dropdown-bg: #FFF;
+}
+
+@media only screen and (prefers-color-scheme: dark) {
+  :root:not([data-bs-theme]) .theme-elegant {
+    --x-body-bg: #000;
+  }
+}
+[data-bs-theme=dark] .theme-elegant {
+  --x-body-bg: #000;
+}
+
+/*# sourceMappingURL=elegant.css.map */
