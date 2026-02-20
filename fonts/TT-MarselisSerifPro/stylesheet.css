@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'Marselis Serif Pro';
+    src: url('MarselisSerifPro-BoldItalic.woff2') format('woff2'),
+        url('MarselisSerifPro-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Marselis Serif Pro';
+    src: url('MarselisSerifPro-Italic.woff2') format('woff2'),
+        url('MarselisSerifPro-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Marselis Serif Pro';
+    src: url('MarselisSerifPro-Light.woff2') format('woff2'),
+        url('MarselisSerifPro-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Marselis Serif Pro';
+    src: url('MarselisSerifPro.woff2') format('woff2'),
+        url('MarselisSerifPro.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Marselis Serif Pro';
+    src: url('MarselisSerifPro-LightItalic.woff2') format('woff2'),
+        url('MarselisSerifPro-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Marselis Serif Pro';
+    src: url('MarselisSerifPro-Black.woff2') format('woff2'),
+        url('MarselisSerifPro-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Marselis Serif Pro';
+    src: url('MarselisSerifPro-BlackItalic.woff2') format('woff2'),
+        url('MarselisSerifPro-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Marselis Serif Pro';
+    src: url('MarselisSerifPro-Bold.woff2') format('woff2'),
+        url('MarselisSerifPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Marselis Serif Pro';
+    src: url('MarselisSerifPro-BoldItalic.woff2') format('woff2'),
+        url('MarselisSerifPro-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Marselis Serif Pro';
+    src: url('MarselisSerifPro-Italic.woff2') format('woff2'),
+        url('MarselisSerifPro-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Marselis Serif Pro';
+    src: url('MarselisSerifPro-Light.woff2') format('woff2'),
+        url('MarselisSerifPro-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Marselis Serif Pro';
+    src: url('MarselisSerifPro-LightItalic.woff2') format('woff2'),
+        url('MarselisSerifPro-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Marselis Serif Pro';
+    src: url('MarselisSerifPro.woff2') format('woff2'),
+        url('MarselisSerifPro.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Marselis Serif Pro';
+    src: url('MarselisSerifPro-Black.woff2') format('woff2'),
+        url('MarselisSerifPro-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Marselis Serif Pro';
+    src: url('MarselisSerifPro-BlackItalic.woff2') format('woff2'),
+        url('MarselisSerifPro-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Marselis Serif Pro';
+    src: url('MarselisSerifPro-Bold.woff2') format('woff2'),
+        url('MarselisSerifPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
