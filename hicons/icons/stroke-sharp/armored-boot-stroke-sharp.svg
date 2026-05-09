@@ -3,6 +3,6 @@
 <path d="M3 17C3 17 5.00702 16 5.9505 16.2939C7.07883 16.6454 7.96297 17.6232 9 16.2713C10.1316 14.9447 11.9915 14 14 14" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
 <path d="M19.0586 17C18.0586 17.3333 16.0586 18.8 16.0586 22" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M3.05859 8.49979H7.05859M3 11.9998H7" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
-<path d="M9.99981 6H10.0088" stroke="#141B34" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M9.99981 10H10.0088" stroke="#141B34" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.125 9.99979H10M10.25 9.99979C10.25 10.1379 10.1381 10.2498 10 10.2498C9.86193 10.2498 9.75 10.1379 9.75 9.99979C9.75 9.86172 9.86193 9.74979 10 9.74979C10.1381 9.74979 10.25 9.86172 10.25 9.99979Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M10.125 5.99979H10M10.25 5.99979C10.25 6.13787 10.1381 6.24979 10 6.24979C9.86193 6.24979 9.75 6.13787 9.75 5.99979C9.75 5.86172 9.86193 5.74979 10 5.74979C10.1381 5.74979 10.25 5.86172 10.25 5.99979Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="round"/>
 </svg>

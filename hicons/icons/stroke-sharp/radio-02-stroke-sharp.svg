@@ -1,8 +1,8 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M22 6H2V20H22V6Z" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
-<path d="M7 15H7.00898" stroke="#141B34" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"/>
-<path d="M6 20V22M18 20V22" stroke="#141B34" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round"/>
-<path d="M5 6L19 2" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
-<path d="M10 11H5" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
-<circle cx="15" cy="13" r="3" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M22 6H2V20H22V6Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M6 20V22M18 20V22" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M19 2L5.55258 5.84212" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M9 11H6" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
+<circle cx="15" cy="13" r="3" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M7.125 15H7M7.25 15C7.25 15.1381 7.13807 15.25 7 15.25C6.86193 15.25 6.75 15.1381 6.75 15C6.75 14.8619 6.86193 14.75 7 14.75C7.13807 14.75 7.25 14.8619 7.25 15Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="round"/>
 </svg>

@@ -1,8 +1,8 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M6 10L8 12M8 10L6 12" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
-<path d="M11 10L13 12M13 10L11 12" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
-<path d="M16 10L18 12M18 10L16 12" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
-<path d="M21 7H3V15H21V7Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
-<path d="M19 4V2H5V4M5 18V22H19V18" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
-<path d="M12 19V19.01" stroke="#141B34" stroke-width="2" stroke-linecap="square"/>
+<path d="M17 7V2H3V22H17V13" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M21 7H7V13H10V15L13 13H21V7Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M10.125 19H10M10.25 19C10.25 19.1381 10.1381 19.25 10 19.25C9.86193 19.25 9.75 19.1381 9.75 19C9.75 18.8619 9.86193 18.75 10 18.75C10.1381 18.75 10.25 18.8619 10.25 19Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M14.125 10H14M14.25 10C14.25 10.1381 14.1381 10.25 14 10.25C13.8619 10.25 13.75 10.1381 13.75 10C13.75 9.86193 13.8619 9.75 14 9.75C14.1381 9.75 14.25 9.86193 14.25 10Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M10.625 10H10.5M10.75 10C10.75 10.1381 10.6381 10.25 10.5 10.25C10.3619 10.25 10.25 10.1381 10.25 10C10.25 9.86193 10.3619 9.75 10.5 9.75C10.6381 9.75 10.75 9.86193 10.75 10Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M17.625 10H17.5M17.75 10C17.75 10.1381 17.6381 10.25 17.5 10.25C17.3619 10.25 17.25 10.1381 17.25 10C17.25 9.86193 17.3619 9.75 17.5 9.75C17.6381 9.75 17.75 9.86193 17.75 10Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="round"/>
 </svg>

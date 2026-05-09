@@ -1,6 +1,8 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M21 3H3V21H21V3Z" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
-<path d="M3 12H21" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
-<path d="M11 7.5L18 7.5M9 7.5H6" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
-<path d="M11 16.5L18 16.5M9 16.5H6" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M3 12H21" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M11 7.5L17 7.5" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M7.125 7.5H7M7.25 7.5C7.25 7.63807 7.13807 7.75 7 7.75C6.86193 7.75 6.75 7.63807 6.75 7.5C6.75 7.36193 6.86193 7.25 7 7.25C7.13807 7.25 7.25 7.36193 7.25 7.5Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M11 16.5L17 16.5" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M7.125 16.5H7M7.25 16.5C7.25 16.6381 7.13807 16.75 7 16.75C6.86193 16.75 6.75 16.6381 6.75 16.5C6.75 16.3619 6.86193 16.25 7 16.25C7.13807 16.25 7.25 16.3619 7.25 16.5Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M21 3H3V21H21V3Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
 </svg>

@@ -3,9 +3,9 @@
 <path d="M22 6C22 5.44772 21.5523 5 21 5H15V13.3682C15.7329 12.5293 16.8052 12 18 12C20.209 12 21.9998 13.8088 22 16.04V6Z" fill="#141B34"/>
 <path d="M3.31641 18.5615L8 17V2L2.55273 4.72363C2.21398 4.89303 2 5.23941 2 5.61816V17.6123C2 18.2949 2.66888 18.7774 3.31641 18.5615Z" fill="#141B34"/>
 </g>
-<path d="M22 10V6C22 5.44772 21.5523 5 21 5H15L8.4263 2.1827C8.15593 2.06683 7.84826 2.07587 7.58517 2.20742L2.55279 4.72361C2.214 4.893 2 5.23926 2 5.61803V17.6126C2 18.2951 2.6687 18.7771 3.31623 18.5613L8 17L11 18.2857" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M8 2L8 17" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M22 9.89282V5.89552C22 5.34361 21.5523 4.8962 21 4.8962H15L8.4263 2.0808C8.15593 1.96501 7.84826 1.97404 7.58517 2.1055L2.55279 4.61999C2.214 4.78927 2 5.1353 2 5.51381V17.9999C2 18.682 2.6687 19.1636 3.31623 18.948L8 17.3877L11 18.6726" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8 2L8 17" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M15 5V9.5" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M18 12C15.7909 12 14 13.8089 14 16.0404C14 18.4477 16.1791 19.6616 17.5422 21.3546C17.7726 21.6408 18.2381 21.6482 18.4737 21.3661C19.8604 19.7054 22 18.4008 22 16.0404C22 13.8089 20.2091 12 18 12Z" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
-<path d="M18 16H18.009" stroke="#141B34" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18 12C15.7909 12 14 13.8089 14 16.0404C14 18.742 16.7445 19.9406 18 22C19.2995 20.0115 22 18.6922 22 16.0404C22 13.8089 20.2091 12 18 12Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18.125 16H18M18.25 16C18.25 16.1381 18.1381 16.25 18 16.25C17.8619 16.25 17.75 16.1381 17.75 16C17.75 15.8619 17.8619 15.75 18 15.75C18.1381 15.75 18.25 15.8619 18.25 16Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
