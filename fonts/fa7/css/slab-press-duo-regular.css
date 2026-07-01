@@ -1,0 +1,71 @@
+/*!
+ * Font Awesome Pro 7.3.0 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license (Commercial License)
+ * Copyright 2026 Fonticons, Inc.
+ */
+:root, :host {
+  --fa-family-slab-press-duo: 'Font Awesome 7 Slab Press Duo';
+  --fa-font-slab-press-duo-regular: normal 400 1em/1 var(--fa-family-slab-press-duo);
+  /* deprecated: this older custom property will be removed next major release */
+  --fa-style-family-slab-press-duo: var(--fa-family-slab-press-duo);
+}
+
+@font-face {
+  font-family: "Font Awesome 7 Slab Press Duo";
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("../webfonts/fa-slab-press-duo-regular-400.woff2");
+}
+.faslpdr {
+  --fa-family: var(--fa-family-slab-press-duo);
+  --fa-style: 400;
+  position: relative;
+  letter-spacing: normal;
+}
+
+.fa-slab-press-duo {
+  --fa-family: var(--fa-family-slab-press-duo);
+  position: relative;
+  letter-spacing: normal;
+}
+
+.fa-regular {
+  --fa-style: 400;
+}
+
+.faslpdr::before,
+.fa-slab-press-duo::before {
+  position: absolute;
+  color: var(--fa-primary-color, currentColor);
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.faslpdr::after,
+.fa-slab-press-duo::after {
+  color: var(--fa-secondary-color, currentColor);
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.fa-swap-opacity .faslpdr::before,
+.fa-swap-opacity .fa-slab-press-duo::before,
+.fa-swap-opacity.faslpdr::before,
+.fa-swap-opacity.fa-slab-press-duo::before {
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.fa-swap-opacity .faslpdr::after,
+.fa-swap-opacity .fa-slab-press-duo::after,
+.fa-swap-opacity.faslpdr::after,
+.fa-swap-opacity.fa-slab-press-duo::after {
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.fa-li.faslpdr,
+.fa-li.fa-slab-press-duo,
+.fa-stack-1x.faslpdr,
+.fa-stack-1x.fa-slab-press-duo,
+.fa-stack-2x.faslpdr,
+.fa-stack-2x.fa-slab-press-duo {
+  position: absolute;
+}
