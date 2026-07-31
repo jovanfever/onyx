@@ -1,2 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>icons/workout-kicking-duotone-standard.svg</Key><BucketName>hugeiconscdn</BucketName><Resource>/hugeiconscdn/icons/workout-kicking-duotone-standard.svg</Resource><RequestId>18BE2C8259C830F9</RequestId><HostId>dd9025bab4ad464b049177c95eb6ebf374d3b3fd1af9251148b658df7ac2e3e8</HostId></Error>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.4">
+<path d="M7 5.5C7 6.32843 6.32843 7 5.5 7C4.67157 7 4 6.32843 4 5.5C4 4.67157 4.67157 4 5.5 4C6.32843 4 7 4.67157 7 5.5Z" fill="#141B34"/>
+<path d="M10.6022 6.63473C10.156 6.28765 9.51096 6.37923 9.17894 6.83681L8.69772 7.5L8.37883 7.90397C8.02608 8.35083 8.11704 9.00161 8.57879 9.33464L11.9648 11.7767C12.481 12.149 13.2091 11.9507 13.4652 11.368L13.9727 10.2134C14.1571 9.79394 14.0328 9.30288 13.6712 9.02161L10.6022 6.63473Z" fill="#141B34"/>
+</g>
+<path d="M7 5.5C7 6.32843 6.32843 7 5.5 7C4.67157 7 4 6.32843 4 5.5C4 4.67157 4.67157 4 5.5 4C6.32843 4 7 4.67157 7 5.5Z" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M9.78613 6L8.69772 7.5L7.73173 8.72371L6.26154 10.6562C6.09463 10.8756 6.0257 11.1542 6.07101 11.4261L6.36073 13.1644C6.4411 13.6466 6.85829 14 7.34713 14H8.9489M9.78613 6L11.9629 3M9.78613 6L14.2863 9.5M14.2863 9.5L20.0004 3M14.2863 9.5L12.9676 12.5M7.73173 8.72371L12.9676 12.5M12.9676 12.5V21" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,2 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>icons/push-up-bar-duotone-standard.svg</Key><BucketName>hugeiconscdn</BucketName><Resource>/hugeiconscdn/icons/push-up-bar-duotone-standard.svg</Resource><RequestId>18BE2C3F4120DB45</RequestId><HostId>dd9025bab4ad464b049177c95eb6ebf374d3b3fd1af9251148b658df7ac2e3e8</HostId></Error>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.4" d="M8.5 3.49887H15.5C16.0523 3.49887 16.5 3.94659 16.5 4.49887V6.49988L14 7.49889L12 6.50084L10.001 7.49988L7.5 6.50084V4.49887C7.5 3.94659 7.94772 3.49887 8.5 3.49887Z" fill="#141B34"/>
+<path opacity="0.4" d="M8.5 13.4989H15.5C16.0523 13.4989 16.5 13.9466 16.5 14.4989V16.5008L14 17.4989L12 16.5008L10 17.4989L7.5 16.5008V14.4989C7.5 13.9466 7.94772 13.4989 8.5 13.4989Z" fill="#141B34"/>
+<path d="M3.99805 10.5011L3.99861 7.00067C3.99879 5.89616 4.89427 5.0009 5.99878 5.00099L7.49982 5.00112M19.9998 10.5009V7.00099C19.9998 5.89636 19.1043 5.0009 17.9997 5.00099L16.4998 5.00112" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21.5 10.5008H18.5" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M5.5 10.5008H2.5" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8.5 3.49887H15.5C16.0523 3.49887 16.5 3.94659 16.5 4.49887V6.49988L14 7.49889L12 6.50084L10.001 7.49988L7.5 6.50084V4.49887C7.5 3.94659 7.94772 3.49887 8.5 3.49887Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M3.99805 20.5011L3.99861 17.0007C3.99879 15.8962 4.89427 15.0009 5.99878 15.001L7.49982 15.0011M19.9998 20.5009V17.001C19.9998 15.8964 19.1043 15.0009 17.9997 15.001L16.4998 15.0011" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21.5 20.5008H18.5" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M5.5 20.5009L2.5 20.5008" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8.5 13.4989H15.5C16.0523 13.4989 16.5 13.9466 16.5 14.4989V16.5008L14 17.4989L12 16.5008L10 17.4989L7.5 16.5008V14.4989C7.5 13.9466 7.94772 13.4989 8.5 13.4989Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,2 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>icons/equipment-bench-press-duotone-standard.svg</Key><BucketName>hugeiconscdn</BucketName><Resource>/hugeiconscdn/icons/equipment-bench-press-duotone-standard.svg</Resource><RequestId>18BE2BE32C93F2BA</RequestId><HostId>dd9025bab4ad464b049177c95eb6ebf374d3b3fd1af9251148b658df7ac2e3e8</HostId></Error>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.4" d="M9.64874 10H14.3513C15.0626 10 15.7204 10.3778 16.0788 10.9923L19 16H5L7.92118 10.9923C8.2796 10.3778 8.93741 10 9.64874 10Z" fill="#141B34"/>
+<path d="M17.5 3V8M6.5 3V8M20 4V5.5M20 5.5V7M20 5.5H21.5M4 4V5.5M4 5.5V7M4 5.5H2.5" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.5 5.5H6.5" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M10 5.5V9.5M14 5.5V9.5" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M19 16V17C19 18.1046 18.1046 19 17 19H7C5.89543 19 5 18.1046 5 17V16L7.92118 10.9923C8.2796 10.3778 8.93741 10 9.64874 10H14.3513C15.0626 10 15.7204 10.3778 16.0788 10.9923L19 16ZM5 16H19" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M16 19V21M8 19V21" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

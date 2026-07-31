@@ -1,2 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>icons/body-part-leg-duotone-standard.svg</Key><BucketName>hugeiconscdn</BucketName><Resource>/hugeiconscdn/icons/body-part-leg-duotone-standard.svg</Resource><RequestId>18BE2BAC1743EA35</RequestId><HostId>dd9025bab4ad464b049177c95eb6ebf374d3b3fd1af9251148b658df7ac2e3e8</HostId></Error>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.4" d="M19.6709 11.2018C16.3716 3.88634 7.60131 2.30287 5.00195 2H4.00195V12C4.98548 12.9874 7.9227 14.4622 11.8472 14.018C10.314 14.2777 7.62695 16.9695 7.62695 22H15.0989L19.6203 12.7747C19.8627 12.2802 19.8972 11.7037 19.6709 11.2018Z" fill="#141B34"/>
+<path d="M5.00195 2C7.60131 2.30287 16.3716 3.88634 19.6709 11.2018C19.8972 11.7037 19.8627 12.2802 19.6203 12.7747L15.0989 22" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4.00195 12C4.99805 13 7.99805 14.5 11.998 14C10.498 14.099 7.62695 16.8 7.62695 22" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M5.00195 7C8.00195 7.5 9.50195 8 12 9.5" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,2 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>icons/gymnastic-rings-duotone-standard.svg</Key><BucketName>hugeiconscdn</BucketName><Resource>/hugeiconscdn/icons/gymnastic-rings-duotone-standard.svg</Resource><RequestId>18BE2BF83E265CA5</RequestId><HostId>dd9025bab4ad464b049177c95eb6ebf374d3b3fd1af9251148b658df7ac2e3e8</HostId></Error>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.4" d="M7.5 7C10.4577 7 12.8694 9.33471 12.9941 12.2617C11.7759 13.2705 11 14.7947 11 16.5C11 16.5795 11.0015 16.6586 11.0049 16.7373C10.0531 17.5254 8.83225 18 7.5 18C4.46243 18 2 15.5376 2 12.5C2 9.46243 4.46243 7 7.5 7Z" fill="#141B34"/>
+<path d="M16.5 22C19.5376 22 22 19.5376 22 16.5C22 13.4624 19.5376 11 16.5 11C13.4624 11 11 13.4624 11 16.5C11 19.5376 13.4624 22 16.5 22Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.5 11V2" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12 9.30301C10.9999 7.90869 9.36299 7 7.51337 7C4.46842 7 2 9.46269 2 12.5006C2 15.7438 4.92815 18.3289 8.14063 17.9659" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.5 7L7.5 2" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

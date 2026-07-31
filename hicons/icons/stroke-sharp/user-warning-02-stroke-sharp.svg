@@ -1,6 +1,5 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="11.5" cy="7.5" r="3.5" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
-<path d="M19 6V10" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
-<path d="M19 13V13.01" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
-<path d="M18 20V16C16.4032 14.7725 14.0827 14 11.5 14C8.91727 14 6.59679 14.7725 5 16V20" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M20 6V10M20 13V13.01" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
+<circle cx="12" cy="7" r="4" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M12 14C7.58172 14 4 16.7999 4 19.5V21H20V19.5C20 16.7999 16.4183 14 12 14Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
 </svg>

@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>icons/yoga-mat-duotone-standard.svg</Key><BucketName>hugeiconscdn</BucketName><Resource>/hugeiconscdn/icons/yoga-mat-duotone-standard.svg</Resource><RequestId>18BE2C83B4537B6F</RequestId><HostId>dd9025bab4ad464b049177c95eb6ebf374d3b3fd1af9251148b658df7ac2e3e8</HostId></Error>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.4" d="M6.49365 19C4.00837 19 1.99365 16.9853 1.99365 14.5C1.99365 12.9878 2.73952 11.6499 3.88342 10.834C4.61956 10.3089 5.52053 10 6.49365 10C8.36752 10 10.5063 11.5 11.0063 14.5L13.5063 13H21.5063L14.0063 19H6.49365Z" fill="#141B34"/>
+<path d="M6.00635 13.5C6.00635 15.0122 7.00635 16 8.50635 16C10.5063 16 11.1723 14.1024 10.5063 12.5C9.82939 10.8712 8.38022 10 6.50635 10C4.02107 10 2.00635 12.0147 2.00635 14.5C2.00635 16.9853 4.02107 19 6.50635 19H13.673C13.8894 19 14.0999 18.9298 14.273 18.8L22.0063 13L18.0063 13" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.0063 15.5L18.0063 9.5C18.0063 8.5 17.9501 8.02029 17.6005 7.37468C16.8352 5.96131 15.3284 5 13.5946 5C12.661 5 11.7931 5.2788 11.0714 5.75685L4.00635 10.7508" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
