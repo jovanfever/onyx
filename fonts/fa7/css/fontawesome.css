@@ -1,5 +1,5 @@
 /*!
- * Font Awesome Pro 7.3.0 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 7.3.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
  * Copyright 2026 Fonticons, Inc.
  */
@@ -10141,7 +10141,7 @@
   --fa: "\e8c4";
 }
 
-.fa-Suricata {
+.fa-suricata {
   --fa: "\e8c4";
 }
 
@@ -10159,6 +10159,26 @@
 
 .fa-file-txt {
   --fa: "\e8c6";
+}
+
+.fa-cricket-bat {
+  --fa: "\e8c8";
+}
+
+.fa-field-hockey-stick {
+  --fa: "\e8c9";
+}
+
+.fa-padel {
+  --fa: "\e8ca";
+}
+
+.fa-padel-ball {
+  --fa: "\e8cb";
+}
+
+.fa-table-tennis-paddle {
+  --fa: "\e8cc";
 }
 
 .fa-martini-glass-empty {

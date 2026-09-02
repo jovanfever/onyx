@@ -1,9 +1,10 @@
-<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M3.00623 20.5V12.5L6.00623 6.5H18.0062L21.0062 12.5V20.5H17.0062V18.5H7.00623V20.5H3.00623Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
-<path d="M21.0062 12.5L23.0062 11.5" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
-<path d="M3.00623 12.5L1.00623 11.5" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
-<path d="M3.00623 12.5H21.0062" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
-<path d="M15.0062 6.5V3.5H9.00623V6.5" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
-<path d="M6.00623 15.5H7.00623" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
-<path d="M17.0062 15.5H18.0062" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M3 21V14.5L4.5 12L6 6H18L19.5 12L21 14.5V21H17V18.5H7V21H3Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M19.5 11.5L21 11" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M4.5 11.5L3 11" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M5 11.5H6.55556H15.4444H19" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M3.5 15H5" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M19 15H20.5" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M8 15H16" stroke="#141B34" stroke-width="1.5" stroke-linecap="square"/>
+<path d="M15 6L14.5 3H9.5L9 6" stroke="#141B34" stroke-width="1.5"/>
 </svg>

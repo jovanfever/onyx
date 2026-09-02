@@ -1,7 +1,8 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path opacity="0.4" d="M3 5.5V19.9981C3 21.1027 3.89543 21.9981 5 21.9981L13 21.9981V20.6611C13 20.0548 13.2408 19.4735 13.6695 19.0448L18.3102 14.4041C18.5005 14.2138 18.7407 14.0848 19 14.0299V5.5C19 4.39543 18.1046 3.5 17 3.5H15C15 4.32843 14.3284 5 13.5 5H8.5C7.67157 5 7 4.32843 7 3.5L5 3.5C3.89543 3.5 3 4.39543 3 5.5Z" fill="#141B34"/>
-<path d="M19 9.99814L19 5.5C19 4.39543 18.1046 3.5 17 3.5H15M5 21.9981C3.89543 21.9981 3 21.1027 3 19.9981V5.5C3 4.39543 3.89543 3.5 5 3.5L7 3.5" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M13 22V20.6611C13 20.0548 13.2408 19.4735 13.6695 19.0448L18.3102 14.4041C18.5689 14.1453 18.9198 14 19.2857 14C19.6516 14 20.0025 14.1453 20.2612 14.4041L20.5959 14.7388C20.8547 14.9975 21 15.3484 21 15.7143C21 16.0802 20.8547 16.4311 20.5959 16.6898L15.9552 21.3305C15.5265 21.7592 14.9452 22 14.3389 22H13Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M13.5 2H8.5C7.67157 2 7 2.67157 7 3.5C7 4.32843 7.67157 5 8.5 5H13.5C14.3284 5 15 4.32843 15 3.5C15 2.67157 14.3284 2 13.5 2Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14 3.99903L17 3.99902C18.1046 3.99902 19 4.89445 19 5.99902V10" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M8 7C7.44772 7 7 6.55228 7 6V4H5C3.89543 4 3 4.89543 3 6V20C3 21.1046 3.89543 22 5 22H13V20L19 14V6C19 4.89543 18.1046 4 17 4H15V6C15 6.55228 14.5523 7 14 7H8Z" fill="#141B34"/>
+<path d="M5 21.9987C3.89543 21.9987 3 21.1033 3 19.9987V5.99902C3 4.89445 3.89543 3.99902 5 3.99902L8 3.99991" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13.45 4C13.2184 2.85888 12.2095 2 11 2C9.79053 2 8.78165 2.85888 8.55002 4H7.00005L7.00002 5.99998C7.00001 6.55228 7.44773 7 8.00002 7H11L14 7C14.5523 7 15 6.55228 15 6V4L13.45 4Z" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M13 20V22H15L21 16L19 14L13 20Z" stroke="#141B34" stroke-width="1.5" stroke-linejoin="round"/>
 <path d="M8 22H10" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

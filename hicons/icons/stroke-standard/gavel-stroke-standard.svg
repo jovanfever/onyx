@@ -1,6 +1,8 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M13.6464 2.64645L13.3536 2.35355C13.1272 2.12718 12.8201 2 12.5 2C12.1799 2 11.8728 2.12718 11.6464 2.35355L7.35355 6.64645C7.12718 6.87282 7 7.17986 7 7.5C7 7.82014 7.12718 8.12718 7.35355 8.35355L7.64645 8.64645C7.87282 8.87282 8.17986 9 8.5 9C8.82014 9 9.12718 8.87282 9.35355 8.64645L13.6464 4.35355C13.8728 4.12718 14 3.82014 14 3.5C14 3.17986 13.8728 2.87282 13.6464 2.64645Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M21.6464 10.6464L21.3536 10.3536C21.1272 10.1272 20.8201 10 20.5 10C20.1799 10 19.8728 10.1272 19.6464 10.3536L15.3536 14.6464C15.1272 14.8728 15 15.1799 15 15.5C15 15.8201 15.1272 16.1272 15.3536 16.3536L15.6464 16.6464C15.8728 16.8728 16.1799 17 16.5 17C16.8201 17 17.1272 16.8728 17.3536 16.6464L21.6464 12.3536C21.8728 12.1272 22 11.8201 22 11.5C22 11.1799 21.8728 10.8728 21.6464 10.6464Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M15.5 14.5L9.5 8.5L13.5 4.5L19.5 10.5L15.5 14.5Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M11.5 10.5L2.69077 18.3819C2.25122 18.7752 2 19.3371 2 19.9269C2 21.0718 2.92816 22 4.0731 22C4.6629 22 5.22478 21.7488 5.61805 21.3092L13.5 12.5" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14 2L7 9" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21 9L14 16" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8.5 8L15 14.5M19.5 10L13 3.5" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11.5 11.5L2 21" stroke="#141B34" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M22 22H11" stroke="#141B34" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M13 22V19.5C13 18.9477 13.4477 18.5 14 18.5H19C19.5523 18.5 20 18.9477 20 19.5V22" stroke="#141B34" stroke-width="1.5" stroke-linecap="round"/>
 </svg>

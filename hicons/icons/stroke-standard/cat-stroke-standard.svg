@@ -2,5 +2,10 @@
 <path d="M8 11V11.5" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M16 11V11.5" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M11 15H13L12 16L11 15Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M12 21C16.9706 21 21 17.4183 21 13C21 11.6777 20.6391 10.4303 20 9.33138C20.8117 7.03311 20.5253 4.87911 20.2104 3.67475C20.1028 3.26318 19.7182 3 19.2928 3C19.1015 3 18.914 3.05377 18.7517 3.15519L15 5.5C15 5.5 14 5 12 5C10 5 9 5.5 9 5.5L5.24831 3.15519C5.08604 3.05377 4.89854 3 4.70718 3C4.28177 3 3.89723 3.26318 3.78961 3.67475C3.4747 4.87911 3.18829 7.03311 4 9.33138C3.36093 10.4303 3 11.6777 3 13C3 17.4183 7.02944 21 12 21Z" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20.8404 11.5C20.6766 10.7327 20.3896 10.0042 19.9983 9.33138C20.81 7.03311 20.5236 4.87911 20.2087 3.67475C20.1011 3.26318 19.7165 3 19.2911 3C19.0998 3 18.9123 3.05377 18.75 3.15519L14.9983 5.5C14.9983 5.5 13.9983 5 11.9983 5C9.99831 5 8.9983 5.5 8.9983 5.5L5.24661 3.15519C5.08434 3.05377 4.89684 3 4.70549 3C4.28007 3 3.89553 3.26318 3.78792 3.67475C3.47301 4.87911 3.18659 7.03311 3.9983 9.33138C3.60701 10.0042 3.31999 10.7327 3.15625 11.5" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.5 19.333C15.9791 20.3782 14.0712 21.0002 12 21.0002C9.92877 21.0002 8.02095 20.3782 6.5 19.333" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18 14.5L22 14" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18 17L21.5 18" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6 14.5L2 14" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6 17L2.5 18" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
