@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'Rig Sans';
+    src: url('RigSans-SemiboldItalic.woff2') format('woff2'),
+        url('RigSans-SemiboldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rig Sans';
+    src: url('RigSans-Semibold.woff2') format('woff2'),
+        url('RigSans-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rig Sans';
+    src: url('RigSans-Bold.woff2') format('woff2'),
+        url('RigSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rig Sans';
+    src: url('RigSans-BoldItalic.woff2') format('woff2'),
+        url('RigSans-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rig Sans';
+    src: url('RigSans-ExtraboldItalic.woff2') format('woff2'),
+        url('RigSans-ExtraboldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rig Sans';
+    src: url('RigSans-Extrabold.woff2') format('woff2'),
+        url('RigSans-Extrabold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rig Sans';
+    src: url('RigSans-BlackItalic.woff2') format('woff2'),
+        url('RigSans-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rig Sans';
+    src: url('RigSans-ThinItalic.woff2') format('woff2'),
+        url('RigSans-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rig Sans';
+    src: url('RigSans-Black.woff2') format('woff2'),
+        url('RigSans-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rig Sans';
+    src: url('RigSans-Thin.woff2') format('woff2'),
+        url('RigSans-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rig Sans';
+    src: url('RigSans-Light.woff2') format('woff2'),
+        url('RigSans-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rig Sans';
+    src: url('RigSans-LightItalic.woff2') format('woff2'),
+        url('RigSans-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rig Sans';
+    src: url('RigSans-RegularItalic.woff2') format('woff2'),
+        url('RigSans-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rig Sans';
+    src: url('RigSans-Regular.woff2') format('woff2'),
+        url('RigSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rig Sans';
+    src: url('RigSans-MediumItalic.woff2') format('woff2'),
+        url('RigSans-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rig Sans';
+    src: url('RigSans-Medium.woff2') format('woff2'),
+        url('RigSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
